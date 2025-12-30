@@ -1,0 +1,9 @@
+filters:
+  and:
+    - file.inFolder("Research/Home/Esoterica/Centering Wisdom")
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - file.tags

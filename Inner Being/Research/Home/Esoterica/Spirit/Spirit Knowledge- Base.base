@@ -1,0 +1,14 @@
+filters:
+  and:
+    - file.inFolder("Research/Home/Esoterica/Spirit")
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - file.ctime
+      - file.links
+      - file.tags
+      - file.backlinks
+    columnSize:
+      file.name: 199

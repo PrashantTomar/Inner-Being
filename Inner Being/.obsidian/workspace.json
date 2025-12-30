@@ -1,0 +1,348 @@
+{
+  "main": {
+    "id": "0e687dc9acb5bf19",
+    "type": "split",
+    "children": [
+      {
+        "id": "5f416453bc51f97f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7bd624bd5f3a5814",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Research/Home/Speculative streams/Contemplation to heal 2nd house.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Contemplation to heal 2nd house"
+            }
+          },
+          {
+            "id": "fd31edde5dd68462",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "Research/Home/Speculative streams/Raw thought Streams.base",
+                "viewName": "Table"
+              },
+              "icon": "lucide-table",
+              "title": "Raw thought Streams"
+            }
+          },
+          {
+            "id": "82a9ac389d1cb1fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Research/Home/Speculative streams/Convergence of Business Automation, Digital Marketing, A.I, Understanding it’s verticles and horizontals.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Convergence of Business Automation, Digital Marketing, A.I, Understanding it’s verticles and horizontals"
+            }
+          },
+          {
+            "id": "e84426af55561889",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Research/Home/Esoterica/Inner Astrology/Authenticity is not a personality trait.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Authenticity is not a personality trait"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c5dc7bbce9f6825e",
+    "type": "split",
+    "children": [
+      {
+        "id": "322a3f7f5eb4bfcd",
+        "type": "tabs",
+        "dimension": 41.15942028985507,
+        "children": [
+          {
+            "id": "bf6fb42ef1b16039",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      },
+      {
+        "id": "d3be74ba908301e7",
+        "type": "tabs",
+        "dimension": 58.84057971014492,
+        "children": [
+          {
+            "id": "59dfc4b85c6e640f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "125446f13c5ebbf2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#English",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "da74f00d5793c2bd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "da61246440d7d701",
+            "type": "leaf",
+            "state": {
+              "type": "tagfolder-view",
+              "state": {},
+              "icon": "stacked-levels",
+              "title": "Tag Folder"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 373.5
+  },
+  "right": {
+    "id": "fe066c81c37dad84",
+    "type": "split",
+    "children": [
+      {
+        "id": "3cbca1de2726445a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8b11c2b347ac6e9e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "1583825cbaaef5e2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "7730d58216da03e4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "74f230888eddb2ea",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "3c1b7aea311a05cf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "0634e770f4093f63",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Research/Home/Speculative streams/Authenticity is not a personality trait.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for Authenticity is not a personality trait"
+            }
+          },
+          {
+            "id": "223c40a81605b931",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {},
+              "icon": "smart-connections",
+              "title": "Connections"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 396.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "smart-connections:Smart Connections: Open connections view": false,
+      "smart-connections:Smart Lookup: Open lookup view": false,
+      "smart-connections:Smart Connections: Open random connection": false
+    }
+  },
+  "active": "82a9ac389d1cb1fa",
+  "lastOpenFiles": [
+    "Research/Home/Esoterica/Inner Astrology/Authenticity is not a personality trait.md",
+    "Research/Home/Speculative streams/Convergence of Business Automation, Digital Marketing, A.I, Understanding it’s verticles and horizontals.md",
+    "Research/Home/Speculative streams/Raw thought Streams.base",
+    "Research/Home/Speculative streams/Contemplation to heal 2nd house.md",
+    "Template/Lyricism-Writeup-Template.md",
+    "Research/Home/Kavyatmak Lehrein/Lyricism/Tu aur Saansein.md",
+    "Research/Home/Kavyatmak Lehrein/Words from Depth/Depth of Happiness.md",
+    "Research/Home/Speculative streams/think customer as transaction, a loop.md",
+    "Research/Home/Esoterica/Bhu Consciousness/Living from Spine.md",
+    "Research/Home/Business System/Business System - Base.base",
+    "Research/Home/Kavyatmak Lehrein/Words from Depth/A love born out of faith..md",
+    "Research/Home/Esoterica/Inner Astrology/Mundane, SELF and Rhythm.md",
+    "Research/Home/Esoterica/Bhu Consciousness/Negativity bias system for protection.md",
+    "Research/Home/Esoterica/Spirit/Spirit Knowledge- Base.base",
+    "Research/Home/Esoterica/Spirit/Spirit Knowledge Introduction.md",
+    "Template/Floating Note.md",
+    "Research/Home/Speculative streams/Speculative Stream Introduction.md",
+    "Research/Home/Business System/Marketing and Sales Introduction/Marketing and Sales Introduction.md",
+    "Template/MOC Introduction Template.md",
+    "Research/Home/Esoterica/Bhu Consciousness/Bhu Consciousness - Base.base",
+    "Research/Home/Speculative streams/Sahaja Awastha.md",
+    "Research/Home/Esoterica/Bhu Consciousness/Fascia.md",
+    "Research/Home/Esoterica/Spirit/Sahasranama/Lakshmi Sahasranama/Alchemy of MahaLakshmi - Introduction.md",
+    "Research/Home/Kavyatmak Lehrein/Lyricism/Ruhaani.md",
+    "Research/Home/Esoterica/Spirit/Sahasranama/Vishnu Sahasranama/Alchemy of MahaNarayana.md",
+    "Research/Home/Esoterica/Bhu Consciousness/Stay Light Hearted, yet Active.md",
+    "Research/Home/Speculative streams/Vitality.md",
+    "Research/Home/Kavyatmak Lehrein/Lyricism/Nazadikiyaan.md",
+    "Research/Home/Kavyatmak Lehrein/Lyricism/Lyricism-Base.base",
+    "Research/Home/Speculative streams/Untitled.base",
+    "Research/Home/Speculative streams/17-12-2025.md",
+    "Research/Home/Index Base Cluster.base",
+    "Research/Home/Esoterica/Esoteric MOC - Base.base",
+    "Research/Home/Esoterica/Spirit/Sahasranama/Vishnu Sahasranama/Vishnu Sahasranama - Base.base",
+    "Research/Home/Esoterica/Inner Astrology/Inner Astrology-Base.base",
+    "Untitled.canvas"
+  ]
+}

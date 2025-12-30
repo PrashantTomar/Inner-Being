@@ -1,0 +1,17 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.inFolder("Research/Home/Esoterica/Inner Astrology")
+        - file.folder == "Research/Home/Esoterica/Inner Astrology"
+    order:
+      - file.name
+      - Notebook
+      - Created
+      - file.links
+      - file.backlinks
+      - file.tags
+    columnSize:
+      note.Created: 157
+      file.backlinks: 408

@@ -1,0 +1,334 @@
+{
+  "main": {
+    "id": "492c7b0bdc5faa23",
+    "type": "split",
+    "children": [
+      {
+        "id": "fae4d9e8d4051249",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d0aa825388601171",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inner Being/Research/Home/Speculative streams/Convergence of Business Automation, Digital Marketing, A.I, Understanding it’s verticles and horizontals.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Convergence of Business Automation, Digital Marketing, A.I, Understanding it’s verticles and horizontals"
+            }
+          },
+          {
+            "id": "062908de85275169",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inner Being/Research/Home/Esoterica/Centering Wisdom/Sorting.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sorting"
+            }
+          },
+          {
+            "id": "22e2be26d1fe7196",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inner Being/Research/Home/Speculative streams/Learning form professionals.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Learning form professionals"
+            }
+          },
+          {
+            "id": "9b4184d95a4816c0",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Business MOC - 2025.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Business MOC - 2025"
+            }
+          },
+          {
+            "id": "a484bd339b56d9d7",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Learning from professionals.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Learning from professionals"
+            }
+          },
+          {
+            "id": "b911979e633397af",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Defining Sequence of  Learning.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Defining Sequence of  Learning"
+            }
+          },
+          {
+            "id": "2733146869723f22",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Daily Workflow/Daily workflow visualization 1 - 30 Dec.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Daily workflow visualization 1 - 30 Dec"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "aaab3be11bde754d",
+    "type": "split",
+    "children": [
+      {
+        "id": "aaf20625c7b5ee21",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3e65f7528486b710",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "7d63c6c237cdf1ee",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "fd129a94fec97d3b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      },
+      {
+        "id": "79de77d25d2adf8c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "31281e7ab452c322",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 367.5
+  },
+  "right": {
+    "id": "64c4ba06bba09625",
+    "type": "split",
+    "children": [
+      {
+        "id": "1e9cba198f3f28f1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e4218fbec268aaba",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Fascia Maneur.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Fascia Maneur"
+            }
+          },
+          {
+            "id": "01b34b340eb08776",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "d533fc94e23a78de",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e4d68d73ce973a68",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "250cc84bdb33a22a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "dd5e63914e804702",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {},
+              "icon": "smart-connections",
+              "title": "Connections"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 231.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "smart-connections:Smart Connections: Open connections view": false,
+      "smart-connections:Smart Lookup: Open lookup view": false,
+      "smart-connections:Smart Connections: Open random connection": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "2733146869723f22",
+  "lastOpenFiles": [
+    "Base_Being",
+    "Daily Workflow/Daily workflow visualization 1 - 30 Dec.md",
+    "InnerBeing_base",
+    "Excalidraw/Scripts/Downloaded/Mindmap Builder.svg",
+    "Excalidraw/Scripts/Downloaded/Mindmap Builder.md",
+    "Excalidraw/Scripts/Downloaded/Add Next Step in Process.svg",
+    "Excalidraw/Scripts/Downloaded/Add Next Step in Process.md",
+    "Excalidraw/Scripts/Downloaded/Box Selected Elements.svg",
+    "Excalidraw/Scripts/Downloaded/Box Selected Elements.md",
+    "Excalidraw/Scripts/Downloaded/Excalidraw Collaboration Frame.svg",
+    "Excalidraw/Scripts/Downloaded/Excalidraw Collaboration Frame.md",
+    "Excalidraw/Scripts/Downloaded",
+    "Excalidraw/Scripts",
+    "Daily Workflow",
+    "Excalidraw/Defining Sequence of  Learning.md",
+    "Excalidraw/Learning from professionals.md",
+    "Excalidraw/Business MOC - 2025.md",
+    "Inner Being/Research/Home/Speculative streams/Learning form professionals.md",
+    "Inner Being/Research/Home/Esoterica/Centering Wisdom/Sorting.md",
+    "Inner Being/Research/Home/Speculative streams/Convergence of Business Automation, Digital Marketing, A.I, Understanding it’s verticles and horizontals.md",
+    "Inner Being/Research/Home/Speculative streams/Peers vs vendors.md",
+    "Inner Being/Template/Floating Note.md",
+    "Inner Being/Research/Home/Speculative streams/A Beautiful Insanity..md",
+    "Inner Being/Research/Home/Speculative streams/Nature of Pavitra Bandhan.md",
+    "Inner Being/Research/Home/Speculative streams/Carrer as medium.md",
+    "Inner Being/Research/Home/Speculative streams/Life of Bheema and Arjuna.md",
+    "Inner Being/Research/Home/Speculative streams/Untitled 1.md",
+    "Inner Being/Research/Home/Speculative streams/to do.md",
+    "Inner Being/Research/Home/Speculative streams/Decision Intelligence.md",
+    "Inner Being/Research/Home/Speculative streams/High order speculations while producing.md",
+    "Inner Being/Research/Home/Speculative streams/What's the room for becoming creative in business.md",
+    "Excalidraw",
+    "Inner Being/Research/Home/Speculative streams/Contemplation to heal 2nd house.md",
+    "Inner Being/Research/Home/Speculative streams/Vitality.md",
+    "Inner Being/Research/Home/Speculative streams/think customer as transaction, a loop.md",
+    "Inner Being/Research/Home/Speculative streams/Raw thought Streams.base",
+    "Inner Being/Research/Home/Esoterica/Bhu Consciousness/Bhu Consciousness - Base.base",
+    "Inner Being/Research/Home/Esoterica/Centering Wisdom/Centering Wisdom - Base.base",
+    "Inner Being/Research/Home/Esoterica/Esoteric MOC - Base.base"
+  ]
+}

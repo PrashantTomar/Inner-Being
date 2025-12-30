@@ -1,0 +1,10 @@
+filters:
+  and:
+    - file.inFolder("Inner Being/Research/Home/Esoterica/Bhu Consciousness")
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - file.tags
+      - file.ctime

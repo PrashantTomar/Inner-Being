@@ -1,0 +1,6 @@
+filters:
+  and:
+    - file.basename.endsWith("Base")
+views:
+  - type: table
+    name: Table
