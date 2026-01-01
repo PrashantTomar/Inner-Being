@@ -266,13 +266,23 @@
               "icon": "smart-connections",
               "title": "Connections"
             }
+          },
+          {
+            "id": "38c5ec039ea50dbd",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
         "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 231.5
+    "width": 202.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -292,8 +302,9 @@
   },
   "active": "2733146869723f22",
   "lastOpenFiles": [
-    "Base_Being",
+    "Inner Being/Research/Home/Esoterica/Inner Astrology/Inner Astrology-Base.base",
     "Daily Workflow/Daily workflow visualization 1 - 30 Dec.md",
+    "Base_Being",
     "InnerBeing_base",
     "Excalidraw/Scripts/Downloaded/Mindmap Builder.svg",
     "Excalidraw/Scripts/Downloaded/Mindmap Builder.md",
