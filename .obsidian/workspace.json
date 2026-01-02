@@ -101,18 +101,17 @@
             "id": "b0f050e9c08cd6b9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "Inner Being/Research/Home/Speculative streams/Pitra Dosha.md",
-                "mode": "source",
-                "source": false
+                "file": "Inner Being/Research/Home/Speculative streams/Raw thought Streams.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-file",
-              "title": "Pitra Dosha"
+              "icon": "lucide-table",
+              "title": "Raw thought Streams"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -314,10 +313,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b0f050e9c08cd6b9",
+  "active": "2733146869723f22",
   "lastOpenFiles": [
-    "Daily Workflow/Daily workflow visualization 1 - 30 Dec.md",
+    "Inner Being/Research/Home/Speculative streams/Raw thought Streams.base",
     "Inner Being/Research/Home/Speculative streams/Pitra Dosha.md",
+    "Daily Workflow/Daily workflow visualization 1 - 30 Dec.md",
     "Excalidraw/Learning from professionals.md",
     "Excalidraw/Defining Sequence of  Learning.md",
     "Inner Being/Research/Home/Esoterica/Inner Astrology/Inner Astrology-Base.base",
@@ -352,8 +352,6 @@
     "Excalidraw",
     "Inner Being/Research/Home/Speculative streams/Contemplation to heal 2nd house.md",
     "Inner Being/Research/Home/Speculative streams/Vitality.md",
-    "Inner Being/Research/Home/Speculative streams/think customer as transaction, a loop.md",
-    "Inner Being/Research/Home/Speculative streams/Raw thought Streams.base",
     "Inner Being/Research/Home/Esoterica/Bhu Consciousness/Bhu Consciousness - Base.base",
     "Inner Being/Research/Home/Esoterica/Centering Wisdom/Centering Wisdom - Base.base"
   ]
