@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d0aa825388601171",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inner Being/Template/To Do Lists.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "To Do Lists"
-            }
-          },
-          {
             "id": "062908de85275169",
             "type": "leaf",
             "state": {
@@ -33,18 +19,6 @@
               },
               "icon": "lucide-file",
               "title": "Sorting"
-            }
-          },
-          {
-            "id": "22e2be26d1fe7196",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Business MOC - 2025.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Business MOC - 2025"
             }
           },
           {
@@ -96,6 +70,20 @@
             }
           },
           {
+            "id": "b4e97368d9780b77",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inner Being/Research/Home/Kavyatmak Lehrein/Lyricism/Marzi teri aur zindagi meri.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Marzi teri aur zindagi meri"
+            }
+          },
+          {
             "id": "de71fdb222506450",
             "type": "leaf",
             "state": {
@@ -135,7 +123,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -208,7 +196,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 367.5
+    "width": 283.5
   },
   "right": {
     "id": "64c4ba06bba09625",
@@ -336,23 +324,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2733146869723f22",
+  "active": "9b4184d95a4816c0",
   "lastOpenFiles": [
-    "Untitled.canvas",
     "Daily Workflow/Daily workflow visualization 1 - 30 Dec.md",
-    "Inner Being/Research/Home/Esoterica/Spirit/Deity/LakshmiNarayana/Ideal Grihastha ( Householder ).md",
     "Inner Being/Research/Home/Speculative streams/Raw thought Streams.base",
+    "Inner Being/Research/Home/Kavyatmak Lehrein/Lyricism/Marzi teri aur zindagi meri.md",
+    "Excalidraw/Learning from professionals.md",
     "Excalidraw/Defining Sequence of  Learning.md",
+    "Inner Being/Research/Home/Esoterica/Spirit/Deity/LakshmiNarayana/Ideal Grihastha ( Householder ).md",
+    "Inner Being/Research/Home/Esoterica/Centering Wisdom/Sorting.md",
+    "Excalidraw/Business MOC - 2025.md",
+    "Inner Being/Research/Home/Esoterica/Centering Wisdom/Sorting 2026-01-02 17.36.32.excalidraw.md",
     "Inner Being/Template/To Do Lists.md",
+    "Inner Being/Research/Home/Kavyatmak Lehrein/Lyricism/Nazadikiyaan.md",
+    "Untitled.canvas",
     "Inner Being/Template/MOC Introduction Template.md",
     "Inner Being/Template/Lyricism-Writeup-Template.md",
     "Inner Being/Template/Floating Note.md",
     "Inner Being/Research/Home/Business System/Mental Models/Convergence of Business Automation, Digital Marketing, A.I, Understanding it’s verticles and horizontals.md",
     "Inner Being/Research/Home/Business System/Business System - MOC.md",
-    "Inner Being/Research/Home/Esoterica/Centering Wisdom/Sorting.md",
-    "Excalidraw/Business MOC - 2025.md",
     "Inner Being/Research/Home/Speculative streams/Learning business form professionals.md",
-    "Excalidraw/Learning from professionals.md",
     "Inner Being/Research/Home/Business System/Marketing and Sales Introduction/Marketing and Sales - MOC.md",
     "Inner Being/Research/Home/Esoterica/Swar Consciousness/Swar Consciousness - MOC.md",
     "Inner Being/Research/Home/Esoterica/Esoterica MOC.md",
@@ -362,9 +353,6 @@
     "Inner Being/Research/Home/Esoterica/Spirit/Deity/Sahasranama/Lakshmi Sahasranama/Alchemy of MahaLakshmi - MOC.md",
     "Inner Being/Research/Home/Esoterica/Spirit/Deity/Sahasranama/Vishnu Sahasranama/Alchemy of MahaNarayana - MOC.md",
     "Inner Being/Research/Home/Esoterica/Centering Wisdom/Centering Wisdom MOC.md",
-    "Inner Being/Research/Home/Esoterica/Bhu Consciousness/Bhu Consciousness - MOC.md",
-    "Inner Being/Research/Home/Esoterica/Inner Astrology/Authenticity is not a personality trait.md",
-    "Inner Being/Research/Home/Speculative streams/Speculative Stream MOC.md",
     "Inner Being/Research/Home/Esoterica/Spirit/Deity/LakshmiNarayana",
     "Inner Being/Research/Home/Esoterica/Spirit/Deity",
     "Inner Being/Research/Home/Esoterica/Inner Astrology/Inner Astrology-Base.base",

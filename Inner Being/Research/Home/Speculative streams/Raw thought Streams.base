@@ -6,11 +6,13 @@ views:
         - file.folder == "Inner Being/Research/Home/Speculative streams"
     order:
       - file.name
-      - file.basename
       - file.tags
       - file.links
       - file.ctime
+      - file.basename
       - file.mtime
     sort:
       - property: file.ctime
         direction: DESC
+    columnSize:
+      file.basename: 412
