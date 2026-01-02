@@ -4,7 +4,7 @@ aliases:
 Meta Content:
 type:
   - "#Fleeting_default"
-Notebook: "[[Centering Wisdom Introduction|Centering Wisdom Introduction]]"
+Notebook: "[[Centering Wisdom MOC|Centering Wisdom MOC]]"
 ---
 Connected topics :
 

@@ -5,7 +5,7 @@ type:
 Notebook:
 ---
 Connected topics :
-[[Swar Consciousness]] - [[Music Production]] 
+[[Swar Consciousness - MOC]] - [[Music Production]] 
 
 Status :
 #Fleeting_default 

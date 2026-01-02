@@ -4,7 +4,7 @@ aliases:
 Meta Content:
 type:
   - "#Fleeting_default"
-Notebook: "[[Inner Astrology Introduction]]"
+Notebook: "[[Inner Astrology - MOC]]"
 ---
 Connected topics :
 

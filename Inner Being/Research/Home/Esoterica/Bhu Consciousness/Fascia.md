@@ -4,7 +4,7 @@ aliases:
 tags:
 type:
   - "#Fleeting_default"
-Notebook: "[[Bhu Consciousness Introduction]]"
+Notebook: "[[Bhu Consciousness - MOC]]"
 ---
 Status :
 #Fleeting_default 

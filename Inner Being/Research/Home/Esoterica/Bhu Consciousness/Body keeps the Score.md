@@ -4,7 +4,7 @@ aliases:
 Meta Content:
 type:
   - "#Fleeting_default"
-Notebook: "[[Bhu Consciousness Introduction]]"
+Notebook: "[[Bhu Consciousness - MOC]]"
 ---
 Connected topics :
 [[Fascia]] - [[../Inner Astrology/Lagna|Lagna]] - 

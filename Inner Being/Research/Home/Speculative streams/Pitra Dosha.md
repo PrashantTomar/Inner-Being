@@ -2,7 +2,7 @@
 Created: 2026-01-02T11:21:00
 type:
   - "#Fleeting_default"
-Notebook: "[[Inner Astrology Introduction]]"
+Notebook: "[[Inner Astrology - MOC]]"
 ---
 Connected topics :
 [[Rahu]] - [[Lineage]] - [[Curse]]

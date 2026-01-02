@@ -2,7 +2,7 @@
 Created: 2025-12-19T12:48:00
 type:
   - "#Fleeting_default"
-Notebook: "[[Inner Astrology Introduction]]"
+Notebook: "[[Inner Astrology - MOC]]"
 ---
 Connected topics :
 [[Leo]] - [[solar plexus chakra]] - [[Sun]] 

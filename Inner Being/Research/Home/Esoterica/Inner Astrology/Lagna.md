@@ -4,7 +4,7 @@ aliases:
 tags:
 type:
   - "#Fleeting_default"
-Notebook: "[[Inner Astrology Introduction]]"
+Notebook: "[[Inner Astrology - MOC]]"
 ---
 
 Status :
