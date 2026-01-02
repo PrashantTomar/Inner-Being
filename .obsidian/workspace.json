@@ -96,9 +96,23 @@
               "icon": "excalidraw-icon",
               "title": "Daily workflow visualization 1 - 30 Dec"
             }
+          },
+          {
+            "id": "b0f050e9c08cd6b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inner Being/Research/Home/Speculative streams/Pitra Dosha.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pitra Dosha"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -300,11 +314,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2733146869723f22",
+  "active": "b0f050e9c08cd6b9",
   "lastOpenFiles": [
-    "Excalidraw/Defining Sequence of  Learning.md",
     "Daily Workflow/Daily workflow visualization 1 - 30 Dec.md",
+    "Inner Being/Research/Home/Speculative streams/Pitra Dosha.md",
     "Excalidraw/Learning from professionals.md",
+    "Excalidraw/Defining Sequence of  Learning.md",
     "Inner Being/Research/Home/Esoterica/Inner Astrology/Inner Astrology-Base.base",
     "Base_Being",
     "InnerBeing_base",
