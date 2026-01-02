@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inner Being/Research/Home/Speculative streams/Convergence of Business Automation, Digital Marketing, A.I, Understanding it’s verticles and horizontals.md",
+                "file": "Inner Being/Template/To Do Lists.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Convergence of Business Automation, Digital Marketing, A.I, Understanding it’s verticles and horizontals"
+              "title": "To Do Lists"
             }
           },
           {
@@ -39,14 +39,12 @@
             "id": "22e2be26d1fe7196",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Inner Being/Research/Home/Speculative streams/Learning form professionals.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Business MOC - 2025.md"
               },
-              "icon": "lucide-file",
-              "title": "Learning form professionals"
+              "icon": "excalidraw-icon",
+              "title": "Business MOC - 2025"
             }
           },
           {
@@ -115,14 +113,12 @@
             "id": "cec51311dc36202b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Inner Being/Research/Home/Esoterica/Swar Consciousness/Swar Consciousness - MOC.md",
-                "mode": "source",
-                "source": false
+                "file": "Daily Workflow/Daily workflow visualization 1 - 30 Dec.md"
               },
-              "icon": "lucide-file",
-              "title": "Swar Consciousness - MOC"
+              "icon": "excalidraw-icon",
+              "title": "Daily workflow visualization 1 - 30 Dec"
             }
           },
           {
@@ -139,7 +135,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -340,8 +336,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cec51311dc36202b",
+  "active": "2733146869723f22",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "Daily Workflow/Daily workflow visualization 1 - 30 Dec.md",
+    "Inner Being/Research/Home/Esoterica/Spirit/Deity/LakshmiNarayana/Ideal Grihastha ( Householder ).md",
+    "Inner Being/Research/Home/Speculative streams/Raw thought Streams.base",
+    "Excalidraw/Defining Sequence of  Learning.md",
+    "Inner Being/Template/To Do Lists.md",
+    "Inner Being/Template/MOC Introduction Template.md",
+    "Inner Being/Template/Lyricism-Writeup-Template.md",
+    "Inner Being/Template/Floating Note.md",
+    "Inner Being/Research/Home/Business System/Mental Models/Convergence of Business Automation, Digital Marketing, A.I, Understanding it’s verticles and horizontals.md",
+    "Inner Being/Research/Home/Business System/Business System - MOC.md",
+    "Inner Being/Research/Home/Esoterica/Centering Wisdom/Sorting.md",
+    "Excalidraw/Business MOC - 2025.md",
+    "Inner Being/Research/Home/Speculative streams/Learning business form professionals.md",
+    "Excalidraw/Learning from professionals.md",
+    "Inner Being/Research/Home/Business System/Marketing and Sales Introduction/Marketing and Sales - MOC.md",
+    "Inner Being/Research/Home/Esoterica/Swar Consciousness/Swar Consciousness - MOC.md",
     "Inner Being/Research/Home/Esoterica/Esoterica MOC.md",
     "Inner Being/Research/Home/Esoterica/Inner Astrology/Inner Astrology - MOC.md",
     "Inner Being/Research/Home/Esoterica/Spirit/Spirit Knowledge - MOC.md",
@@ -352,35 +365,18 @@
     "Inner Being/Research/Home/Esoterica/Bhu Consciousness/Bhu Consciousness - MOC.md",
     "Inner Being/Research/Home/Esoterica/Inner Astrology/Authenticity is not a personality trait.md",
     "Inner Being/Research/Home/Speculative streams/Speculative Stream MOC.md",
-    "Inner Being/Research/Home/Esoterica/Spirit/Deity/LakshmiNarayana/Ideal Grihastha ( Householder ).md",
-    "Inner Being/Research/Home/Speculative streams/Raw thought Streams.base",
     "Inner Being/Research/Home/Esoterica/Spirit/Deity/LakshmiNarayana",
     "Inner Being/Research/Home/Esoterica/Spirit/Deity",
-    "Daily Workflow/Daily workflow visualization 1 - 30 Dec.md",
-    "Inner Being/Research/Home/Speculative streams/Pitra Dosha.md",
-    "Excalidraw/Learning from professionals.md",
-    "Excalidraw/Defining Sequence of  Learning.md",
     "Inner Being/Research/Home/Esoterica/Inner Astrology/Inner Astrology-Base.base",
     "Base_Being",
     "InnerBeing_base",
     "Excalidraw/Scripts/Downloaded/Mindmap Builder.svg",
-    "Excalidraw/Scripts/Downloaded/Mindmap Builder.md",
     "Excalidraw/Scripts/Downloaded/Add Next Step in Process.svg",
-    "Excalidraw/Scripts/Downloaded/Add Next Step in Process.md",
     "Excalidraw/Scripts/Downloaded/Box Selected Elements.svg",
-    "Excalidraw/Scripts/Downloaded/Box Selected Elements.md",
     "Excalidraw/Scripts/Downloaded/Excalidraw Collaboration Frame.svg",
-    "Excalidraw/Scripts/Downloaded/Excalidraw Collaboration Frame.md",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
     "Daily Workflow",
-    "Excalidraw/Business MOC - 2025.md",
-    "Inner Being/Research/Home/Speculative streams/Learning form professionals.md",
-    "Inner Being/Research/Home/Esoterica/Centering Wisdom/Sorting.md",
-    "Inner Being/Research/Home/Speculative streams/Convergence of Business Automation, Digital Marketing, A.I, Understanding it’s verticles and horizontals.md",
-    "Inner Being/Research/Home/Speculative streams/Peers vs vendors.md",
-    "Inner Being/Template/Floating Note.md",
-    "Inner Being/Research/Home/Speculative streams/A Beautiful Insanity..md",
     "Excalidraw"
   ]
 }

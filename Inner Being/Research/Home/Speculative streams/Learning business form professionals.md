@@ -5,6 +5,7 @@ type:
 Notebook: "[[Business Systems]]"
 ---
 Connected topics :
+[[SAAS]] - [[Sales cycle]]
 
 Status :
 #Fleeting_default 
@@ -14,3 +15,6 @@ Reference :
 ------------
 
 Note : 
+
+Excalidraw reference :
+[[Learning from professionals]]

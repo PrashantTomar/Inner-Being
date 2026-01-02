@@ -2,15 +2,24 @@
 Created: 2025-12-18T19:42:00
 type:
   - "#Fleeting_default"
-Notebook:
+Notebook: "[[Business System - MOC]]"
 ---
 Connected topics :
+[[Business Systems]] 
+
 
 Status :
 #Fleeting_default 
 
 Reference :
 Chatgpt
+Brainstorming
+
+Excalidraw Reference :
+[[Business MOC - 2025]]
+[[Learning from professionals]]
+
+
 
 ------------
 
@@ -53,5 +62,7 @@ Thinking in terms of assets, tangible and intangible
 
 Let's pick one MOC today on isolation, for the sake of integrity
 
+
+---
 
 

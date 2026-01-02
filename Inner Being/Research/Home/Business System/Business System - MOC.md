@@ -1,0 +1,1 @@
+This MOC -- deals with exploration of business systems, and interesting concept and perception around it.
