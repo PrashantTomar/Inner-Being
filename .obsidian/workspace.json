@@ -27,7 +27,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Business MOC - 2025.md"
+                "file": "Excalidraw/Business Systems -Excalidraw/Business MOC - 2025.md"
               },
               "icon": "excalidraw-icon",
               "title": "Business MOC - 2025"
@@ -39,7 +39,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Learning from professionals.md"
+                "file": "Excalidraw/Business Systems -Excalidraw/Learning from professionals.md"
               },
               "icon": "excalidraw-icon",
               "title": "Learning from professionals"
@@ -51,7 +51,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Defining Sequence of  Learning.md"
+                "file": "Excalidraw/Business Systems -Excalidraw/Defining Sequence of  Learning.md"
               },
               "icon": "excalidraw-icon",
               "title": "Defining Sequence of  Learning"
@@ -110,6 +110,18 @@
             }
           },
           {
+            "id": "b67c9add88ca88ea",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Business Systems -Excalidraw/Business MOC - 2025.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Business MOC - 2025"
+            }
+          },
+          {
             "id": "b0f050e9c08cd6b9",
             "type": "leaf",
             "state": {
@@ -123,7 +135,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -324,14 +336,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "31281e7ab452c322",
+  "active": "3e65f7528486b710",
   "lastOpenFiles": [
-    "Excalidraw/Business MOC - 2025.md",
+    "Inner Being/Research/Home/Speculative streams/Vitality.md",
+    "Excalidraw/Business Systems -Excalidraw",
     "Daily Workflow/Daily workflow visualization 1 - 30 Dec.md",
     "Inner Being/Research/Home/Speculative streams/Raw thought Streams.base",
+    "Excalidraw/Business Systems -Excalidraw/Business MOC - 2025.md",
     "Inner Being/Research/Home/Kavyatmak Lehrein/Lyricism/Marzi teri aur zindagi meri.md",
-    "Excalidraw/Learning from professionals.md",
-    "Excalidraw/Defining Sequence of  Learning.md",
+    "Excalidraw/Business Systems -Excalidraw/Learning from professionals.md",
+    "Excalidraw/Business Systems -Excalidraw/Defining Sequence of  Learning.md",
     "Inner Being/Research/Home/Esoterica/Spirit/Deity/LakshmiNarayana/Ideal Grihastha ( Householder ).md",
     "Inner Being/Research/Home/Esoterica/Centering Wisdom/Sorting.md",
     "Inner Being/Research/Home/Esoterica/Centering Wisdom/Sorting 2026-01-02 17.36.32.excalidraw.md",
@@ -364,7 +378,6 @@
     "Excalidraw/Scripts/Downloaded/Excalidraw Collaboration Frame.svg",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
-    "Daily Workflow",
-    "Excalidraw"
+    "Daily Workflow"
   ]
 }
