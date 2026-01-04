@@ -1,0 +1,1 @@
+This MOC -- deals with lyrics written in hindi or english as per inspiration.

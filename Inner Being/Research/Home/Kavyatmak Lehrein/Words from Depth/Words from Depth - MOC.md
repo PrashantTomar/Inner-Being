@@ -1,0 +1,1 @@
+This MOC -- deals with deep ephemeral feeling written in paragraph style

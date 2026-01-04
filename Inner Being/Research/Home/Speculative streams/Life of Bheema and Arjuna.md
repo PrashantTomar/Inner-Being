@@ -2,7 +2,7 @@
 Created: 2025-12-26T11:35:00
 type:
   - "#Fleeting_default"
-Notebook:
+Notebook: "[[Centering Wisdom MOC|Centering Wisdom MOC]]"
 ---
 Connected topics :
 [[Sun]] - [[Leo]] - [[5th house]]
