@@ -1,7 +1,5 @@
 ---
 Created:
-type:
-  - "#Fleeting_default"
 Notebook:
 ---
 Connected topics :

@@ -1,10 +1,6 @@
 ---
 Created: 2025-12-17T20:09:00
-aliases:
-Meta Content:
-type:
-  - "#Fleeting_default"
-Notebook:
+Notebook: "[[Spirit Knowledge - MOC]]"
 ---
 Connected topics :
 [[Mantra|Mantra]]
@@ -17,12 +13,6 @@ Reference :
 
 ------------
 
-Note : They are alive energy by themselves
+Note : 
 
-Connected topics :
-[[Mantra|Mantra]]
-
-Status :
-#Fleeting_default
-
-Treating words as energy with care
+They are alive energy by themselves, treating words as energy with care, for maximum benefit.
