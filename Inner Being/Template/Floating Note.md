@@ -5,6 +5,18 @@ Notebook:
 Connected topics :
 
 
+
+------------
+
+Note : 
+
+
+
+
+
+----
+
+
 Status :
 #Fleeting_default 
 
@@ -16,8 +28,3 @@ Excalidraw Reference :
 
 
 Canvas Reference :
-
-
-------------
-
-Note : 
