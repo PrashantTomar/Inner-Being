@@ -5,31 +5,19 @@ Notebook: "[[Deity Notebook - MOC]]"
 Connected topics :
 [[LakshmiNarayana]] - [[Yugala tattva]] - [[1st house]] - [[7th house]] 
 
-Status :
-#Permanent 
-
-Reference :
-
-
-Excalidraw Reference :
-
-
-
-Canvas Reference :
-
-
 ------------
+
 
 Note : 
 
 [[Yugala tattva]] is [[supreme brahman]] ( [[the ultimate reality]] ) which is complete in itself, the divine couple [[consciousness]] , the [[divine romance]] between [[Mahamaya]] and [[Mayapati]] . The divine couple cherish each other with deep love and participate totally with life.
-Wherever we see life is fully alive and celebrating itself, here the word - 'celebrating' is used in deeply mystical context, which transcend the duality of good and bad. 
+Through their eyes wherever we see, life is fully alive and celebrating itself, here the word - 'celebrating' is used in deeply mystical context, which transcend the duality of good and bad. 
 
 Here your desires are [[sringar]] on divine couples, as the service Lakshmi would do for Narayana and Narayana would do for Lakshmi.
 Your everything/ your very existence becomes a sringar on them.
 You are the essence of their [[sringar]]. You are beauty in the heart of LakshmiNarayana, the way they aspire for each other, the way they keep falling in love with each other, they are 'the way'.
 
-There is wholeness ( puranata ) of devi and devata viz divine feminine and divine masculine, within this yugal consciousness.
+There is wholeness ( puranata ) of devi and devata viz divine feminine and divine masculine, within this yugala consciousness.
 
 One's state of mind/being can cycle as :
 1. DF feeling DM
@@ -39,14 +27,38 @@ One's state of mind/being can cycle as :
 Wholeness is always sustained.
 You cycle as absolute love in constant change, and absolute change in constant love.
 
-carrying the essence as reminded in famous quote of Isavasaya upanishad:
+Carrying the essence as reminded in famous quote of Isavasaya upanishad:
 
 > **Om Purnamadah Purnamidam, Purnat Purnamudachyate. Purnasya Purnamadaya, Purnam-Eva-Avashishyate**
 
+And also the sholka as derived from akasha :
 
+>Lakshmih hridayam Narayanah
+>Narayansya hridayam Lakshmih
+>Etad dvayam hrudayam satayam na anyat tatra katanchana
 
-And thus elucidated the full spectrum glory of [[Yugala Consciousness]] - purity of divine aesthetics relationship in its wholeness.
+focusing on inseparable unity between them.
+
+And thus elucidated the full spectrum glory of [[Yugala Consciousness]] - purity of divine aesthetical relationship in its wholeness.
 
 Jai LakshmiNarayana !!
 
 
+---
+
+Status :
+#Permanent 
+
+Reference :
+
+
+
+Excalidraw Reference :
+
+
+
+Canvas Reference :
+
+
+
+---
