@@ -84,18 +84,6 @@
             }
           },
           {
-            "id": "b67c9add88ca88ea",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Business Systems -Excalidraw/Business MOC - 2025.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Business MOC - 2025"
-            }
-          },
-          {
             "id": "25dcea47c63e54eb",
             "type": "leaf",
             "state": {
@@ -110,21 +98,19 @@
             }
           },
           {
-            "id": "3dab07e8d7fe961d",
+            "id": "74adc490842cb8af",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Inner Being/Research/Home/Esoterica/Spirit/Deity/Yugala Consciousness.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Business Systems -Excalidraw/Business MOC - 2025.md"
               },
-              "icon": "lucide-file",
-              "title": "Yugala Consciousness"
+              "icon": "excalidraw-icon",
+              "title": "Business MOC - 2025"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -308,7 +294,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 202.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -326,17 +312,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "666d3de959877e80",
+  "active": "81ae6a1ef67b0955",
   "lastOpenFiles": [
-    "Inner Being/Research/Home/Business System/Business System - MOC.md",
     "Inner Being/Research/Home/Speculative streams/Problem of attachment to system of doing thing.md",
-    "Daily Workflow/Daily workflow visualization 1 - 30 Dec.md",
     "Inner Being/Research/Home/Speculative streams/Outlook on Sadhana and Upasana..md",
-    "Inner Being/Research/Home/Speculative streams/Dharma-Gati design of GOD.md",
     "Excalidraw/Business Systems -Excalidraw/Business MOC - 2025.md",
     "Inner Being/Research/Home/Esoterica/Spirit/Deity/Yugala Consciousness.md",
-    "Excalidraw/Business Systems -Excalidraw/Defining Sequence of  Learning.md",
     "Excalidraw/Spiritual/Esoterica revelations.md",
+    "Inner Being/Research/Home/Speculative streams/Dharma-Gati design of GOD.md",
+    "Inner Being/Research/Home/Business System/Business System - MOC.md",
+    "Daily Workflow/Daily workflow visualization 1 - 30 Dec.md",
+    "Excalidraw/Business Systems -Excalidraw/Defining Sequence of  Learning.md",
     "Excalidraw/Business Systems -Excalidraw/Learning from professionals.md",
     "Inner Being/Research/Home/Speculative streams/sringar.md",
     "Excalidraw/Scripts/Downloaded/Normalize Selected Arrows.svg",

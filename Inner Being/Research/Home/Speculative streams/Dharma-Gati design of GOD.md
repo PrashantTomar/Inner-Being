@@ -10,7 +10,7 @@ Connected topics :
 
 Note : 
 
-Then realising the woman in my asana and their dharma gati.
+Then realizing the woman in my asana and their dharma gati.
 
 
 
