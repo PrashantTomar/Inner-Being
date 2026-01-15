@@ -15,11 +15,7 @@ are not his own
 The life she lives 
 is not her own
 
-
-
-
 ---
-
 
 Lyrics/ Writeup  :
 
