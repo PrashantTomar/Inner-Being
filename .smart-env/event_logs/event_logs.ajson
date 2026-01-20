@@ -1985,3 +1985,7 @@
 "event_logs:sources:imported": {"key":"sources:imported","ct":1404,"first_at":1766193915059,"last_at":1768905590025,"class_name":"EventLog"},
 "event_logs:item:embedded": {"key":"item:embedded","ct":2316,"first_at":1766193938674,"last_at":1768905593277,"class_name":"EventLog"},
 "event_logs:item:embedded": {"key":"item:embedded","ct":2318,"first_at":1766193938674,"last_at":1768905596160,"class_name":"EventLog"},
+"event_logs:sources:modified": {"key":"sources:modified","ct":12975,"first_at":1766194015088,"last_at":1768906431741,"class_name":"EventLog","event_sources":{"obsidian:vault.modify":2453,"obsidian:workspace.editor-change":10522}},
+"event_logs:sources:imported": {"key":"sources:imported","ct":1405,"first_at":1766193915059,"last_at":1768906444762,"class_name":"EventLog"},
+"event_logs:item:embedded": {"key":"item:embedded","ct":2320,"first_at":1766193938674,"last_at":1768906445177,"class_name":"EventLog"},
+"event_logs:item:embedded": {"key":"item:embedded","ct":2322,"first_at":1766193938674,"last_at":1768906447628,"class_name":"EventLog"},
