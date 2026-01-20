@@ -1938,3 +1938,4 @@
 "event_logs:sources:modified": {"key":"sources:modified","ct":12964,"first_at":1766194015088,"last_at":1768816708375,"class_name":"EventLog","event_sources":{"obsidian:vault.modify":2442,"obsidian:workspace.editor-change":10522}},
 "event_logs:plugin:new_version_available": {"key":"plugin:new_version_available","ct":94,"first_at":1766478584971,"last_at":1768823493994,"class_name":"EventLog"},
 "event_logs:plugin:new_version_available": {"key":"plugin:new_version_available","ct":95,"first_at":1766478584971,"last_at":1768834294193,"class_name":"EventLog"},
+"event_logs:plugin:new_version_available": {"key":"plugin:new_version_available","ct":96,"first_at":1766478584971,"last_at":1768845093856,"class_name":"EventLog"},
