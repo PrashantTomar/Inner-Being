@@ -2842,3 +2842,5 @@
 "event_logs:sources:modified": {"key":"sources:modified","ct":13521,"first_at":1766194015088,"last_at":1769015238511,"class_name":"EventLog","event_sources":{"obsidian:vault.modify":2805,"obsidian:workspace.editor-change":10716}},
 "event_logs:sources:imported": {"key":"sources:imported","ct":1569,"first_at":1766193915059,"last_at":1769015251799,"class_name":"EventLog"},
 "event_logs:item:embedded": {"key":"item:embedded","ct":2853,"first_at":1766193938674,"last_at":1769015253651,"class_name":"EventLog"},
+"event_logs:plugin:new_version_available": {"key":"plugin:new_version_available","ct":106,"first_at":1766478584971,"last_at":1769063464018,"class_name":"EventLog"},
+"event_logs:sources:opened": {"key":"sources:opened","ct":469,"first_at":1766193965660,"last_at":1769066845668,"class_name":"EventLog","event_sources":{"active-leaf-change":466,"file-open":3}},
