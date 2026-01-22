@@ -3,7 +3,7 @@ Created: 2026-01-22T15:43:00
 Notebook:
 ---
 Connected topics :
-
+[[Real-estate]] - [[Commercial differentiation]] 
 
 
 ------------
