@@ -3200,3 +3200,4 @@
 "event_logs:sources:imported": {"key":"sources:imported","ct":1618,"first_at":1766193915059,"last_at":1769148890067,"class_name":"EventLog"},
 "event_logs:item:embedded": {"key":"item:embedded","ct":2935,"first_at":1766193938674,"last_at":1769148890538,"class_name":"EventLog"},
 "event_logs:sources:opened": {"key":"sources:opened","ct":507,"first_at":1766193965660,"last_at":1769151620150,"class_name":"EventLog","event_sources":{"active-leaf-change":504,"file-open":3}},
+"event_logs:plugin:new_version_available": {"key":"plugin:new_version_available","ct":110,"first_at":1766478584971,"last_at":1769158294070,"class_name":"EventLog"},
