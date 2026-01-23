@@ -10,12 +10,21 @@ Connected topics :
 
 Note : 
 
-[[Yugala tattva]] is [[supreme brahman]] ( [[the ultimate reality]] ) which is complete in itself, the divine couple [[consciousness]] , the [[divine romance]] between [[Mahamaya]] and [[Mayapati]] . The divine couple cherish each other with deep love and participate totally with life.
-Through their eyes wherever we see, life is fully alive and celebrating itself, here the word - 'celebrating' is used in deeply mystical context, which transcend the duality of good and bad. 
+[[Yugala tattva]] is [[supreme brahman]] ( [[the ultimate reality]] ) which is complete in itself, 
 
-Here your desires are [[sringar]] on divine couples, as the service Lakshmi would do for Narayana and Narayana would do for Lakshmi.
-Your everything/ your very existence becomes a sringar on them.
-You are the essence of their [[sringar]]. You are beauty in the heart of LakshmiNarayana, the way they aspire for each other, the way they keep falling in love with each other, they are 'the way'.
+This divine couple [[consciousness]] represents as [[divine romance]] between [[Mahamaya]] and [[Mayapati]], were they cherish each other with deep love and participate totally with life.
+
+Through their eyes wherever we see, life is fully alive and celebrating itself, 
+(here the word - 'celebrating' is used in deeply mystical context, which transcend the duality of good and bad). 
+
+Your desires are [[sringar]] on divine couples, your everything/ your very existence becomes a sringar on them, 
+You are the essence of their [[sringar]]. 
+You become identified as their [[sringar]] bhava, as Anurupa.
+You are beauty in the heart of LakshmiNarayana, the way they aspire for each other, the way they keep falling in love with each other, they are 'the way'.
+
+as the service Lakshmi would do for Narayana and Narayana would do for Lakshmi.
+
+
 
 There is wholeness ( puranata ) of devi and devata viz divine feminine and divine masculine, within this yugala consciousness.
 
