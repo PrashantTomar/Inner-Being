@@ -3199,3 +3199,4 @@
 "event_logs:sources:modified": {"key":"sources:modified","ct":14226,"first_at":1766194015088,"last_at":1769148879059,"class_name":"EventLog","event_sources":{"obsidian:vault.modify":2962,"obsidian:workspace.editor-change":11264}},
 "event_logs:sources:imported": {"key":"sources:imported","ct":1618,"first_at":1766193915059,"last_at":1769148890067,"class_name":"EventLog"},
 "event_logs:item:embedded": {"key":"item:embedded","ct":2935,"first_at":1766193938674,"last_at":1769148890538,"class_name":"EventLog"},
+"event_logs:sources:opened": {"key":"sources:opened","ct":507,"first_at":1766193965660,"last_at":1769151620150,"class_name":"EventLog","event_sources":{"active-leaf-change":504,"file-open":3}},
