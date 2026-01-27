@@ -3,7 +3,7 @@ Created: 2026-01-07T16:11:00
 Notebook: "[[Deity Notebook - MOC]]"
 ---
 Connected topics :
-[[LakshmiNarayana]] - [[Yugala tattva]] - [[1st house]] - [[7th house]] 
+[[LakshmiNarayana]] - [[Yugala tattva]] - [[1st house]] - [[7th house]] - [[Relationship with Ishta-Devta.]]
 
 ------------
 
@@ -12,7 +12,7 @@ Note :
 
 [[Yugala tattva]] is [[supreme brahman]] ( [[the ultimate reality]] ) which is complete in itself, 
 
-This divine couple [[consciousness]] represents as [[divine romance]] between [[Mahamaya]] and [[Mayapati]], where they cherish each other with deep divine love and participate totally with life.
+This divine couple [[consciousness]] represents as [[divine romance]] between [[Mahamaya]] and [[Mayapati]], where they cherish each other with deep divine love, unquestioned devotion and participating totally with life.
 
 Through their eyes wherever we see, life is fully alive and celebrating itself, 
 (here the word - 'celebrating' is used in deeply mystical context, which transcend the duality of good and bad). 
