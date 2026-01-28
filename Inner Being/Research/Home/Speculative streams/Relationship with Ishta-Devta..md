@@ -14,7 +14,9 @@ This is from [[non-dual]] perspective, where you are the attribute/ mode of supr
 
 They are the Para-rupa and you are Anu-rupa.
 They are the Sariri and you are Sarira.
-They are the Praskha and you are Vimarsha.
+They are the Prakasha and you are Vimarsha.
+
+The essence of Apnapan.
 
 Your Ishta can be He/She/They as per your selection.
 
