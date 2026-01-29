@@ -10,7 +10,7 @@ Connected topics :
 
 Note : 
 
-[[Yugala tattva]] is [[supreme brahman]] ( [[the ultimate reality]] ) which is complete in itself, 
+[[Yugala tattva]] is [[supreme brahman]] ( [[the ultimate reality]] ) which is complete in itself.
 
 This divine couple [[consciousness]] represents as [[divine romance]] between [[Mahamaya]] and [[Mayapati]], where they cherish each other with deep divine love, unquestioned devotion and participating totally with life.
 
@@ -30,7 +30,8 @@ There is wholeness ( puranata ) of devi and devata viz Divine Feminine and Divin
 One's state of mind/being can cycle as :
 1. DF feeling DM
 2. DM feeling DF
-3. Aesthetic love between them.
+3. DF feeling DM & DM feeling DF simultaneously 
+4. Aesthetic love between them.
 
 Wholeness is always sustained here,
 You cycle as absolute love in constant change, and absolute change in constant love.
