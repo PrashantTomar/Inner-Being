@@ -54,7 +54,7 @@ Vishnu-Patni Namastestu, Namastestu Sri-Pati Namastestu Yugal-Prema Punaḥ puna
 
 Yugalam Sharanam mamah : 
 
-Divyayugalajato’smi
+Yugalajato’smi
 
 ---
 
