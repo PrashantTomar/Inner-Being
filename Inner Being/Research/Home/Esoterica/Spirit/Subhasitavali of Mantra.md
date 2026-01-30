@@ -10,6 +10,8 @@ Connected topics :
 
 Note : 
 
+And thus elucidated universality of mantra :
+
 कहां कहौं लगि नाम बड़ाई, राम न सकहि राम नाम गुण गाई।
 
 Name of a God or mantra is not a thought, It's the infinite appearing like a thought. Name is liminal, like a door is both inside and outside. Naam-Nami abhedha. Ishta and their Nama is all-in-all, as there is no-difference.
