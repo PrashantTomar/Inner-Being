@@ -52,9 +52,10 @@ LakshmiNarayana Nitya-Divya-Dampati Paramvijayate SriHari-SitaRama-RadheShyama-K
 
 Vishnu-Patni Namastestu, Namastestu Sri-Pati Namastestu Yugal-Prema Punaḥ punaḥ namastestu punaḥ
 
+Yugalajato’smi
+
 Yugalam Sharanam mamah : 
 
-Yugalajato’smi
 
 ---
 
