@@ -11,7 +11,7 @@ Connected topics :
 Note : 
 Esoteric meaning of [[Radha]] and [[Rukmini]] :
 
->Rukmini dwaravatyam Ca Radha vrindavana vane ( That which is Rukmini in Dwarka is Radha in Vrindavan)
+>Rukmini dwaravatyam Ca Radha vrindavana vane ( As Rukmini, She dwells in Dwaraka; and as Radha, She dwells in the forests of Vrindavan.)
 >~ Matsya Purana
 
 
