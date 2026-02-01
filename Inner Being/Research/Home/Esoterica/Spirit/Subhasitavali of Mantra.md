@@ -80,6 +80,45 @@ An aura is produced around that sadhaka who takes to japa sadhana honestly and s
 
 ~ Swami Krishnananda Saraswati
 
+Trika system I-ness of Mantra :
+
+For such a great _yogi_ the _mantra_, that supreme-I, universal-I (_mantra_ is here universal-I, not individual-I), the splendor of that universal-I is explained in this next _sūtra_, third.
+
+विद्याशरीरसत्ता मनत्ररहस्यम्
+
+**vidyā-śarīra-sattā mantra-rahasyam **
+
+“_Mantra rahasyam_, **the secret essence of _mantra_, is the establishment in the body of knowledge of oneness**, _vidyā_ _śarīra sattā_.”
+
+Knowledge here meant, the supreme knowledge of oneness, monistic thought. In the real sense, that is the supreme God who is the formation of the collection of all sounds (_śabda-rāśi_). All sounds are stored there; all sounds are created from there, from that point.
+
+So, in another sense, this state of God consciousness is that God consciousness which is – _viśva abhedamaya_ – one with the universe and filled with supreme I-consciousness
+
+This is the essence of all _mantras!
+
+Not “_Oṁ namaḥ Śivaya_ . . _. oṁ namo bhagavate vāsudevāya_”, these _mantras are not mantras in real sense. Mantra is that supreme I-consciousness – this is upaniṣat, ‘this is secret’.
+
+~ Shiva Sutra - The supreme awakening 
+
+
+ Divine union in mantra :
+
+_sarve varṇātmakā mantrāste ca śaktyātmakāḥ priye /_
+
+_śaktistu mātṛkā jñeyā sā ca jñeyā śivātmikā  //_3.130
+
+“All letters are actually one with _mantra_, and those _mantras are one with the energy of Lord Śiva – Mother – and that Mother is one with Lord Śiva.”
+
+~ Sri Tantrasadbhava tantra
+
+
+Divine Mother relationship with Mantra : 
+
+It is why all these letters rise from that supreme center of that energy of God consciousness – that is Divine Mother. And all _mantrass which are recited by _sādhakas, those _mantras also get _vīrya_, i.e., strength and splendor from that supreme Devī of God consciousness – _kuṇḍalinī_
+
+~ Swami Lakshmanjoo
+
+
 Sacred Sound :
 
 Sounding the sacred word, listening to it and realising its omnipresence, leads to linking up to the sound of space. The linking up is through breath. When sound and breath are thus united through invocation, the fluidic thread of life, prana, is linked up causing flow of plenty of prana into the person, thus keeping him alive - and keeping away the disease. When the sounding forth is known the disease is not known. Such is the importance of Sound. The healing student should therefore familiarise himself with sound from the preliminaries.
@@ -394,7 +433,7 @@ Sri Hari, the bestower of salvation, gives beauty, health, wordly possessions an
 
 Inspirational humility of NAMA :
 
-Sri Sri Chandrasekharendra Saraswati Swamigal [Maha Periyava] of Kaanchi Kaamakoti Peetam who is reverentially addressed as Nadamadum Deivam or the Walking God
+Sri Sri Chandrasekharendra Saraswati Swamigal (Maha Periyava )of Kaanchi Kaamakoti Peetam who is reverentially addressed as Nadamadum Deivam or the Walking God
 
 An excerpt of how he became the 68th pontiff was best told by Acharya himself and published in Bhavan's Journal, Bombay:
 
