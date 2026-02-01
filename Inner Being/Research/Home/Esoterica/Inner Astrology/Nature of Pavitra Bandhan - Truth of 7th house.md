@@ -1,7 +1,5 @@
 ---
 Created: 2025-12-26T14:17:00
-type:
-  - "#Fleeting_default"
 Notebook: "[[Inner Astrology - MOC]]"
 ---
 Connected topics :

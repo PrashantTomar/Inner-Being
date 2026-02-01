@@ -3,7 +3,7 @@ Created: 2026-02-01T14:11:00
 Notebook: "[[Deity Notebook - MOC]]"
 ---
 Connected topics :
-[[LakshmiNarayana]] - [[RadhaKrishna]] - [[Yugal Prema]] - [[Yugala tattva]] - [[Yugala Consciousness]]
+[[LakshmiNarayana]] - [[RadhaKrishna]] - [[Yugal Prema]] - [[Yugala tattva]] - [[Yugala Consciousness]] - [[Universal Desires of Bhakta]]  -  [[Conflict in the stories of Radha]] 
 
 
 ------------

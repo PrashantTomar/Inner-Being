@@ -12,13 +12,15 @@ Note :
 
 Advertisement of our sadhana always gets checked. Rhythmic [[yajna]] of our sadhana represent the competition of cycle. When the necessary cycle is not completed it always leads to leakage of avidya. 
 
+So awareness of arrogance of sadhana is important.
+
 
 
 ----
 
 
 Status :
-#Fleeting_default 
+#Permanent 
 
 Reference :
 

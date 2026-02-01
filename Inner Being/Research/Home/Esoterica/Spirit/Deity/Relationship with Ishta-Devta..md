@@ -3,7 +3,7 @@ Created: 2026-01-27T15:13:00
 Notebook: "[[Deity Notebook - MOC]]"
 ---
 Connected topics :
-[[Yugala Consciousness]] - [[non-dual]]
+[[Yugala Consciousness]] - [[non-dual]] - [[Supreme I consciousness - LakshmiNarayana]] 
 
 
 ------------

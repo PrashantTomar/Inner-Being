@@ -3,9 +3,9 @@ Created: 2026-01-29T12:38:00
 Notebook: "[[Spirit Knowledge - MOC]]"
 ---
 Connected topics :
-[[Ishta devta]] - [[4th house]] - [[Yugala Consciousness]] 
+[[Ishta devta]] - [[4th house]] - [[Yugala Consciousness]] - [[RadhaRukmini Abhedha]] - [[Conflict in the stories of Radha]] 
 
-
+ 
 ------------
 
 Note : 

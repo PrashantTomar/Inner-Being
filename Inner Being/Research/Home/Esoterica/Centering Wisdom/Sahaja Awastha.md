@@ -1,9 +1,5 @@
 ---
 Created: 2025-12-18T13:08:00
-aliases:
-Meta Content:
-type:
-  - "#Fleeting_default"
 Notebook: "[[Centering Wisdom MOC|Centering Wisdom MOC]]"
 ---
 Connected topics :
