@@ -13,11 +13,14 @@ Note :
 Don't dwell into mythologies blindly, see the nature of idol worship, this is only thing important.
 
 According to the form of idol that you have chosen, different stories will have different relevance and irrelevance.
-So many versions are there vo radhakrishna stories.
+So many versions are there vo RadhaKrishna stories.
 
-but look at radhavallbha samprdaya, the way Radhakrishna appeared to them and how she is nitya kishori there.
+but look at Radhavallbha Samprdaya, the way Radhakrishna appeared to them and how she is nitya kishori there.
 then this chaya radha type of things will make sense, when seen from different POV of idol worship.
 
+there are different versions of it, but main point is to understand the tattvam, the stories are communicating.
+
+Tattvam communications are very common in yogic ways of living.
 
 
 
