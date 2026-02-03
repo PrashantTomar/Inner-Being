@@ -1,16 +1,15 @@
 ---
-Created: 2026-02-03T18:50:00
-Notebook: "[[Deity Notebook - MOC]]"
+Created: 2026-02-03T19:37:00
+Notebook:
 ---
 Connected topics :
-
+[[Mars]] - [[Lagna]] - [[Sadhana]] - [[kriya shakti]]
 
 
 ------------
 
 Note : 
 
-Deep embodiment of 8.7 and 3.22 from Bhagwat gita.
 
 
 

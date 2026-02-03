@@ -10,7 +10,7 @@ Status :
 #Fleeting_default 
 
 Connectivity within body, awareness of it, is high quality [[../Inner Astrology/Lagna|Lagna]]
-They work in counter movement or rotation, that how we become aware of them, known as [[Fascia Maneur]]. Through these counter rotation we unwind the restriction in our [[body]].
+They work in counter movement or rotation, that how we become aware of them, known as [[Fascia Maneur]]. Through these counter rotation we unwind the restriction in our [[Body, Mind and Spirit]].
 
 Joints are like [[awareness pointers ]] which makes revelation of fascia working easier.
 We are rotational system
