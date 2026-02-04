@@ -7,12 +7,12 @@ type:
 Notebook: "[[Bhu Consciousness - MOC]]"
 ---
 Connected topics :
-[[../Inner Astrology/Lagna|Lagna]] - [[../Spirit/Mantra]]
+[[../Inner Astrology/Lagna|Lagna]] - [[Mantra]]
 
 Status :
 #Fleeting_default 
 
 
-The words you speak program your body, that's how through [[../Spirit/Mantra]] you can create significant changes in your body.
+The words you speak program your body, that's how through [[Mantra]] you can create significant changes in your body.
 All these enhances our [[body-mind connection]] to a great degree.
 

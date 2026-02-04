@@ -2,7 +2,7 @@
 Created: 2025-12-22T20:01:00
 type:
   - "#Fleeting_default"
-Notebook:
+Notebook: "[[Inner Astrology - MOC]]"
 ---
 Connected topics :
 [[Lagna]] - [[1st House]] 

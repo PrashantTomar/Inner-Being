@@ -56,18 +56,6 @@
             }
           },
           {
-            "id": "bbb819eef0822508",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Business Systems -Excalidraw/Real-estate Brainstorm.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Real-estate Brainstorm.excalidraw"
-            }
-          },
-          {
             "id": "e07f3396b3d0ab45",
             "type": "leaf",
             "state": {
@@ -77,20 +65,6 @@
               },
               "icon": "excalidraw-icon",
               "title": "Daily workflow visualization 1 - 30 Dec"
-            }
-          },
-          {
-            "id": "7bbeba6a5ad67c6a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inner Being/Research/Home/Speculative streams/Real-estate brainstorming.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Real-estate brainstorming"
             }
           },
           {
@@ -108,26 +82,12 @@
             }
           },
           {
-            "id": "831a3b43148cdb1e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inner Being/Research/Home/Esoterica/Spirit/Deity/RadhaRukmini Abhedha.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "RadhaRukmini Abhedha"
-            }
-          },
-          {
             "id": "b6ecda8ded2ec0b9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inner Being/Research/Home/Speculative streams/Conflict in the stories of Radha.md",
+                "file": "Inner Being/Research/Home/Esoterica/Spirit/Deity/Conflict in the stories of Radha.md",
                 "mode": "source",
                 "source": false
               },
@@ -141,7 +101,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inner Being/Research/Home/Speculative streams/Science behind Radha's Vigraha.md",
+                "file": "Inner Being/Research/Home/Esoterica/Spirit/Deity/Science behind Radha's Vigraha.md",
                 "mode": "source",
                 "source": false
               },
@@ -150,26 +110,12 @@
             }
           },
           {
-            "id": "b6fc131acc830e9c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inner Being/Research/Home/Esoterica/Spirit/Deity/Approaching relationships as LakshmiNarayana Sadhaka.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Approaching relationships as LakshmiNarayana Sadhaka"
-            }
-          },
-          {
             "id": "3233d51d2db7e501",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inner Being/Research/Home/Speculative streams/Body, Mind and Spirit.md",
+                "file": "Inner Being/Research/Home/Esoterica/Bhu Consciousness/Body, Mind and Spirit.md",
                 "mode": "source",
                 "source": false
               },
@@ -177,8 +123,7 @@
               "title": "Body, Mind and Spirit"
             }
           }
-        ],
-        "currentTab": 12
+        ]
       }
     ],
     "direction": "vertical"
@@ -253,8 +198,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 337.5,
-    "collapsed": true
+    "width": 246.5
   },
   "right": {
     "id": "64c4ba06bba09625",
@@ -382,54 +326,54 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3233d51d2db7e501",
+  "active": "3e65f7528486b710",
   "lastOpenFiles": [
-    "Inner Being/Research/Home/Esoterica/Spirit/Deity/Approaching relationships as LakshmiNarayana Sadhaka.md",
-    "Inner Being/Research/Home/Speculative streams/Body, Mind and Spirit.md",
-    "Inner Being/Research/Home/Speculative streams/Pasted image 20260203185042.png",
-    "Excalidraw/Spiritual/Esoterica revelations.md",
-    "Excalidraw/Business Systems -Excalidraw/Learning from professionals.md",
     "Excalidraw/Business Systems -Excalidraw/Defining Sequence of  Learning.md",
     "Excalidraw/Business Systems -Excalidraw/Business MOC - 2025.md",
     "Excalidraw/Business Systems -Excalidraw/Real-estate Brainstorm.excalidraw.md",
     "Daily Workflow/Daily workflow visualization 1 - 30 Dec.md",
-    "Inner Being/Research/Home/Speculative streams/Real-estate brainstorming.md",
     "Inner Being/Research/Home/Esoterica/Inner Astrology/Integrity of Kama - ( Mars & Venus ).md",
-    "Inner Being/Research/Home/Esoterica/Spirit/Deity/RadhaRukmini Abhedha.md",
-    "Inner Being/Research/Home/Speculative streams/Conflict in the stories of Radha.md",
-    "Inner Being/Research/Home/Speculative streams/Science behind Radha's Vigraha.md",
-    "Inner Being/Research/Home/Esoterica/Spirit/Deity/Universal Desires of Bhakta.md",
-    "Inner Being/Research/Home/Speculative streams/Dharma-Gati design of GOD.md",
-    "Inner Being/Research/Home/Speculative streams/Learning business form professionals.md",
-    "Inner Being/Research/Home/Speculative streams/Life of Bheema and Arjuna.md",
-    "Inner Being/Research/Home/Esoterica/Inner Astrology/Nature of Pavitra Bandhan - Truth of 7th house.md",
-    "Inner Being/Research/Home/Esoterica/Centering Wisdom/Outlook on Sadhana and Upasana..md",
-    "Inner Being/Research/Home/Esoterica/Spirit/Deity/Relationship with Ishta-Devta..md",
-    "Inner Being/Research/Home/Esoterica/Centering Wisdom/Sahaja Awastha.md",
-    "Inner Being/Research/Home/Esoterica/Spirit/Deity/Supreme I consciousness - LakshmiNarayana.md",
-    "Inner Being/Research/Home/Esoterica/Centering Wisdom/True Seva.md",
-    "Inner Being/Research/Home/Esoterica/Inner Astrology/Chinmaya Dham - Sringar sthan.md",
-    "Inner Being/Research/Home/Speculative streams/That which runs in my veins.md",
-    "Inner Being/Research/Home/Speculative streams/Arrogance of Sadhana.md",
-    "Inner Being/Research/Home/Speculative streams/Pasted image 20260123234001.png",
-    "Inner Being/Research/Home/Speculative streams/Pasted image 20260123233952.png",
-    "Inner Being/Research/Home/Speculative streams/Pasted image 20260123233727.png",
-    "Inner Being/Research/Home/Speculative streams/Pasted image 20260123233718.png",
-    "Inner Being/Research/Home/Speculative streams/Pasted image 20260123233712.png",
+    "Inner Being/Research/Home/Esoterica/Spirit/Deity/Conflict in the stories of Radha.md",
+    "Inner Being/Research/Home/Esoterica/Spirit/Deity/LakshmiNarayana/RadhaRukmini Abhedha.md",
+    "Inner Being/Research/Home/Esoterica/Spirit/Deity/Science behind Radha's Vigraha.md",
+    "Inner Being/Research/Home/Esoterica/Bhu Consciousness/Body, Mind and Spirit.md",
+    "Inner Being/Research/Home/Esoterica/Spirit/Deity/LakshmiNarayana/Approaching relationships as LakshmiNarayana Sadhaka.md",
+    "Inner Being/Research/Home/Speculative streams/Raw thought Streams.base",
+    "Images/Pasted image 20260203185042.png",
+    "Images/Pasted image 20260123234001.png",
+    "Images/Pasted image 20260123233952.png",
+    "Images/Pasted image 20260123233727.png",
+    "Images/Pasted image 20260123233718.png",
+    "Images/Pasted image 20260123233712.png",
+    "Inner Being/Research/Home/Esoterica/Spirit/Spirit-Knowledge/Sat-Buddhi underlying current of all high-vibrations..md",
+    "Images",
+    "Inner Being/Research/Home/Esoterica/Spirit/Spirit-Knowledge/Spirit Knowledge - MOC.md",
+    "Inner Being/Research/Home/Esoterica/Centering Wisdom/Carrer as medium.md",
+    "Inner Being/Research/Home/Esoterica/Centering Wisdom/Arrogance of Sadhana.md",
+    "Inner Being/Research/Home/Speculative streams/A Beautiful Insanity..md",
+    "Inner Being/Research/Home/Kavyatmak Lehrein/Lyricism/Not your own.md",
+    "Inner Being/Research/Home/Speculative streams/Contemplation to heal 2nd house.md",
+    "Inner Being/Research/Home/Esoterica/Inner Astrology/Decision Intelligence.md",
+    "Inner Being/Research/Home/Kavyatmak Lehrein/Words from Depth/Her fragrant grace in my mundane..md",
+    "Inner Being/Research/Home/Esoterica/Spirit/Spirit-Knowledge/Dharma-Gati design of GOD.md",
+    "Inner Being/Research/Home/Business System/Learning business form professionals.md",
+    "Inner Being/Research/Home/Esoterica/Centering Wisdom/Life of Bheema and Arjuna.md",
+    "Inner Being/Research/Home/Speculative streams/High order speculations while producing.md",
+    "Inner Being/Research/Home/Business System/Mental Models/Peers vs vendors.md",
+    "Inner Being/Research/Home/Esoterica/Inner Astrology/Pitra Dosha.md",
+    "Inner Being/Research/Home/Esoterica/Spirit/Deity/LakshmiNarayana/Yugal Hrudayam.md",
+    "Inner Being/Research/Home/Esoterica/Spirit/Spirit-Knowledge",
     "Excalidraw/Scripts/Downloaded/Normalize Selected Arrows.svg",
     "Excalidraw/Spiritual",
     "Excalidraw/People -  Excalidraw",
-    "Inner Being/Research/Home/Speculative streams/Raw thought Streams.base",
     "Excalidraw/Business Systems -Excalidraw",
     "Untitled.canvas",
     "Inner Being/Research/Home/Esoterica/Spirit/Deity/LakshmiNarayana",
     "Inner Being/Research/Home/Esoterica/Spirit/Deity",
     "Inner Being/Research/Home/Esoterica/Inner Astrology/Inner Astrology-Base.base",
     "Base_Being",
-    "InnerBeing_base",
     "Excalidraw/Scripts/Downloaded/Mindmap Builder.svg",
     "Excalidraw/Scripts/Downloaded/Add Next Step in Process.svg",
-    "Excalidraw/Scripts/Downloaded/Box Selected Elements.svg",
-    "Excalidraw/Scripts/Downloaded"
+    "Excalidraw/Scripts/Downloaded/Box Selected Elements.svg"
   ]
 }

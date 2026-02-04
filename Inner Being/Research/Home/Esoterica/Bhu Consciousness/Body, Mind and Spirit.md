@@ -1,6 +1,6 @@
 ---
 Created: 2026-02-03T19:37:00
-Notebook:
+Notebook: "[[Bhu Consciousness - MOC]]"
 ---
 Connected topics :
 [[Mars]] - [[Lagna]] - [[Sadhana]] - [[kriya shakti]]

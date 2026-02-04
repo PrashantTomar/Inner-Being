@@ -3,7 +3,7 @@ Created: 2026-02-03T18:50:00
 Notebook: "[[Deity Notebook - MOC]]"
 ---
 Connected topics :
-[[7th House]] - [[LakshmiNarayana]] 
+[[7th House]] - [[LakshmiNarayana]] - [[Sadhana]] 
 
 
 ------------
@@ -50,6 +50,8 @@ Meaning: Then I will approach you and enter your mouth; I tell you the truth. Mo
 
 
 This in term is our relationship with the COSMOS itself.
+
+Our interaction is Venusian and our intention is Jupiterian.
 
 ----
 
