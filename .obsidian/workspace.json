@@ -198,7 +198,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 246.5
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "64c4ba06bba09625",
@@ -326,7 +327,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3e65f7528486b710",
+  "active": "a484bd339b56d9d7",
   "lastOpenFiles": [
     "Excalidraw/Business Systems -Excalidraw/Defining Sequence of  Learning.md",
     "Excalidraw/Business Systems -Excalidraw/Business MOC - 2025.md",
