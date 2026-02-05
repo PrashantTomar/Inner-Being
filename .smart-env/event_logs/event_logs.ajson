@@ -2289,3 +2289,4 @@
 "event_logs:sources:opened": {"key":"sources:opened","ct":832,"first_at":1766193965660,"last_at":1770221438255,"class_name":"EventLog","event_sources":{"active-leaf-change":828,"file-open":4}},
 "event_logs:sources:opened": {"key":"sources:opened","ct":833,"first_at":1766193965660,"last_at":1770221439650,"class_name":"EventLog","event_sources":{"active-leaf-change":829,"file-open":4}},
 "event_logs:sources:opened": {"key":"sources:opened","ct":834,"first_at":1766193965660,"last_at":1770221441485,"class_name":"EventLog","event_sources":{"active-leaf-change":830,"file-open":4}},
+"event_logs:plugin:new_version_available": {"key":"plugin:new_version_available","ct":165,"first_at":1766478584971,"last_at":1770275194804,"class_name":"EventLog"},
