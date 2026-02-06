@@ -136,9 +136,21 @@
               "icon": "lucide-file",
               "title": "Supreme I consciousness - LakshmiNarayana"
             }
+          },
+          {
+            "id": "2a58d44b5a537c5d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.7"
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -342,7 +354,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "72da650c314ccde8",
+  "active": "2a58d44b5a537c5d",
   "lastOpenFiles": [
     "Inner Being/Research/Home/Esoterica/Spirit/Deity/Supreme I consciousness - LakshmiNarayana.md",
     "Inner Being/Research/Home/Esoterica/Bhu Consciousness/Body, Mind and Spirit.md",
