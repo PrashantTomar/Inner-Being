@@ -28,11 +28,27 @@ sunlight shimmering these eyelashes with your memory
 my life became complete 
 a momentary bliss ;
 
-and suddenly the street brought me back to life
-thought I lost it
+when suddenly 
+these streets snapped me back to life
 
-but heart never forgets where it really belong
+founding myself gripping this vegetable bag,
+vendor blasting in full volume :
+" Bhaiya, Jaldi Karo !! Bheed hota hain." 
+.
+Poor me caught in the dichotomy of two reality, I chose the latter one
+.
+Thought I lost this magic ;
 
+but this heart 
+would it ever forget where it really belongs ?
+echoed back my veins 
+
+and rest of my day continued
+following the movement of SUN.
+
+. . . . . . . .
+
+~Srinivasayy 
 
 
 
