@@ -857,7 +857,6 @@ Whoever recites it attains the supreme abode of Viṣṇu.
 ~ Prahlad
 
 
-
 Glory of Japa :
 
 DIFFICULTIES IN LIFE
@@ -879,6 +878,58 @@ May the Lord remove all your difficulties. May He fill your mind with infinite p
 Thy own Self
 
 ~ Sivananda
+
+
+Nāma mahimā (The Glories of Nāma) :
+
+(3)
+smṛti kahe helāya śraddhāya nāma laya
+kṛṣṇa tāre kṛpā kari hayena sadaya
+
+“The smṛti says that Kṛṣṇa is merciful to anyone who chants nāma with faith, or even with neglect.
+
+(4)
+nāmera sadṛśa jñāna nāhika nirmala
+nāmera sadṛśa vrata nāhika prabala
+
+“There is no knowledge as pure as the Holy Name. There is no vrata as powerful as the Holy Name.
+
+(5)
+nāmera sadṛśa dhyāna nāhi e jagate
+nāmera sadṛśa phala nāhi kona mate
+
+“There is no meditation in this world like that of the Holy Name. There is no philosophy that gives a result like that of the Holy Name.
+
+(6)
+nāmera sadṛśa tyāga kona rūpe naya
+nāmera sadṛśa sama kabhu nāhi haya
+
+“There is no form of renunciation like that of the Holy Name. There is nothing equal to the Holy Name.
+
+(7)
+nāmera sadṛśa puṇya nāhi e saṁsāre
+nāmera sadṛśa gati nā dekhi vicāre
+
+“There is no piety in this world like that of the Holy Name. I do not consider that there is any destination like that of the Holy Name.
+
+(8)
+nāma-i parama mukti nāma ucca-gati
+nāma-i parama śānti nāma ucca-sthiti
+
+“The Name is the highest type of liberation. The Name is the highest type of destination. The Name is the highest type of peace. The Name is the highest situation.
+
+(9)
+nāma-i parama bhakti nāma śuddhā mati
+nāma-i parama prīti nāma parā smṛti
+
+“The Name is the highest type of bhakti. The Name is the highest type of love. The Name is the highest type of remembrance.
+
+(10)
+nāma-i kāraṇa tattva nāma sarva-prabhu
+parama ārādhya nāma guru-rūpe vibhu
+
+“The Name is the ultimate cause. The Name is the Lord of all. The Name is the most worshippable, and the Name appears as the greatest guru.
+
 
 Only Nama, the supreme glory :
 
@@ -1013,58 +1064,6 @@ Is Only the name of Hari,
 Which is full of eternal joy.
 
 ~Sri Adi Shankaracharya
-
-
-Nāma mahimā (The Glories of Nāma)
-
-(3)
-smṛti kahe helāya śraddhāya nāma laya
-kṛṣṇa tāre kṛpā kari hayena sadaya
-
-“The smṛti says that Kṛṣṇa is merciful to anyone who chants nāma with faith, or even with neglect.
-
-(4)
-nāmera sadṛśa jñāna nāhika nirmala
-nāmera sadṛśa vrata nāhika prabala
-
-“There is no knowledge as pure as the Holy Name. There is no vrata as powerful as the Holy Name.
-
-(5)
-nāmera sadṛśa dhyāna nāhi e jagate
-nāmera sadṛśa phala nāhi kona mate
-
-“There is no meditation in this world like that of the Holy Name. There is no philosophy that gives a result like that of the Holy Name.
-
-(6)
-nāmera sadṛśa tyāga kona rūpe naya
-nāmera sadṛśa sama kabhu nāhi haya
-
-“There is no form of renunciation like that of the Holy Name. There is nothing equal to the Holy Name.
-
-(7)
-nāmera sadṛśa puṇya nāhi e saṁsāre
-nāmera sadṛśa gati nā dekhi vicāre
-
-“There is no piety in this world like that of the Holy Name. I do not consider that there is any destination like that of the Holy Name.
-
-(8)
-nāma-i parama mukti nāma ucca-gati
-nāma-i parama śānti nāma ucca-sthiti
-
-“The Name is the highest type of liberation. The Name is the highest type of destination. The Name is the highest type of peace. The Name is the highest situation.
-
-(9)
-nāma-i parama bhakti nāma śuddhā mati
-nāma-i parama prīti nāma parā smṛti
-
-“The Name is the highest type of bhakti. The Name is the highest type of love. The Name is the highest type of remembrance.
-
-(10)
-nāma-i kāraṇa tattva nāma sarva-prabhu
-parama ārādhya nāma guru-rūpe vibhu
-
-“The Name is the ultimate cause. The Name is the Lord of all. The Name is the most worshippable, and the Name appears as the greatest guru.
-
 
 
 

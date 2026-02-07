@@ -3,7 +3,7 @@ Created: 2026-01-30T21:06:00
 Notebook: "[[Deity Notebook - MOC]]"
 ---
 Connected topics :
-[[Yugal Hrudayam]] - [[LakshmiNarayana]] - [[Alchemy of MahaLakshmi - MOC]] - [[Ideal Grihastha ( Householder )]] -[[Universality of Sahasranama's]]
+[[Yugal Hrudayam]] - [[LakshmiNarayana]] - [[Alchemy of MahaLakshmi - MOC]] - [[Ideal Grihastha ( Householder )]] -[[Universality of Sahasranama]]
 
 
 ------------
