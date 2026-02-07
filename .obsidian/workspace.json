@@ -122,65 +122,9 @@
               "icon": "lucide-file",
               "title": "Body, Mind and Spirit"
             }
-          },
-          {
-            "id": "72da650c314ccde8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inner Being/Research/Home/Esoterica/Spirit/Deity/Supreme I consciousness - LakshmiNarayana.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Supreme I consciousness - LakshmiNarayana"
-            }
-          },
-          {
-            "id": "03560b31da795c44",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inner Being/Research/Home/Esoterica/Centering Wisdom/Yogaḥ karmasu kauśalam.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Yogaḥ karmasu kauśalam"
-            }
-          },
-          {
-            "id": "3e7da3efc147a6a6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inner Being/Research/Home/Esoterica/Spirit/Spirit-Knowledge/Strotam as psychological kindness and energy portals.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Strotam as psychological kindness and energy portals"
-            }
-          },
-          {
-            "id": "22a93eac5af4b1a0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inner Being/Research/Home/Speculative streams/Sringar of Manas with Rasa of Deity..md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sringar of Manas with Rasa of Deity."
-            }
           }
         ],
-        "currentTab": 12
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -384,25 +328,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "22a93eac5af4b1a0",
+  "active": "b911979e633397af",
   "lastOpenFiles": [
-    "Inner Being/Research/Home/Speculative streams/Pasted image 20260207140202.png",
+    "Excalidraw/Business Systems -Excalidraw/Learning from professionals.md",
     "Excalidraw/Spiritual/Esoterica revelations.md",
-    "Inner Being/Research/Home/Esoterica/Spirit/Deity/Yugala Consciousness.md",
-    "Inner Being/Research/Home/Speculative streams/Sringar of Manas with Rasa of Deity..md",
+    "Excalidraw/Business Systems -Excalidraw/Defining Sequence of  Learning.md",
+    "Excalidraw/Business Systems -Excalidraw/Business MOC - 2025.md",
+    "Inner Being/Research/Home/Esoterica/Inner Astrology/Integrity of Kama - ( Mars & Venus ).md",
+    "Inner Being/Research/Home/Esoterica/Spirit/Deity/Conflict in the stories of Radha.md",
+    "Inner Being/Research/Home/Esoterica/Spirit/Deity/Science behind Radha's Vigraha.md",
+    "Inner Being/Research/Home/Esoterica/Bhu Consciousness/Body, Mind and Spirit.md",
+    "Inner Being/Research/Home/Esoterica/Spirit/Deity/Supreme I consciousness - LakshmiNarayana.md",
+    "Inner Being/Research/Home/Esoterica/Centering Wisdom/Yogaḥ karmasu kauśalam.md",
     "Inner Being/Research/Home/Esoterica/Spirit/Spirit-Knowledge/Strotam as psychological kindness and energy portals.md",
+    "Inner Being/Research/Home/Esoterica/Centering Wisdom/Sringar of Manas with Rasa of Deity..md",
+    "Inner Being/Research/Home/Esoterica/Centering Wisdom/Pasted image 20260207141234.png",
+    "Inner Being/Research/Home/Speculative streams/Pasted image 20260207140202.png",
+    "Inner Being/Research/Home/Esoterica/Spirit/Deity/Yugala Consciousness.md",
     "Inner Being/Research/Home/Esoterica/Spirit/Spirit-Knowledge/Subhasitavali of Mantra.md",
     "Inner Being/Research/Home/Esoterica/Spirit/Deity/Sahasranama/Universality of Sahasranama.md",
     "Inner Being/Research/Home/Esoterica/Spirit/Deity/Sahasranama/Vishnu Sahasranama/Vishnu Sahasranama - Base.base",
-    "Inner Being/Research/Home/Esoterica/Centering Wisdom/Yogaḥ karmasu kauśalam.md",
-    "Inner Being/Research/Home/Esoterica/Spirit/Deity/Supreme I consciousness - LakshmiNarayana.md",
-    "Inner Being/Research/Home/Esoterica/Bhu Consciousness/Body, Mind and Spirit.md",
-    "Inner Being/Research/Home/Esoterica/Spirit/Deity/Science behind Radha's Vigraha.md",
-    "Inner Being/Research/Home/Esoterica/Spirit/Deity/Conflict in the stories of Radha.md",
-    "Inner Being/Research/Home/Esoterica/Inner Astrology/Integrity of Kama - ( Mars & Venus ).md",
-    "Excalidraw/Business Systems -Excalidraw/Learning from professionals.md",
-    "Excalidraw/Business Systems -Excalidraw/Defining Sequence of  Learning.md",
-    "Excalidraw/Business Systems -Excalidraw/Business MOC - 2025.md",
     "Excalidraw/Business Systems -Excalidraw/Real-estate Brainstorm.excalidraw.md",
     "Daily Workflow/Daily workflow visualization 1 - 30 Dec.md",
     "Inner Being/Research/Home/Esoterica/Spirit/Deity/LakshmiNarayana/RadhaRukmini Abhedha.md",
@@ -430,8 +375,6 @@
     "Inner Being/Research/Home/Esoterica/Spirit/Deity/LakshmiNarayana",
     "Inner Being/Research/Home/Esoterica/Spirit/Deity",
     "Inner Being/Research/Home/Esoterica/Inner Astrology/Inner Astrology-Base.base",
-    "Excalidraw/Scripts/Downloaded/Mindmap Builder.svg",
-    "Excalidraw/Scripts/Downloaded/Add Next Step in Process.svg",
-    "Excalidraw/Scripts/Downloaded/Box Selected Elements.svg"
+    "Excalidraw/Scripts/Downloaded/Mindmap Builder.svg"
   ]
 }

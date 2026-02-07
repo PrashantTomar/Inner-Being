@@ -3,7 +3,7 @@ Created: 2026-02-07T12:42:00
 Notebook: "[[Centering Wisdom MOC]]"
 ---
 Connected topics :
-[[Sadhana]] - [[Moon]] - [[MarsVenus]] - [[sringar]] - [[Strotam]] - [[Mantra]] - [[Subhasitavali of Mantra]] -[[Yugal Hrudayam]] - [[Strotam as psychological kindness and energy portals]] - [[Universality of Sahasranama]]
+[[Sadhana]] - [[Moon]] - [[MarsVenus]] - [[sringar]] - [[Strotam]] - [[Mantra]] - [[Subhasitavali of Mantra]] -[[Yugal Hrudayam]] - [[Strotam as psychological kindness and energy portals]] - [[Universality of Sahasranama]] - [[Deity]]
 
 
 ------------
@@ -20,7 +20,7 @@ Jeevanane dhane nityam LakshmiNarayana gati mam.
 
 
 
-![[Pasted image 20260207140202.png]]
+![[Pasted image 20260207141234.png]]
 
 
 
