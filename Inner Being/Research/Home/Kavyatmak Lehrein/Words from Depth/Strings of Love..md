@@ -25,7 +25,7 @@ and the way you run in my veins
 the way sky is melting today
 sunlight shimmering these eyelashes
 this warmth of your presence
-your thought 
+and lifetimes of love. 
 
 my life became complete 
 a momentary bliss ;
@@ -35,15 +35,15 @@ these streets behind my back
 snapped me back to life
 
 founding myself gripping hard a vegetable bag,
-local vendor blasted in full volume :
+that local vendor blasted in full volume :
 
 " Bhaiya, Jaldi Karo !! Bheed hota hain." 
 .
-Poor me caught in the dichotomy of two reality, I chose the latter one
+Poor me caught in the dichotomy of two realities, I chose the latter one
 .
 Thought I lost this magic ;
 
-but this heart 
+but this HEART
 would it ever forget where it really belongs ?
 
 echoed back my veins ;
@@ -70,8 +70,8 @@ Status :
 
 
 Language :
-#Hindi  / #English
+#English
 
 
 Type :
-#Lyrics   / #Writeup 
+#Writeup 
