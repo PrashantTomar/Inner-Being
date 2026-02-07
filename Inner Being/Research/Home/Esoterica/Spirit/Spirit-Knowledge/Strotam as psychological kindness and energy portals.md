@@ -14,6 +14,7 @@ Strotam are treated as high-quality psychological kindness we do to SELF, they b
 
 When chanted along mantras, they form a beautiful catalyst, and helps devotee to create quick relatability with their deity.
 
+Different strotams are alive and they have their own subtle body, in accordance with kind of energy being described there.
 
 Strotam + Mantra -> Quicker healing.
 

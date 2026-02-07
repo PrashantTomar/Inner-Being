@@ -54,6 +54,17 @@ You will be stunned by the power of thought. Miracles will take place if the tho
 
 ~ Swami Krishnananda Saraswati
 
+
+Bhavam in Mantra is the highest, that reverence for it, it is sufficient :
+
+Visitor: Is it a sin if a mantra is mispronounced due to ignorance or physical defect?
+
+Swamiji: Some people become fanatics and think only their mantra works and only if pronounced correctly. A devotee in Tamil Nadu used to recite 'Namah Chivaya' (instead of 'Namah Sivaya') with such faith that he was able to walk on water reciting 'Nama Chivaya'. One day a grammarian taught the devotee to pronounce the mantra correctly as 'Namah Sivaya'. But with the correct pronunciation the devotee could no longer walk on water. He fell into the water because he was concentrating on the pronunciation of the mantra and had also lost faith in his Guru who gave the mantra.
+
+Swamiji: There was a sweeper woman who approached her employer, a proud Namboodiri Brahmin of Kerala, for a mantra she could recite. He was angry that she should ask for a mantra, as she was of a low caste. But she persisted. The Namboodiri got angry and yelled at her contemptuously "Go and recite 'Tapala Curry', meaning frog curry. The woman took it in good faith and went on repeating the phrase with such devotion that she became enlightened. People asked her who her Guru was, and when she told them they went and praised his disciple's saintliness and how good a Guru he must be. But the Namboodiri had forgotten all about the low caste woman. Now he remembered the incident and felt sorry for himself, for he was still in samsara while she had become enlightened with the 'frog curry' mantra! All these parables emphasise the importance of the attitude or Bhava in mantra japa. The attitude is much more important than the mere sound of the word
+
+~ Swami Krishnananda Saraswati
+
 Strota :
 
 When we have learnt fully to recite “stotra”, committed it to memory, and can chant it anytime too at will flawlessly and effortlessly, it means that we have internalized it within ourselves in the depths of our mind. Once, that process of internalization is complete, we can be sure that the “stotra”, which is really another less formalized mode of repeating sacred Vedic “manthra”, will start working its magic, as it were, inside our mind. What is that “magic”?
@@ -712,6 +723,129 @@ As your word becomes pure, knowledge will flow through it. The words flow out of
 REMEMBERING THE MANTRA CONSTANTLY IS MEDITATION.
 
 ~ Sri Nissargadatta Maharaj
+
+
+Just the two akshar HARI is enough :
+
+Sri Hari Ashtakam (Prahlada Krutam) -
+
+harirharati pāpāni duṣṭachittairapi smṛtaḥ ।
+
+anichChayā'pi saṃspṛṣṭō dahatyēva hi pāvakaḥ ॥ 1 ॥
+
+sa gaṅgā sa gayā sētuḥ sa kāśī sa cha puṣkaram ।
+
+jihvāgrē vartatē yasya harirityakṣaradvayam ॥ 2 ॥
+
+vārāṇasyāṃ kurukṣētrē naimiśāraṇya ēva cha ।
+
+yatkṛtaṃ tēna yēnōktaṃ harirityakṣaradvayam ॥ 3 ॥
+
+pṛthivyāṃ yāni tīrthāni puṇyānyāyatanāni cha ।
+
+tāni sarvāṇyaśēṣāṇi harirityakṣaradvayam ॥ 4 ॥
+
+gavāṃ kōṭisahasrāṇi hēmakanyāsahasrakam ।
+
+dattaṃ syāttēna yēnōktaṃ harirityakṣaradvayam ॥ 5 ॥
+
+ṛgvēdō'tha yajurvēdaḥ sāmavēdō'pyatharvaṇaḥ ।
+
+adhītastēna yēnōktaṃ harirityakṣaradvayam ॥ 6 ॥
+
+aśvamēdhairmahāyajñairnaramēdhaistathaiva cha ।
+
+iṣṭaṃ syāttēna yēnōktaṃ harirityakṣaradvayam ॥ 7 ॥
+
+prāṇaḥ prayāṇa pāthēyaṃ saṃsāravyādhināśanam ।
+
+duḥkhātyanta paritrāṇaṃ harirityakṣaradvayam ॥ 8 ॥
+
+baddhaḥ parikarastēna mōkṣāya gamanaṃ prati ।
+
+sakṛduchchāritaṃ yēna harirityakṣaradvayam ॥ 9 ॥
+
+haryaṣṭakamidaṃ puṇyaṃ prātarutthāya yaḥ paṭhēt ।
+
+āyuṣyaṃ balamārōgyaṃ yaśō vṛddhiḥ śriyāvaham ॥ 10 ॥
+
+prahlādēna kṛtaṃ stōtraṃ duḥkhasāgaraśōṣaṇam ।
+
+yaḥ paṭhētsa narō yāti tadviṣṇōḥ paramaṃ padam ॥ 11 ॥
+
+iti prahlādakṛta śrī haryaṣṭakam ।
+
+**1.**
+
+Hari removes sins even when remembered by people of impure mind.
+
+Just as fire burns even when touched unintentionally.
+
+**2.**
+
+For the one on whose tongue’s tip dwell the two syllables “Hari,”
+
+that itself becomes the Gaṅgā, Gayā, Setu, Kāśī, and Puṣkara.
+
+**3.**
+
+Whatever merit is obtained by acts done in Vārāṇasī, Kurukṣetra, or Naimiśāraṇya
+
+is obtained by the one who utters the two syllables “Hari.”
+
+**4.**
+
+All sacred pilgrimage places and holy shrines on earth, without exception,
+
+are contained in the two syllables “Hari.”
+
+**5.**
+
+The merit of gifting thousands of cows and thousands of golden maidens
+
+is attained by the one who utters the two syllables “Hari.”
+
+**6.**
+
+The four Vedas—Ṛg, Yajur, Sāma, and Atharva—
+
+are considered studied by the one who utters the two syllables “Hari.”
+
+**7.**
+
+The merit of great sacrifices such as Aśvamedha and Naramedha
+
+is attained by the one who utters the two syllables “Hari.”
+
+**8.**
+
+“Hari” is the provision for the soul’s journey at death,
+
+the destroyer of the disease of saṃsāra,
+
+and the ultimate protection from sorrow.
+
+**9.**
+
+Even one who has uttered the two syllables “Hari” just once
+
+has prepared the bundle for the journey toward liberation.
+
+**10.**
+
+Whoever recites this sacred Haryaṣṭakam upon rising in the morning
+
+gains long life, strength, health, fame, growth, and prosperity.
+
+**11.**
+
+This hymn composed by Prahlāda dries up the ocean of sorrow.
+
+Whoever recites it attains the supreme abode of Viṣṇu.
+
+~ Prahlad
+
+
 
 Glory of Japa :
 
