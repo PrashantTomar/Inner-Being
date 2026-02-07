@@ -10,17 +10,26 @@ Connected topics :
 
 Note : 
 
-And thus elucidated universality of mantra :
+And thus elucidated the universality of mantra :
 
 कहां कहौं लगि नाम बड़ाई, राम न सकहि राम नाम गुण गाई।
 
-Name of a God or mantra is not a thought, It's the infinite appearing like a thought. Name is liminal, like a door is both inside and outside. Naam-Nami abhedha. Ishta and their Nama is all-in-all, as there is no-difference.
+Name of a God or mantra is not a thought, It's the infinite appearing like a thought.
+
+Name is liminal, like a door is both inside and outside.
+
+Naam-Nami abhedha → Naam hi Bhagwan hai.
+
+Ishta and their Nama is all-in-all, as there is no-difference.
 
 LakshmiNarayana is a beautiful thought form, most beautiful mental action, it takes care of everything.
 
 Why is it soo simple, just do the nama japa and Bhairava really comes.
 
 Name of God is knowledge in all field.
+
+Name of God is complete sadhana in itself.
+
 
 Awakening to Self Glory :
 
@@ -578,7 +587,9 @@ Mantra is no joke :
 
 Question 1: A high premium has been placed on Japa (=chanting). Isn’t chanting but incantation of a certain formula or a group of words? How could a mindless repetition of a set of words can become a life-saving instrument, or one that has the key to life mysteries?
 
-Answer : “A SPIRITUAL mantra puts us in touch with the **highest** goal of human life, the Self. Such a mantra is **NO** ordinary combination of letters and syllables, but a living force. The Name of God is not different from God. ~ Swami Muktananda
+Answer : “A SPIRITUAL mantra puts us in touch with the **highest** goal of human life, the Self. Such a mantra is **NO** ordinary combination of letters and syllables, but a living force. The Name of God is not different from God.
+
+ ~ Swami Muktananda
 
 His very being :
 
@@ -638,7 +649,7 @@ This mantra devata will guard you wherever you go. In the thick of the jungle, i
 
 Chanting itself is fruit, the object of interest :
 
-Mantra is an tool, mantra itself is fruit.
+Mantra is a tool, mantra itself is fruit.
 
 ~ Satya-Speaks
 
