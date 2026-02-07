@@ -10,7 +10,17 @@ Connected topics :
 
 Note : 
 
+Importance of mantra, strota and sahasranama, are emphasized again and again to beautify our thought vibration to the core, a humble attempt to merge our mind with the rasa of ishta devta.
 
+And to let the concept of our ishta sink deep into our everything.
+
+As they say,
+
+Jeevanane dhane nityam LakshmiNarayana gati mam.
+
+
+
+![[Pasted image 20260207140202.png]]
 
 
 
@@ -18,7 +28,7 @@ Note :
 
 
 Status :
-#Fleeting_default 
+#Permanent 
 
 Reference :
 
