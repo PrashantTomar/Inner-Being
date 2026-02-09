@@ -1,6 +1,7 @@
 ---
 Created: 2026-01-07T16:11:00
 Notebook: "[[Deity Notebook - MOC]]"
+modified: 2026-02-09T10:44:22+05:30
 ---
 Connected topics :
 [[LakshmiNarayana]] - [[Yugala tattva]] - [[1st house]] - [[7th house]] - [[Relationship with Ishta-Devta.]]
@@ -19,7 +20,7 @@ Through their eyes wherever we see, life is fully alive and celebrating itself,
 
 Your desires are [[sringar]] on divine couples, your everything/ your very existence becomes a sringar on them, 
 You are the essence of their [[sringar]]. 
-You become identified as their [[sringar]] bhava, as [[Anurupa]].
+You become identified as their [[sringar]] bhava, as [[Anurupa]] , as Anubhava.
 You are beauty in the heart of LakshmiNarayana, the way they aspire for each other, the way they keep falling in love with each other.
 
 You are that mystery !!
