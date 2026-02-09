@@ -1,6 +1,7 @@
 ---
 Created: 2026-01-23T23:36:00
 Notebook: "[[Centering Wisdom MOC]]"
+modified: 2026-02-09T14:39:47+05:30
 ---
 Connected topics :
 [[Sadhana]] 
@@ -13,6 +14,24 @@ Note :
 Love – The Only Key
 
 Love wins all, and is the only open way to humanity, One way or the other the human touches the point where he Finds love as the only way. God is love. Living in love enables love to Flow through. Love is not a personal act but a flow of energies from impersonal level. We should be open for it and be channels to it. Even those who love are attacked by power. Nevertheless, continue to be in love. is the key, the only solution to this humanity.
+
+
+The Simple Recipe: Love God
+
+Be immensely affectionate to God**.** You can love God and want nothing else. Always wanting God is the highest _sadhana_, as you will realize one day or the other.
+
+If you do not want God, all your efforts—concentration of will, _dhyana_ (meditation), _bhakti_ (devotion), _karma_ (action)—nothing will work.
+
+As love can emanate from one spontaneously on account of the preponderance of the emotional faculty in oneself, **loving God is considered easier**, especially in this age of distraction and sufferings of various kinds.
+
+The directing of one's feelings and emotions to God in utter devotion and surrender is to be considered as the **best of Yogas**.
+
+You need not go to _Patanjali's Sutras_ or _Yoga Vasishtha_ or the _Upanishads_; they are very difficult things.
+
+- If you love anyone, the love is reciprocated automatically.
+- Your affection will be felt even by animals and trees.
+
+Therefore, if you cannot sit for meditation every day and carry on this practice, **at least in your heart be devoted to God.**
 
 Satsangha is Super Nourishment.
 
