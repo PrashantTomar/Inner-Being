@@ -1913,3 +1913,8 @@
 "event_logs:sources:imported": {"key":"sources:imported","ct":2365,"first_at":1766193915059,"last_at":1770710457086,"class_name":"EventLog"},
 "event_logs:item:embedded": {"key":"item:embedded","ct":3943,"first_at":1766193938674,"last_at":1770710458927,"class_name":"EventLog"},
 "event_logs:plugin:new_version_available": {"key":"plugin:new_version_available","ct":185,"first_at":1766478584971,"last_at":1770710975723,"class_name":"EventLog"},
+"event_logs:sources:modified": {"key":"sources:modified","ct":25788,"first_at":1766194015088,"last_at":1770713314308,"class_name":"EventLog","event_sources":{"obsidian:vault.modify":5063,"obsidian:workspace.editor-change":20725}},
+"event_logs:sources:imported": {"key":"sources:imported","ct":2366,"first_at":1766193915059,"last_at":1770714923541,"class_name":"EventLog"},
+"event_logs:item:embedded": {"key":"item:embedded","ct":3944,"first_at":1766193938674,"last_at":1770714924305,"class_name":"EventLog"},
+"event_logs:sources:imported": {"key":"sources:imported","ct":2366,"first_at":1766193915059,"last_at":1770714923541,"class_name":"EventLog"},
+"event_logs:item:embedded": {"key":"item:embedded","ct":3945,"first_at":1766193938674,"last_at":1770714925369,"class_name":"EventLog"},
