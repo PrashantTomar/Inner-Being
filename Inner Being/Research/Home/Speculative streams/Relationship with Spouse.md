@@ -1,7 +1,7 @@
 ---
 Created: 2026-02-09T12:07:00
 Notebook: "[[Inner Astrology - MOC]]"
-modified: 2026-02-09T12:27:30+05:30
+modified: 2026-02-10T13:30:26+05:30
 ---
 Connected topics :
 [[7th House]] - [[Nature of Pavitra Bandhan - Truth of 7th house]] - [[Vishnu Sahasranama]] 
@@ -11,7 +11,7 @@ Connected topics :
 
 Note : 
 
-Your relationship with your spouse is like [[Dvandam anyonya-laksanam]] the [[Sarira-Mano-Atman ekatva]], and it takes some suvrataḥ.
+Your relationship with your spouse is like [[Dvandam anyonya-laksanam]] the [[Deha-Mano-Atman ekatva]], and it takes some suvrataḥ.
 
 
 
