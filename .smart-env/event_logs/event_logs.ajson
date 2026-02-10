@@ -1918,3 +1918,4 @@
 "event_logs:item:embedded": {"key":"item:embedded","ct":3944,"first_at":1766193938674,"last_at":1770714924305,"class_name":"EventLog"},
 "event_logs:sources:imported": {"key":"sources:imported","ct":2366,"first_at":1766193915059,"last_at":1770714923541,"class_name":"EventLog"},
 "event_logs:item:embedded": {"key":"item:embedded","ct":3945,"first_at":1766193938674,"last_at":1770714925369,"class_name":"EventLog"},
+"event_logs:plugin:new_version_available": {"key":"plugin:new_version_available","ct":186,"first_at":1766478584971,"last_at":1770721775930,"class_name":"EventLog"},
