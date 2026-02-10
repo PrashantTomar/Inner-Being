@@ -68,6 +68,18 @@
             }
           },
           {
+            "id": "9a604ee77afa1393",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Daily Workflow/Daily workflow visualization 10 Feb.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Daily workflow visualization 10 Feb"
+            }
+          },
+          {
             "id": "b6ecda8ded2ec0b9",
             "type": "leaf",
             "state": {
@@ -178,7 +190,7 @@
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -253,7 +265,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 206.5,
+    "width": 200,
     "collapsed": true
   },
   "right": {
@@ -382,11 +394,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d60372537934fb9a",
+  "active": "9a604ee77afa1393",
   "lastOpenFiles": [
+    "Daily Workflow/Daily workflow visualization 1 - 30 Dec.md",
+    "Daily Workflow/Daily workflow visualization 10 Feb.md",
+    "Daily Workflow/Pasted Image 20260210120207_957.png",
+    "Inner Being/Research/Home/Speculative streams/Mangalam Loka-Nathaya.md",
     "Inner Being/Research/Home/Esoterica/Bhu Consciousness/Body, Mind and Spirit.md",
     "Inner Being/Research/Home/Speculative streams/Gift of Semen-Prema-Conjugal Love.md",
-    "Inner Being/Research/Home/Speculative streams/Mangalam Loka-Nathaya.md",
     "Excalidraw/Spiritual/Esoterica revelations.md",
     "Inner Being/Research/Home/Esoterica/Centering Wisdom/Life and Lubrication for Sadhana.md",
     "Inner Being/Research/Home/Esoterica/Inner Astrology/Integrity of Kama - ( Mars & Venus ).md",
@@ -405,14 +420,11 @@
     "Excalidraw/Business Systems -Excalidraw/Learning from professionals.md",
     "Excalidraw/Business Systems -Excalidraw/Defining Sequence of  Learning.md",
     "Excalidraw/Business Systems -Excalidraw/Business MOC - 2025.md",
-    "Daily Workflow/Daily workflow visualization 1 - 30 Dec.md",
     "Inner Being/Research/Home/Esoterica/Spirit/Deity/Conflict in the stories of Radha.md",
     "Inner Being/Template/Floating Note.md",
     "Inner Being/Template/MOC Introduction Template.md",
     "Inner Being/Template/Lyricism-Writeup-Template.md",
     "Inner Being/Research/Home/Esoterica/Spirit/Deity/Supreme I consciousness - LakshmiNarayana.md",
-    "Inner Being/Research/Home/Esoterica/Centering Wisdom/Yogaḥ karmasu kauśalam.md",
-    "Inner Being/Research/Home/Esoterica/Spirit/Spirit-Knowledge/Strotam as psychological kindness and energy portals.md",
     "Inner Being/Research/Home/Esoterica/Centering Wisdom/Pasted image 20260207141234.png",
     "Inner Being/Research/Home/Speculative streams/Pasted image 20260207140202.png",
     "Inner Being/Research/Home/Esoterica/Spirit/Deity/Sahasranama/Vishnu Sahasranama/Vishnu Sahasranama - Base.base",
@@ -431,7 +443,6 @@
     "Excalidraw/Business Systems -Excalidraw",
     "Untitled.canvas",
     "Inner Being/Research/Home/Esoterica/Spirit/Deity/LakshmiNarayana",
-    "Inner Being/Research/Home/Esoterica/Spirit/Deity",
-    "Excalidraw/Scripts/Downloaded/Mindmap Builder.svg"
+    "Inner Being/Research/Home/Esoterica/Spirit/Deity"
   ]
 }
