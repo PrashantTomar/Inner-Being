@@ -1926,3 +1926,8 @@
 "event_logs:plugin:new_version_available": {"key":"plugin:new_version_available","ct":190,"first_at":1766478584971,"last_at":1770797435593,"class_name":"EventLog"},
 "event_logs:plugin:new_version_available": {"key":"plugin:new_version_available","ct":191,"first_at":1766478584971,"last_at":1770809113660,"class_name":"EventLog"},
 "event_logs:plugin:new_version_available": {"key":"plugin:new_version_available","ct":192,"first_at":1766478584971,"last_at":1770818975545,"class_name":"EventLog"},
+"event_logs:sources:created": {"key":"sources:created","ct":109,"first_at":1766194088923,"last_at":1770824736575,"class_name":"EventLog","event_sources":{"obsidian:vault.create":109}},
+"event_logs:sources:opened": {"key":"sources:opened","ct":1000,"first_at":1766193965660,"last_at":1770824738095,"class_name":"EventLog","event_sources":{"active-leaf-change":993,"file-open":6,"open_source method":1}},
+"event_logs:sources:imported": {"key":"sources:imported","ct":2367,"first_at":1766193915059,"last_at":1770824751097,"class_name":"EventLog"},
+"event_logs:sources:renamed": {"key":"sources:renamed","ct":184,"first_at":1766265309599,"last_at":1770824777651,"class_name":"EventLog","event_sources":{"obsidian:vault.rename":184}},
+"event_logs:sources:imported": {"key":"sources:imported","ct":2368,"first_at":1766193915059,"last_at":1770824791515,"class_name":"EventLog"},
