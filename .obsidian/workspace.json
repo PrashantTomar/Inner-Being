@@ -20,15 +20,13 @@
             }
           },
           {
-            "id": "b911979e633397af",
+            "id": "8e312aae640caf54",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Spiritual/Esoterica revelations.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Esoterica revelations"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
@@ -191,8 +189,7 @@
               "title": "Path of nourishment, aesthetics and sringara bhavam"
             }
           }
-        ],
-        "currentTab": 13
+        ]
       }
     ],
     "direction": "vertical"
@@ -396,12 +393,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9d6b81305237df39",
+  "active": "a484bd339b56d9d7",
   "lastOpenFiles": [
+    "Excalidraw/Business Systems -Excalidraw/Defining Sequence of  Learning.md",
+    "Inner Being/Research/Home/Speculative streams/Mangalam Loka-Nathaya.md",
     "Inner Being/Research/Home/Speculative streams/Path of nourishment, aesthetics and sringara bhavam.md",
+    "Excalidraw/Business Systems -Excalidraw/Learning from professionals.md",
+    "Excalidraw/Spiritual/Esoterica revelations.md",
+    "Inner Being/Research/Home/Esoterica/Centering Wisdom/Sringar of Manas with Rasa of Deity.md",
+    "Inner Being/Research/Home/Speculative streams/Sringar of Manas with Rasa of Deity.md",
     "Daily Workflow/Daily workflow visualization 10 Feb.md",
     "Daily Workflow/Daily workflow visualization 1 - 30 Dec.md",
-    "Inner Being/Research/Home/Speculative streams/Mangalam Loka-Nathaya.md",
     "Inner Being/Research/Home/Speculative streams/Gift of Semen-Prema-Conjugal Love.md",
     "Inner Being/Research/Home/Esoterica/Bhu Consciousness/Body, Mind and Spirit.md",
     "Inner Being/Research/Home/Speculative streams/Deha-Mano-Atman ekatva.md",
@@ -410,7 +412,6 @@
     "Excalidraw/Swar Consciousness/Audio Engineering.md",
     "Inner Being/Research/Home/Esoterica/Swar Consciousness/Audio Engineering.md",
     "Daily Workflow/Pasted Image 20260210120207_957.png",
-    "Excalidraw/Spiritual/Esoterica revelations.md",
     "Inner Being/Research/Home/Esoterica/Centering Wisdom/Life and Lubrication for Sadhana.md",
     "Inner Being/Research/Home/Speculative streams/Dvandam anyonya-laksanam.md",
     "Inner Being/Research/Home/Esoterica/Spirit/Deity/Yugala Consciousness.md",
@@ -420,14 +421,10 @@
     "Inner Being/Research/Home/Esoterica/Swar Consciousness/Exploring musical WOrld.canvas",
     "Inner Being/Research/Home/Esoterica/Spirit/Deity/Science behind Radha's Vigraha.md",
     "Inner Being/Research/Home/Kavyatmak Lehrein/Words from Depth/Strings of Love..md",
-    "Excalidraw/Business Systems -Excalidraw/Learning from professionals.md",
-    "Excalidraw/Business Systems -Excalidraw/Defining Sequence of  Learning.md",
     "Excalidraw/Business Systems -Excalidraw/Business MOC - 2025.md",
     "Inner Being/Research/Home/Esoterica/Spirit/Deity/Conflict in the stories of Radha.md",
     "Inner Being/Template/Floating Note.md",
     "Inner Being/Template/MOC Introduction Template.md",
-    "Inner Being/Template/Lyricism-Writeup-Template.md",
-    "Inner Being/Research/Home/Esoterica/Spirit/Deity/Supreme I consciousness - LakshmiNarayana.md",
     "Inner Being/Research/Home/Esoterica/Centering Wisdom/Pasted image 20260207141234.png",
     "Inner Being/Research/Home/Speculative streams/Pasted image 20260207140202.png",
     "Inner Being/Research/Home/Esoterica/Spirit/Deity/Sahasranama/Vishnu Sahasranama/Vishnu Sahasranama - Base.base",
