@@ -20,16 +20,6 @@
             }
           },
           {
-            "id": "8e312aae640caf54",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
             "id": "2733146869723f22",
             "type": "leaf",
             "state": {
@@ -394,7 +384,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8e312aae640caf54",
+  "active": "2733146869723f22",
   "lastOpenFiles": [
     "Inner Being/Research/Home/Speculative streams/Relationship with Spouse.md",
     "Inner Being/Research/Home/Esoterica/Inner Astrology/Integrity of Kama - ( Mars & Venus ).md",
