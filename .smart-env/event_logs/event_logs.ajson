@@ -2049,3 +2049,4 @@
 "event_logs:plugin:new_version_available": {"key":"plugin:new_version_available","ct":195,"first_at":1766478584971,"last_at":1770970118972,"class_name":"EventLog"},
 "event_logs:sources:opened": {"key":"sources:opened","ct":1022,"first_at":1766193965660,"last_at":1770971551420,"class_name":"EventLog","event_sources":{"active-leaf-change":1015,"file-open":6,"open_source method":1}},
 "event_logs:sources:opened": {"key":"sources:opened","ct":1023,"first_at":1766193965660,"last_at":1770971558803,"class_name":"EventLog","event_sources":{"active-leaf-change":1016,"file-open":6,"open_source method":1}},
+"event_logs:plugin:new_version_available": {"key":"plugin:new_version_available","ct":196,"first_at":1766478584971,"last_at":1770980976712,"class_name":"EventLog"},
