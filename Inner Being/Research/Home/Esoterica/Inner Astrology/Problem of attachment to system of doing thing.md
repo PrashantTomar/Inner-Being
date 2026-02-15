@@ -1,10 +1,11 @@
 ---
 Created: 2026-01-12T19:36:00
 Notebook: "[[Inner Astrology]]"
+modified: 2026-02-15T05:44:18+05:30
 ---
 Connected topics :
 
-[[ 6th - house ]] - [[Virgo]] 
+[[ 6th house ]] - [[Virgo]] 
 
 
 ------------

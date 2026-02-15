@@ -1,7 +1,7 @@
 ---
 Created: 2026-02-14T17:01:00
 Notebook:
-modified: 2026-02-14T17:01:47+05:30
+modified: 2026-02-15T06:24:36+05:30
 ---
 Connected topics :
 
@@ -16,6 +16,8 @@ The little cells all are drinking
 Their tiny mouths all are shining
 The little cells all are drinking
 Their tiny mouths all are shining
+The name and glory of lord's name
+The name and glory of lord's love
 
 
 

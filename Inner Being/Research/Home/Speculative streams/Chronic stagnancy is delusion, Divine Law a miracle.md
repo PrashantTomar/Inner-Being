@@ -1,15 +1,16 @@
 ---
 Created: 2026-02-14T17:01:00
-Notebook:
-modified: 2026-02-14T17:02:06+05:30
+Notebook: "[[Centering Wisdom MOC]]"
+modified: 2026-02-15T06:23:52+05:30
 ---
 Connected topics :
-[[Mantra]]
+[[Mantra]] - [[Manifesation]] - [[6th house]]
 
 
 ------------
 
 Note : 
+
 Fill your mind with devotion and with will, feeling the former in the heart and the latter
 in its physiological center of generation in between the eyebrows. Cast away anxiety, distrust,
 worry. **Realize calmly that the Divine Law works and is All-Powerful** only when you do
