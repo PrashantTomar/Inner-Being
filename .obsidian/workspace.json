@@ -94,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296.5
+    "width": 233.5
   },
   "right": {
     "id": "64c4ba06bba09625",
@@ -129,11 +129,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Daily Workflow/Daily workflow visualization 10 Feb.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Daily workflow visualization 10 Feb"
             }
           },
           {
@@ -199,7 +200,8 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -221,7 +223,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2733146869723f22",
+  "active": "dd5e63914e804702",
   "lastOpenFiles": [
     "Inner Being/Research/Home/Frequently visited/Frequently visited - 15-Feb-2026.md",
     "Inner Being/Research/Home/Esoterica/Spirit/Deity/Yugala Consciousness.md",
