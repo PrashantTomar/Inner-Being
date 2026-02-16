@@ -31,7 +31,8 @@
               "title": "Learning from professionals"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Workflow/Daily workflow visualization 10 Feb.md",
+                "file": "Excalidraw/Business Systems -Excalidraw/Learning from professionals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Daily workflow visualization 10 Feb"
+              "title": "Backlinks for Learning from professionals"
             }
           },
           {
@@ -141,12 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Workflow/Daily workflow visualization 10 Feb.md",
+                "file": "Excalidraw/Business Systems -Excalidraw/Learning from professionals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Daily workflow visualization 10 Feb"
+              "title": "Outgoing links from Learning from professionals"
             }
           },
           {
@@ -235,11 +236,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2733146869723f22",
+  "active": "ccd2e588df637ded",
   "lastOpenFiles": [
+    "Daily Workflow/Daily workflow visualization 10 Feb.md",
     "Excalidraw/Business Systems -Excalidraw/Learning from professionals.md",
     "Inner Being/Research/Home/Frequently visited/Frequently visited - 15-Feb-2026.md",
-    "Daily Workflow/Daily workflow visualization 10 Feb.md",
     "Inner Being/Research/Home/Esoterica/Spirit/Deity/Yugala Consciousness.md",
     "Excalidraw/Spiritual/Esoterica revelations.md",
     "Inner Being/Research/Home/Speculative streams/Path of nourishment, aesthetics and sringara bhavam.md",
