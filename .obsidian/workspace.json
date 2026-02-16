@@ -18,6 +18,18 @@
               "icon": "excalidraw-icon",
               "title": "Daily workflow visualization 10 Feb"
             }
+          },
+          {
+            "id": "ccd2e588df637ded",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Business Systems -Excalidraw/Learning from professionals.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Learning from professionals"
+            }
           }
         ]
       }
@@ -94,7 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 233.5
+    "width": 200
   },
   "right": {
     "id": "64c4ba06bba09625",
@@ -223,9 +235,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dd5e63914e804702",
+  "active": "2733146869723f22",
   "lastOpenFiles": [
+    "Excalidraw/Business Systems -Excalidraw/Learning from professionals.md",
     "Inner Being/Research/Home/Frequently visited/Frequently visited - 15-Feb-2026.md",
+    "Daily Workflow/Daily workflow visualization 10 Feb.md",
     "Inner Being/Research/Home/Esoterica/Spirit/Deity/Yugala Consciousness.md",
     "Excalidraw/Spiritual/Esoterica revelations.md",
     "Inner Being/Research/Home/Speculative streams/Path of nourishment, aesthetics and sringara bhavam.md",
@@ -244,9 +258,7 @@
     "Inner Being/Research/Home/Esoterica/Inner Astrology/Relationship with Spouse.md",
     "Excalidraw/Swar Consciousness/Audio Engineering.md",
     "Inner Being/Research/Home/Esoterica/Swar Consciousness/Audio Engineering.md",
-    "Daily Workflow/Daily workflow visualization 10 Feb.md",
     "Excalidraw/Business Systems -Excalidraw/Business MOC - 2025.md",
-    "Excalidraw/Business Systems -Excalidraw/Learning from professionals.md",
     "Excalidraw/Business Systems -Excalidraw/Defining Sequence of  Learning.md",
     "Inner Being/Research/Home/Frequently visited",
     "Inner Being/Research/Home/Speculative streams/6th house.md",
