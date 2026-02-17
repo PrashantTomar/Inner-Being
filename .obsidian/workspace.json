@@ -30,9 +30,23 @@
               "icon": "excalidraw-icon",
               "title": "Esoterica revelations"
             }
+          },
+          {
+            "id": "0de0b5d7387e0c08",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inner Being/Research/Home/Speculative streams/Enrapport with the body.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Enrapport with the body"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -123,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inner Being/Research/Home/Esoterica/Spirit/Deity/Yugala Consciousness.md",
+                "file": "Inner Being/Research/Home/Speculative streams/Enrapport with the body.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Yugala Consciousness"
+              "title": "Backlinks for Enrapport with the body"
             }
           },
           {
@@ -142,12 +156,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inner Being/Research/Home/Esoterica/Spirit/Deity/Yugala Consciousness.md",
+                "file": "Inner Being/Research/Home/Speculative streams/Enrapport with the body.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Yugala Consciousness"
+              "title": "Outgoing links from Enrapport with the body"
             }
           },
           {
@@ -236,17 +250,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ccd2e588df637ded",
+  "active": "0de0b5d7387e0c08",
   "lastOpenFiles": [
+    "Inner Being/Research/Home/Speculative streams/Support to the feeling for manifesation.md",
+    "Inner Being/Research/Home/Speculative streams/Body, Mind and Spirit.md",
+    "Daily Workflow/Daily workflow visualization 10 Feb.md",
+    "Inner Being/Research/Home/Esoterica/Spirit/Deity/Yugala Consciousness.md",
     "Excalidraw/Spiritual/Esoterica revelations.md",
     "Inner Being/Research/Home/Frequently visited/Frequently visited - 15-Feb-2026.md",
     "Excalidraw/Business Systems -Excalidraw/Learning from professionals.md",
-    "Daily Workflow/Daily workflow visualization 10 Feb.md",
-    "Inner Being/Research/Home/Esoterica/Spirit/Deity/Yugala Consciousness.md",
     "Inner Being/Research/Home/Speculative streams/Path of nourishment, aesthetics and sringara bhavam.md",
     "Inner Being/Research/Home/Speculative streams/Mangalam Loka-Nathaya.md",
     "Inner Being/Research/Home/Speculative streams/Gift of Semen-Prema-Conjugal Love.md",
-    "Inner Being/Research/Home/Speculative streams/Body, Mind and Spirit.md",
     "Inner Being/Research/Home/Speculative streams/Deha-Mano-Atman ekatva.md",
     "Inner Being/Research/Home/Speculative streams/Integrity of Kama - ( Mars & Venus ).md",
     "Inner Being/Research/Home/Speculative streams/Attachment, Detachment and Pratibhijna.md",
@@ -254,7 +269,6 @@
     "Inner Being/Research/Home/Speculative streams/Chronic stagnancy is delusion, Divine Law a miracle.md",
     "Inner Being/Research/Home/Speculative streams/Anurupa.md",
     "Inner Being/Research/Home/Speculative streams/Model for conversation.md",
-    "Inner Being/Research/Home/Speculative streams/Support to the feeling for manifesation.md",
     "Inner Being/Research/Home/Speculative streams/Time as sustained loyalty to objectivity.md",
     "Inner Being/Research/Home/Esoterica/Inner Astrology/Relationship with Spouse.md",
     "Excalidraw/Swar Consciousness/Audio Engineering.md",
