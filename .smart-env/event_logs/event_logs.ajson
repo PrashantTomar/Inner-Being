@@ -273,3 +273,4 @@
 "event_logs:sources:renamed": {"key":"sources:renamed","ct":202,"first_at":1766265309599,"last_at":1771376639865,"class_name":"EventLog","event_sources":{"obsidian:vault.rename":202}},
 "event_logs:sources:imported": {"key":"sources:imported","ct":2730,"first_at":1766193915059,"last_at":1771376653150,"class_name":"EventLog"},
 "event_logs:item:embedded": {"key":"item:embedded","ct":4094,"first_at":1766193938674,"last_at":1771376654373,"class_name":"EventLog"},
+"event_logs:plugin:new_version_available": {"key":"plugin:new_version_available","ct":205,"first_at":1766478584971,"last_at":1771433735289,"class_name":"EventLog"},
