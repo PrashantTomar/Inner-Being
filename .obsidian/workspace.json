@@ -45,7 +45,8 @@
               "title": "Enrapport with the body"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -137,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Workflow/Daily workflow visualization 10 Feb.md",
+                "file": "Excalidraw/Spiritual/Esoterica revelations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +148,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Daily workflow visualization 10 Feb"
+              "title": "Backlinks for Esoterica revelations"
             }
           },
           {
@@ -156,12 +157,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Workflow/Daily workflow visualization 10 Feb.md",
+                "file": "Excalidraw/Spiritual/Esoterica revelations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Daily workflow visualization 10 Feb"
+              "title": "Outgoing links from Esoterica revelations"
             }
           },
           {
@@ -250,11 +251,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2733146869723f22",
+  "active": "ccd2e588df637ded",
   "lastOpenFiles": [
+    "Daily Workflow/Daily workflow visualization 10 Feb.md",
     "Excalidraw/Spiritual/Esoterica revelations.md",
     "Inner Being/Research/Home/Speculative streams/Enrapport with the body.md",
-    "Daily Workflow/Daily workflow visualization 10 Feb.md",
     "Inner Being/Research/Home/Speculative streams/Pasted image 20260207140202.png",
     "Inner Being/Research/Home/Speculative streams/Pasted image 20260214160031.png",
     "Inner Being/Research/Home/Speculative streams/Pasted image 20260214160224.png",
