@@ -1,7 +1,7 @@
 ---
 Created: 2026-02-18T06:33:00
 Notebook: "[[Spirit Knowledge - MOC]]"
-modified: 2026-02-18T06:33:22+05:30
+modified: 2026-02-19T10:44:03+05:30
 ---
 Connected topics :
 
@@ -12,7 +12,7 @@ Connected topics :
 Note : 
 
 
-Daiva, Manushya and Asura are states of mind, as All is RAM anyways.
+Daiva, Manushya and Asura are just states of mind, RAM is all that there is, the common substratum in all.
 
 
 these are trichotomized on the level of their intensities.
