@@ -87,8 +87,7 @@
               "title": "Strings of Love."
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -163,7 +162,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 419.5
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "64c4ba06bba09625",
@@ -179,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inner Being/Research/Home/Kavyatmak Lehrein/Words from Depth/Strings of Love..md",
+                "file": "Daily Workflow/Daily workflow visualization 10 Feb.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +189,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Strings of Love."
+              "title": "Backlinks for Daily workflow visualization 10 Feb"
             }
           },
           {
@@ -198,12 +198,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inner Being/Research/Home/Kavyatmak Lehrein/Words from Depth/Strings of Love..md",
+                "file": "Daily Workflow/Daily workflow visualization 10 Feb.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Strings of Love."
+              "title": "Outgoing links from Daily workflow visualization 10 Feb"
             }
           },
           {
@@ -292,8 +292,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fa6bd90e4b5f5810",
+  "active": "2733146869723f22",
   "lastOpenFiles": [
+    "Inner Being/Research/Home/Kavyatmak Lehrein/Words from Depth/Strings of Love..md",
     "Daily Workflow/Daily workflow visualization 10 Feb.md",
     "Inner Being/Research/Home/Speculative streams/Never articulate your spiritual experience.md",
     "Inner Being/Research/Home/Frequently visited/Frequently visited - 15-Feb-2026.md",
@@ -324,7 +325,6 @@
     "Excalidraw/Business Systems -Excalidraw/Business MOC - 2025.md",
     "Excalidraw/Business Systems -Excalidraw/Defining Sequence of  Learning.md",
     "Inner Being/Research/Home/Frequently visited",
-    "Inner Being/Research/Home/Speculative streams/6th house.md",
     "Daily Workflow/Pasted Image 20260210120207_957.png",
     "Excalidraw/Swar Consciousness",
     "Inner Being/Research/Home/Esoterica/Swar Consciousness/Exploring Music Engineering and theory.canvas",
