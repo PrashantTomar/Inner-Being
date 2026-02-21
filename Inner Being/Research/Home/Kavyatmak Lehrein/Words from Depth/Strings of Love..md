@@ -1,6 +1,6 @@
 ---
 Created: 2026-02-07T23:41:00
-modified: 2026-02-07T20:04:53+05:30
+modified: 2026-02-21T20:08:41+05:30
 ---
 Connected topics :
 
@@ -57,7 +57,9 @@ following the movement of SUN.
 
 ~Srinivasayy 
 
-From : SELF-obsessed Bliss
+From : 
+
+SELF-obsessed Bliss, from intensity to intimacy
 
 
 
