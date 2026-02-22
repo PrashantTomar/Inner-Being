@@ -65,12 +65,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inner Being/Research/Home/Speculative streams/Never articulate your spiritual experience.md",
+                "file": "Inner Being/Research/Home/Speculative streams/Never articulate your spiritual journey and relationships.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Never articulate your spiritual experience"
+              "title": "Never articulate your spiritual journey and relationships"
             }
           },
           {
@@ -87,7 +87,8 @@
               "title": "Strings of Love."
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -179,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Workflow/Daily workflow visualization 10 Feb.md",
+                "file": "Inner Being/Research/Home/Speculative streams/Never articulate your spiritual journey and relationships.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +190,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Daily workflow visualization 10 Feb"
+              "title": "Backlinks for Never articulate your spiritual journey and relationships"
             }
           },
           {
@@ -198,12 +199,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Workflow/Daily workflow visualization 10 Feb.md",
+                "file": "Inner Being/Research/Home/Speculative streams/Never articulate your spiritual journey and relationships.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Daily workflow visualization 10 Feb"
+              "title": "Outgoing links from Never articulate your spiritual journey and relationships"
             }
           },
           {
@@ -292,11 +293,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2733146869723f22",
+  "active": "5855a592c6238db4",
   "lastOpenFiles": [
     "Inner Being/Research/Home/Kavyatmak Lehrein/Words from Depth/Strings of Love..md",
     "Daily Workflow/Daily workflow visualization 10 Feb.md",
-    "Inner Being/Research/Home/Speculative streams/Never articulate your spiritual experience.md",
+    "Inner Being/Research/Home/Speculative streams/Never articulate your spiritual journey and relationships.md",
     "Inner Being/Research/Home/Frequently visited/Frequently visited - 15-Feb-2026.md",
     "Excalidraw/Spiritual/Esoterica revelations.md",
     "Inner Being/Research/Home/Speculative streams/Enrapport with the body.md",
