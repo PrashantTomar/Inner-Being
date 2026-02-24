@@ -1,6 +1,7 @@
 ---
 Created: 2026-02-06T19:55:00
 Notebook: "[[Spirit Knowledge - MOC]]"
+modified: 2026-02-24T14:54:45+05:30
 ---
 Connected topics :
 [[Mantra]] - [[Strotam]] - [[5th house]] - [[Vishnu Sahasranama]] - [[VS-Sholka-73]]
@@ -63,6 +64,13 @@ Status :
 #Fleeting_default 
 
 Reference :
+
+I repeat all these positive affirmation, because it feels good to me while repeating, not that the divine needs my repetition, divines knows everything about me, it's just that the feeling good makes me trust and connect feel the presence of god, more beautifully, it helps me to nurture my intention.
+
+~ Abrahmic hicks.
+
+
+
 
 
 Excalidraw Reference :
