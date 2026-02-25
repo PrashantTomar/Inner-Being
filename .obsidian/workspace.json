@@ -101,8 +101,7 @@
               "title": "9th house, a vulnerable self honesty towards life, philosophy and knowledge"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -194,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inner Being/Research/Home/Speculative streams/9th house, a vulnerable self honesty towards life, philosophy and knowledge.md",
+                "file": "Daily Workflow/Daily workflow visualization 10 Feb.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +203,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 9th house, a vulnerable self honesty towards life, philosophy and knowledge"
+              "title": "Backlinks for Daily workflow visualization 10 Feb"
             }
           },
           {
@@ -213,12 +212,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inner Being/Research/Home/Speculative streams/9th house, a vulnerable self honesty towards life, philosophy and knowledge.md",
+                "file": "Daily Workflow/Daily workflow visualization 10 Feb.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 9th house, a vulnerable self honesty towards life, philosophy and knowledge"
+              "title": "Outgoing links from Daily workflow visualization 10 Feb"
             }
           },
           {
@@ -307,7 +306,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0ee72ade529be46f",
+  "active": "2733146869723f22",
   "lastOpenFiles": [
     "Inner Being/Research/Home/Speculative streams/9th house, a vulnerable self honesty towards life, philosophy and knowledge.md",
     "Daily Workflow/Daily workflow visualization 10 Feb.md",
