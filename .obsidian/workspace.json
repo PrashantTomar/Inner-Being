@@ -101,7 +101,8 @@
               "title": "9th house, a vulnerable self honesty towards life, philosophy and knowledge"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -193,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Workflow/Daily workflow visualization 10 Feb.md",
+                "file": "Excalidraw/Spiritual/Esoterica revelations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +204,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Daily workflow visualization 10 Feb"
+              "title": "Backlinks for Esoterica revelations"
             }
           },
           {
@@ -212,12 +213,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Workflow/Daily workflow visualization 10 Feb.md",
+                "file": "Excalidraw/Spiritual/Esoterica revelations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Daily workflow visualization 10 Feb"
+              "title": "Outgoing links from Esoterica revelations"
             }
           },
           {
@@ -306,10 +307,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2733146869723f22",
+  "active": "ccd2e588df637ded",
   "lastOpenFiles": [
-    "Inner Being/Research/Home/Speculative streams/9th house, a vulnerable self honesty towards life, philosophy and knowledge.md",
     "Daily Workflow/Daily workflow visualization 10 Feb.md",
+    "Inner Being/Research/Home/Speculative streams/9th house, a vulnerable self honesty towards life, philosophy and knowledge.md",
     "Inner Being/Research/Home/Kavyatmak Lehrein/Words from Depth/Strings of Love..md",
     "Inner Being/Research/Home/Esoterica/Spirit/Spirit-Knowledge/Strotam as psychological kindness and energy portals.md",
     "Inner Being/Research/Home/Frequently visited/Frequently visited - 15-Feb-2026.md",
