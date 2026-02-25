@@ -1,7 +1,7 @@
 ---
 Created: 2026-02-25T12:57:00
 Notebook: "[[Spirit Knowledge - MOC]]"
-modified: 2026-02-25T13:53:37+05:30
+modified: 2026-02-25T19:09:45+05:30
 ---
 Connected topics :
 [[[MarsVenus]]] - [[Integrity of Kama - ( Mars & Venus )]]
@@ -25,6 +25,9 @@ Status :
 
 Reference :
 Karezza
+
+Why "Vidyā" (Knowledge) leads to "Vinaya" (Humility)
+The verse begins with Vidyā-vinaya. In this philosophical framework, if knowledge doesn’t make you humble, it isn’t true knowledge—it’s just intellectual pride. True knowledge reveals how interconnected we are, which naturally kills the arrogance of the "self" versus "other.
 
 Excalidraw Reference :
 
