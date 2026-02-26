@@ -1,7 +1,7 @@
 ---
-Created:
+Created: 2026-02-26T13:58:00
 Notebook:
-modified: 2026-02-25T19:09:09+05:30
+modified: 2026-02-26T14:00:42+05:30
 ---
 Connected topics :
 
@@ -11,7 +11,7 @@ Connected topics :
 
 Note : 
 
-Don't let your neighbour tell you how to worship your lord, it's such personal intimate thing between bhakata and god.
+Don't let your neighbor tell you how to worship your lord, it's such personal intimate thing between bhakta and god.
 
 
 It's a nijj bodha

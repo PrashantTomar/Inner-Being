@@ -1,6 +1,7 @@
 ---
 Created: 2026-01-30T21:06:00
 Notebook: "[[Deity Notebook - MOC]]"
+modified: 2026-02-26T13:58:05+05:30
 ---
 Connected topics :
 [[Yugal Hrudayam]] - [[LakshmiNarayana]] - [[Alchemy of MahaLakshmi - MOC]] - [[Ideal Grihastha ( Householder )]] -[[Universality of Sahasranama]]
@@ -16,28 +17,31 @@ Note :
 
 ### _**Ek-praan do-deh vihari, yugal-naam nij-hriday-dharan**_
 
-MahaLakshmiNarayana Yugal Dhyanam :
+Yugal Dhyanam :
 
 Sridah Srishah Srinivasah Srinidhih Srivibhaavanah Sridharah Srikarah Sreyah Srimaan Lokatrayaashrayah
 
-Mangalam Bhagavan Visnuh Mangalam Garuda-dhvajah Mangalam Pundrikaksho Mangalaye tanno Hari Mangalam Lokanathaya Lakshmi-nathaya Mangalam
+Mangalam Bhagavan Visnuh Mangalam Garuda-dhvajah
+Mangalam Pundrikaksho Mangalaye tanno Hari
+Mangalam Lokanathaya Lakshmi-nathaya Mangalam
 
 Shaantakaaram Bhujaga-shayanam, Padmanabham Suresham VishvaAadhaaram Gagana-sadrisham, Megha varnam Subhangam Lakshmi kantam Kamala-nayanam, Yogibhir dhyaana gamyam Vande Vishnum Bhava-bhaya-haram, Sarva lokai-eka naatham
 
 Nityananda Nityabodha Nadini Janamodini
-
 Satyapratyayani caiva Svaprakasatmarupini
 
 Padmanabhapriyam Devim, Padmaksim Padmavaasinim Padmavaktram Padmahastam, Vande Padmamaharanisam Purnenduvadanaṃ Divya ratnaabharaṇabhushitam Varadā abhaya hastāḍhyāṃ Dhyāyēccandrasahōdarīm Icchaarupam Bhagavatah, Sacchidanandarupinim Sarvajñāṃ Sarvajananīṃ, Vishnu-vaksha-sthalaalayam Dayaalumanisham dhyaayet, Sukhasiddhisvarupinim
 
 Niṣpratyūha praṇaya-gaditaṁ devi nityānapāyaṁ Viṣṇustvaṁ cetyanavadhi-guṇaṁ dvandvam-anyonya-lakṣaṇam Śeṣaścittaṁ vimala-manasāṁ maulayaśca śrutīnāṁ Saṁpadhyante viharaṇa-vidhau yasya śayyā viśeṣāḥ
 
-Lakṣmyāḥ hṛdayaṁ Nārāyaṇaḥ Nārāyaṇasya hṛdayaṁ Lakṣmīḥ Etad dvayaṁ hṛdayaṁ satyam Na anyat tatra kathañcana
+Lakṣmyāḥ hṛdayaṁ Nārāyaṇaḥ
+Nārāyaṇasya hṛdayaṁ Lakṣmīḥ
+Etad dvayaṁ hṛdayaṁ satyam
+Na anyat tatra kathañcana
 
 Lakshmi Naarayanaatmika Nityam Naarayano Lakshmiyatmako Dhruvam
 
 Durjñeya Mahimā sā māṁ kṣīrābdhi-duhitā avatāt
-
 Sṛṅgāra-rasa-sarvasvaṁ Seṣa-Sailēśvarasya yā
 
 Achyutai Namah Anantaya Namah Govinday Namah Keshvaay Namah :
@@ -171,6 +175,112 @@ Kije Naath Hridya Mah Dera ॥
 
 ---
 
+LakshmiHrudayashtakam :
+
+Śrī Viṣṇu-stavanaṃ Mārkaṇḍeya-proktaṃ Nṛsiṃha-purāṇe
+
+Mārkaṇḍeya uvāca —
+
+1
+
+naraṃ nṛsiṃhaṃ naranātham acyutaṃ
+
+pralamba-bāhuṃ kamalāyata-īkṣaṇam |
+
+kṣitīśvarair arcita-pāda-paṅkajaṃ
+
+namāmi viṣṇuṃ puruṣaṃ purātanam || 1 ||
+
+2
+
+jagat-patiṃ kṣīra-samudra-mandiraṃ
+
+taṃ śārṅga-pāṇiṃ muni-vṛnda-vanditam |
+
+śriyaḥ patiṃ śrīdhara-mīśam īśvaraṃ
+
+namāmi govindam ananta-varcasam || 2 ||
+
+3
+
+ajaṃ vareṇyaṃ jana-duḥkha-nāśanaṃ
+
+guruṃ purāṇaṃ puruṣottamaṃ prabhum |
+
+sahasra-sūrya-dyutimantam acyutaṃ
+
+namāmi bhaktyā harim ādya-mādhavam || 3 ||
+
+4
+
+puraskṛtaṃ puṇyavatāṃ parāṃ gatiṃ
+
+kṣitīśvaraṃ loka-patiṃ prajāpatiṃ |
+
+paraṃ parāṇām api kāraṇaṃ hariṃ
+
+namāmi loka-traya-karma-sākṣiṇam || 4 ||
+
+5
+
+bhoge tv anantasya payodadhau suraḥ
+
+purā hi śete bhagavān anādi-kṛt |
+
+kṣīrodavīcī-kaṇikāmbu-nokṣitaṃ
+
+taṃ śrīnivāsaṃ praṇato'smi keśavam || 5 ||
+
+6
+
+yo nārasiṃhaṃ vapur āsthito mahān
+
+suro murārir madhu-kaiṭabhāntakṛt |
+
+samasta-lokārti-haraṃ hiraṇyakaṃ
+
+namāmi viṣṇuṃ satataṃ namāmi tam || 6 ||
+
+7
+
+anantam avyaktam atīndriyaṃ vibhuṃ
+
+sve sve hi rūpe svayam eva saṃsthitam |
+
+yogeśvarair eva sadā namaskṛtaṃ
+
+namāmi bhaktyā satataṃ janārdanam || 7 ||
+
+8
+
+ānandam ekaṃ virajaṃ vidātmakaṃ
+
+vṛndālayaṃ yogibhir eva pūjitam |
+
+aṇor aṇīyāṃsam avṛddhim akṣayaṃ
+
+namāmi bhakta-priyam īśvaraṃ harim || 8 ||
+
+श्रीविष्णुस्तवनं मार्कण्डेयप्रोक्तं नरसिंहपुराणे ॥} मार्कण्डेय उवाच -- नरं नृसिंहं नरनाथमच्युतं प्रलम्बबाहुं कमलायतेक्षणम् । क्षितीश्वरैरर्चितपादपङ्कजं नमामि विष्णुं पुरुषं पुरातनम् ॥ १॥
+
+जगत्पतिं क्षीरसमुद्रमन्दिरं तं शार्ङ्गपाणिं मुनिवृन्दवन्दितम् । श्रियः पतिं श्रीधरमीशमीश्वरं नमामि गोविन्दमनन्तवर्चसम् ॥ २॥
+
+अजं वरेण्यं जनदुःखनाशनं गुरुं पुराणं पुरुषोत्तमं प्रभुम् । सहस्रसूर्यद्युतिमन्तमच्युतं नमामि भक्त्या हरिमाद्यमाधवम् ॥ ३॥
+
+पुरस्कृतं पुण्यवतां परां गतिं क्षितीश्वरं लोकपतिं प्रजापतिम् । परं पराणामपि कारणं हरिं नमामि लोकत्रयकर्मसाक्षिणम् ॥ ४॥
+
+भोगे त्वनन्तस्य पयोदधौ सुरः पुरा हि शेते भगवाननादिकृत् । क्षीरोदवीचीकणिकाम्बुनोक्षितं तं श्रीनिवासं प्रणतोऽस्मि केशवम् ॥ ५॥
+
+यो नारसिंहं वपुरास्थितो महान् सुरो मुरारिर्मधुकैटभान्तकृत् । समस्तलोकार्तिहरं हिरण्यकं नमामि विष्णुं सततं नमामि तम् ॥ ६॥
+
+अनन्तमव्यक्तमतीन्द्रियं विभुं स्वे स्वे हि रूपे स्वयमेव संस्थितम् । योगेश्वरैरेव सदा नमस्कृतं नमामि भक्त्या सततं जनार्दनम् ॥ ७॥
+
+आनन्दमेकं विरजं विदात्मकं वृन्दालयं योगिभिरेव पूजितम् । अणोरणीयांसमवृद्धिमक्षयं नमामि भक्तप्रियमीश्वरं हरिम् ॥ ८॥
+
+
+
+--------
+
 Shri Hari Stotram :
 
 Jagajjalapalam ChalatkanthamalamSharachchandrabhalam Mahadaityakalam
@@ -237,7 +347,7 @@ mahālakṣmaṣṭakaṃ stōtraṃ yaḥ paṭhēd bhaktimān naraḥ । sarv
 
 trikālaṃ yaḥ paṭhēnnityaṃ mahāśatru vināśanam । mahālakṣmī rbhavēn-nityaṃ prasannā varadā śubhā ॥
 
-[intyakṛta śrī mahālakṣmyaṣṭaka stōtraṃ sampūrṇam]
+intyakṛta śrī mahālakṣmyaṣṭaka stōtraṃ sampūrṇam
 
 ---
 
@@ -422,8 +532,6 @@ Verse 10 (Phalashruti 1) Naarayanena Pathitam Stotram Lakshmipriyam Param Yah Pa
 Verse 11 (Phalashruti 2) Aaraadhitamanaah Naarayanah LakshmiRaadhitamaanasah Naarayanakrishtamanaa Lakshmi LakshmiNaarayaneti Yah Pathet || 11 ||
 
 Concluding Verse Iti Brahmandapuranaantargatam Vyaasadevavirachitam Shreemahalakshmismaranastotram Sampurnam ||
-
----
 
 ---
 
