@@ -1,6 +1,7 @@
 ---
 Created: 2026-02-03T18:50:00
 Notebook: "[[Deity Notebook - MOC]]"
+modified: 2026-02-26T20:54:34+05:30
 ---
 Connected topics :
 [[7th House]] - [[LakshmiNarayana]] - [[Sadhana]] 
@@ -24,7 +25,7 @@ Deep embodiment of 8.7 and 3.22 from Bhagwat Gita,
 > 
 > O Parth, there is no duty for Me to perform in all the three worlds. There is nothing I do not have, nor is there anything for Me to obtain; yet, I am still engaged in prescribed duties.
 
---> The idea is translated wrt relationship as, do your duty and be rasaraja for them, because this what life is, life is for itself.
+--> The idea is translated wrt relationship as, do your duty and be rasaraja for them, because this what life is, life is for itself. But deeply remember the marayda of womb in all relations.
 
 [
 From Sundarkandam :
