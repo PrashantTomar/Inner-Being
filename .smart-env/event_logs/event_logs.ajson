@@ -1243,3 +1243,7 @@
 "event_logs:plugin:new_version_available": {"key":"plugin:new_version_available","ct":237,"first_at":1766478584971,"last_at":1772124936783,"class_name":"EventLog"},
 "event_logs:plugin:new_version_available": {"key":"plugin:new_version_available","ct":238,"first_at":1766478584971,"last_at":1772161176773,"class_name":"EventLog"},
 "event_logs:plugin:new_version_available": {"key":"plugin:new_version_available","ct":239,"first_at":1766478584971,"last_at":1772169488457,"class_name":"EventLog"},
+"event_logs:sources:opened": {"key":"sources:opened","ct":1220,"first_at":1766193965660,"last_at":1772172369395,"class_name":"EventLog","event_sources":{"active-leaf-change":1213,"file-open":6,"open_source method":1}},
+"event_logs:sources:opened": {"key":"sources:opened","ct":1221,"first_at":1766193965660,"last_at":1772172404117,"class_name":"EventLog","event_sources":{"active-leaf-change":1214,"file-open":6,"open_source method":1}},
+"event_logs:sources:opened": {"key":"sources:opened","ct":1222,"first_at":1766193965660,"last_at":1772172407135,"class_name":"EventLog","event_sources":{"active-leaf-change":1215,"file-open":6,"open_source method":1}},
+"event_logs:sources:opened": {"key":"sources:opened","ct":1223,"first_at":1766193965660,"last_at":1772172409896,"class_name":"EventLog","event_sources":{"active-leaf-change":1216,"file-open":6,"open_source method":1}},
