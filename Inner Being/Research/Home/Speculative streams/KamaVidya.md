@@ -1,10 +1,10 @@
 ---
 Created: 2026-02-25T12:57:00
 Notebook: "[[Spirit Knowledge - MOC]]"
-modified: 2026-02-25T19:09:45+05:30
+modified: 2026-02-27T18:22:44+05:30
 ---
 Connected topics :
-[[[MarsVenus]]] - [[Integrity of Kama - ( Mars & Venus )]]
+[[MarsVenus]] - [[Integrity of Kama - ( Mars & Venus )]]
 
 
 ------------
