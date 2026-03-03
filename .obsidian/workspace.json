@@ -158,7 +158,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -250,7 +250,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inner Being/Research/Home/Speculative streams/Metaphysical definition of Yoga.md",
+                "file": "Excalidraw/Spiritual/Esoterica revelations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -260,7 +260,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Metaphysical definition of Yoga"
+              "title": "Backlinks for Esoterica revelations"
             }
           },
           {
@@ -269,12 +269,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inner Being/Research/Home/Speculative streams/Metaphysical definition of Yoga.md",
+                "file": "Excalidraw/Spiritual/Esoterica revelations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Metaphysical definition of Yoga"
+              "title": "Outgoing links from Esoterica revelations"
             }
           },
           {
@@ -363,7 +363,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "59daa1abf387ff30",
+  "active": "ccd2e588df637ded",
   "lastOpenFiles": [
     "Inner Being/Research/Home/Speculative streams/Metaphysical definition of Yoga.md",
     "Excalidraw/Spiritual/Esoterica revelations.md",
