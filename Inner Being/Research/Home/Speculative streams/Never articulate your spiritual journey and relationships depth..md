@@ -1,7 +1,7 @@
 ---
 Created: 2026-02-26T13:58:00
 Notebook: "[[Spirit Knowledge - MOC]]"
-modified: 2026-03-07T13:49:34+05:30
+modified: 2026-03-07T14:08:51+05:30
 ---
 Connected topics :
 
@@ -27,7 +27,14 @@ Further question arises.
 
 Q: So if artha bhavam is GOD himself, why should we protect it, it is indestructible, maybe 10000 people will disrespect it, but there will be 1 for whom it will matter the most, and that is enough for me.
 
-A : You can't educate someone into the experiential "taste" of innocence, antaryami jaane antargat ko bhaav
+A : You can't educate someone into the experiential "taste" of innocence.
+Secondly my any articulation of this bhavam will incomplete, it would never be justified.
+Thirdly, there is difference between educating around truth and justifying your depth for truth.
+
+Your life lived is the only proof for others, not your articulations/claims around justification of your love or artha bhavam or innocence.
+
+but for lord your bhavam is enough, just direct perception.
+
 
 
 
