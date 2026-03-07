@@ -1,7 +1,7 @@
 ---
 Created: 2026-03-07T10:04:00
 Notebook: "[[Spirit Knowledge - MOC]]"
-modified: 2026-03-07T16:50:29+05:30
+modified: 2026-03-07T17:28:41+05:30
 ---
 Connected topics :
 [[Personal Intimacy with GOD]] 
@@ -18,13 +18,30 @@ Major event :
 4. ) I realised significance of number of akshar given with yugal nama-mantram and ishta-guru-mantram
 5. ) The philosophy of bhagwat gita starts to make sense to me
 6. ) Non-dual tantra was also exposed to me, the philosophy of somananda and vallabhacharya was integrated
-7. ) realised the glory of dhamam in ayodha, and beautiful positive shift
+7. ) realised the glory of dhamam in ayodha, and a beautiful positive shift
 8. ) I discovered panjara system
-9. ) Kama tattva as my swa-dharma was realised
-10. ) Monogamy as my swa-dharma w
-11. ) Aham-bhava sahaj bhumi was introduced
-12. ) Chandrayana ways of doing sadhana was found
-13. ) Courage to be loved by higher principles was realised
+9. ) Nityapushtai bhavam was introduced
+10. ) Kama tattva as my swa-dharma was realised
+11. ) Monogamy as my swa-dharma was realised
+12. ) Sahaj Aham-bhava bhumi was introduced
+13. ) Chandrayana ways of doing sadhana was found
+14. ) Concept of Asana started to make sense
+15. ) Better way of articulations or more free way of articulating while doing pooja was found, basically copying nish the fish
+16. ) Finality of Spiritual resources was freezed
+17. ) Asur Dhama and Sur Dhama was realised
+18. ) Beauty of 4th house through luxmi.om.astrology was realised
+19. ) Faith in Mahalakshmi Asthakam started to become more innocent
+20. ) My Immediate dharma to my parents is of sustainability, basically srim tattvam in gross form, but deep karmic healing in subtle form
+21. ) Started to feel light on the torture of mercury rahu on my intellect
+22. ) My leakages was being addressed by lord to me, surya tattva and kama tattva and mangal tattva
+23. ) Faith precedes time this was emphasized by lord
+24. ) In the light of wisdom was such a powerful book for me
+25. ) Feeling of hrim tattvam was introduced to me.
+26. ) Courage to be loved by higher principles was realized
+27. ) Courage to be loved by higher principle of kama was realised
+28. ) How I avoid Neharika within me my consciousness was realised by lord
+29. ) Neharika as my Lakshmi became a deeper realization in me
+30. ) Fluidity of money and true essence of Venus
 
 
 
