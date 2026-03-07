@@ -1,7 +1,7 @@
 ---
 Created: 2026-02-25T12:57:00
 Notebook: "[[Spirit Knowledge - MOC]]"
-modified: 2026-02-27T18:22:44+05:30
+modified: 2026-03-07T10:02:32+05:30
 ---
 Connected topics :
 [[MarsVenus]] - [[Integrity of Kama - ( Mars & Venus )]]
@@ -15,6 +15,7 @@ vidyā-vinaya-sampanne -> A knowledge which makes us humble. Such can be the app
 
 Such is the vidya of high quality venus.
 
+The courage to be loved by higher principles of Kama.
 
 
 ----
