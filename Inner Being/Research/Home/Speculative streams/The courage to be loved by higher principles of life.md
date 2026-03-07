@@ -1,7 +1,7 @@
 ---
 Created: 2026-03-07T10:04:00
 Notebook: "[[Spirit Knowledge - MOC]]"
-modified: 2026-03-07T19:56:47+05:30
+modified: 2026-03-07T20:20:03+05:30
 ---
 Connected topics :
 [[Personal Intimacy with GOD]] 
@@ -22,31 +22,32 @@ Major event :
 8. ) I discovered panjara system
 9. ) Nityapushtai bhavam was introduced
 10. ) Kama tattva as my swa-dharma was realised
-11. ) Monogamy as my swa-dharma was realised
-12. ) Sahaj Aham-bhava bhumi was introduced
-13. ) Chandrayana ways of doing sadhana was found
-14. ) Concept of Asana started to make sense
-15. ) Better way of articulations or more free way of articulating while doing pooja was found, basically copying nish the fish
-16. ) Finality of Spiritual resources was freezed
-17. ) Asur Dhama and Sur Dhama was realised
-18. ) Beauty of 4th house through luxmi.om.astrology was realised
-19. ) Faith in Mahalakshmi Asthakam started to become more innocent
-20. ) My Immediate dharma to my parents is of sustainability, basically srim tattvam in gross form, but deep karmic healing in subtle form
-21. ) Started to feel light on the torture of mercury rahu on my intellect
-22. ) My leakages was being addressed by lord to me, surya tattva and kama tattva and mangal tattva
-23. ) Faith precedes time this was emphasized by lord
-24. ) In the light of wisdom was such a powerful book for me, adibhuta, adhideva, adhyatma
-25. ) Feeling of hrim tattvam was introduced to me
-26. ) Stambhan of Baglamukhi maa
-27. ) Sarvana, Manana, Niddhidhyasana
-28. ) Courage to be loved by higher principles was realized
-29. ) Courage to be loved by higher principle of kama was realised
-30. ) How I avoid Neharika within me my consciousness was realised by lord
-31. ) Neharika as my Lakshmi became a deeper realization in me, recognition same divine wisdom in both our heart, a partibhijna
-32. ) We are interacting with expression of same consciousness as we are.
-33. ) The alchemical part of Scorpio.
-34. ) Fluidity of money and true essence of Venus
-35. ) Just drink the name of lord
+11. ) Personal intimacy with God
+12. ) Monogamy as my swa-dharma was realised
+13. ) Sahaj Aham-bhava bhumi was introduced
+14. ) Chandrayana ways of doing sadhana was found
+15. ) Concept of Asana started to make sense
+16. ) Better way of articulations or more free way of articulating while doing pooja was found, basically copying nish the fish
+17. ) Finality of Spiritual resources was freezed
+18. ) Asur Dhama and Sur Dhama was realised
+19. ) Beauty of 4th house through luxmi.om.astrology was realised
+20. ) Faith in Mahalakshmi Asthakam started to become more innocent
+21. ) My Immediate dharma to my parents is of sustainability, basically srim tattvam in gross form, but deep karmic healing in subtle form
+22. ) Started to feel light on the torture of mercury rahu on my intellect
+23. ) My leakages was being addressed by lord to me, surya tattva and kama tattva and mangal tattva
+24. ) Faith precedes time this was emphasized by lord
+25. ) In the light of wisdom was such a powerful book for me, adibhuta, adhideva, adhyatma
+26. ) Feeling of hrim tattvam was introduced to me
+27. ) Stambhan of Baglamukhi maa
+28. ) Sarvana, Manana, Niddhidhyasana
+29. ) Courage to be loved by higher principles was realized
+30. ) Courage to be loved by higher principle of kama was realised
+31. ) How I avoid Neharika within me my consciousness was realised by lord
+32. ) Neharika as my Lakshmi became a deeper realization in me, recognition same divine wisdom in both our heart, a partibhijna
+33. ) We are interacting with expression of same consciousness as we are.
+34. ) The alchemical part of Scorpio.
+35. ) Fluidity of money and true essence of Venus
+36. ) Just drink the name of lord
 
 
 

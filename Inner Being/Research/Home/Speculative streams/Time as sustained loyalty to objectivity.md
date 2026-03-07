@@ -1,7 +1,7 @@
 ---
 Created: 2026-02-14T15:37:00
 Notebook: "[[Centering Wisdom MOC]]"
-modified: 2026-02-14T15:43:12+05:30
+modified: 2026-03-07T20:14:29+05:30
 ---
 Connected topics :
 
@@ -15,6 +15,7 @@ In case of manifestation see time as sustained loyalty to our objective goal, fa
 
 Else one can stay in a redundant loop for *some* time, and it delays things pointlessly. 
 
+That is to say that faith precedes time.
 
 
 
