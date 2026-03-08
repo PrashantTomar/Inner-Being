@@ -1,7 +1,7 @@
 ---
 Created: 2026-03-07T10:04:00
 Notebook: "[[Spirit Knowledge - MOC]]"
-modified: 2026-03-08T11:55:15+05:30
+modified: 2026-03-08T13:57:38+05:30
 ---
 Connected topics :
 [[Personal Intimacy with GOD]] 
@@ -40,15 +40,16 @@ Major event :
 26. ) Feeling of hrim tattvam was introduced to me
 27. ) Stambhan of Baglamukhi maa
 28. ) Sarvana, Manana, Niddhidhyasana
-29. ) Courage to be loved by higher principles was realized
-30. ) Courage to be loved by higher principle of kama was realized
-31. ) How I avoid Neharika within me my consciousness was realised by lord
-32. ) Neharika as my Lakshmi became a deeper realization in me, recognizing same divine wisdom in both our heart, a partibhijna
-33. ) We are interacting with expression of same consciousness as we are
-34. ) The alchemical part of Scorpio, the alchemical love, alchemy of consciousness
-35. ) Fluidity of money and true essence of Venus
-36. ) Satyabhama and Rukmini on the level of conscious awareness
-37. ) Just drink the name of lord, the stability, aesthetic and nourishment consciousness
+29. ) Opening your heart, mind and intellect to love
+30. ) Courage to be loved by higher principles was realized
+31. ) Courage to be loved by higher principle of kama was realized
+32. ) How I avoid Neharika within me my consciousness was realised by lord
+33. ) Neharika as my Lakshmi became a deeper realization in me, recognizing same divine wisdom in both our heart, a partibhijna
+34. ) We are interacting with expression of same consciousness as we are
+35. ) The alchemical part of Scorpio, the alchemical love, alchemy of consciousness
+36. ) Fluidity of money and true essence of Venus
+37. ) Satyabhama and Rukmini on the level of conscious awareness
+38. ) Just drink the name of lord, the stability, aesthetic and nourishment consciousness
 
 
 
