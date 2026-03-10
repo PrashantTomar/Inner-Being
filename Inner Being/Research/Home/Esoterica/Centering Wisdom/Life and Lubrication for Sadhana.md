@@ -1,7 +1,7 @@
 ---
 Created: 2026-01-23T23:36:00
 Notebook: "[[Centering Wisdom MOC]]"
-modified: 2026-02-09T14:39:47+05:30
+modified: 2026-03-10T08:59:41+05:30
 ---
 Connected topics :
 [[Sadhana]] 
@@ -49,6 +49,8 @@ Chant nama by knowing that you are that deity too.
 
 Attitude of improvising on Mantra.
 
+Simple keep your heart, mind and intellect open.
+
 Plumbing into the depth of your Sadhana.
 
 Yama different perspective :
@@ -93,6 +95,10 @@ A life of service, when properly adopted to results in self-forgetfulness. It ca
 
 Let your prayer be “ I seek to Heal “.
 
+Just keep on honoring the first principles :
+
+However, we cannot expect changes outside immediately, as that would be another desire which would enter into our hearts. The consequences automatically follow, but we should not meditate merely for the sake of the consequences. This is also very important to remember. We need not sit for meditation with an expectation of the results that may follow. They may follow or they may not follow, but we should not concern ourselves with them. I just want to point out that they will follow and they must follow, but our thoughts should be concerned with the causes and not the effects.
+
 Necessity of Daily Sadhana -
 
 Therefore, we have to tell stories to make it clear how this can be achieved. “See how that man did it, how he achieved it, how he became successful. You also do this.” That is the reason why the Puranas are written. It is to convey this simple thing that I am telling in these sentences. Draw the outer into the inner, and the inner into the transcendent. That is all. The whole of spiritual practice is here. But adamant is the ego. It will not permit it. It will say, “No, this is not possible. I am not meant for it.” For this purpose, a daily hammering of the mind into this concentrated purpose should be done. A daily session of meditation is necessary.
@@ -118,6 +124,50 @@ You have to act like a teacher. You are a schoolmaster. You know how to handle s
 Tell the mind again and again, "You are stupid! Why are you running here and there? Don't you know that everything you want can be had with Him? Not only that, everything that you cannot even imagine in your mind, all things you can get here. An ocean of blessings will come. Don't go!" Even verbally, you can tell like that. Not merely thinking, even by words, tell the mind, "Don't go anywhere! You are getting everything here!" Don't you speak like that to your students in a school? "This is good for you. Don't be like that. Study!"
 
 Like a father talking to a little baby, you talk to your mind: "Don't be foolish; don't go here and there. You will get nothing by going here and there. You are only losing your energy and wasting time. All that you want you can have in one place. Therefore, identify yourself with and meditate on that, and receive blessings from that." If you think it is Lord Siva, all right, go on with it.
+
+
+Another visitor: I am a humble soul beginning the journey. I don't know how long or short it will be. Right now all I've been doing is meditating.
+
+Swamiji: Is your meditation all right?
+
+Visitor: My meditation is going wonderfully, though I find that sometimes I create it as a chore for myself because I have so many things in my life – school, family and friends. I'll say, “Okay, I will meditate,” and then if I don't have time for that meditation…
+
+Swamiji: You don't have time for meditation?
+
+Visitor: Well, I say I want time for meditation, and then when I don't meditate I get angry with myself.
+
+Swamiji: You have no time for meditation; that's what you are saying? You have no time?
+
+Visitor: Well, I have time. Time is what I make it but I find myself putting off meditation although it seems to me the most important thing.
+
+Swamiji: It is a little inconvenient for you?
+
+Visitor: Yes. And there are so many other things going on in my material life.
+
+Swamiji: The question is the same as the one that concerns you. Do you know the value of meditation?
+
+Visitor: I'm learning about it.
+
+Swamiji: Are you convinced of its supreme value?
+
+Visitor: Yes.
+
+Swamiji: Then how is it that you cannot find time for that?
+
+Visitor: I find that somehow I'm distracted.
+
+Swamiji: Distracted by that which is more important than meditation?
+
+Visitor: Distracted by other people and things around me.
+
+Swamiji: The other people are somehow or other inadvertently accepted as more important than meditation; otherwise, the attraction is not possible. For some reason, the other people are more important than meditation. The mind cannot accommodate itself with the idea that what you are thinking in your mind in meditation is of any utility finally, because the utility is somewhere else, in the people outside in the world. The mind is not able to accommodate itself to that point because sometimes there is a serious doubt in the mind that you are meditating in an abstract manner, whereas the world is more concretely real. You cannot say the thought in your mind in meditation is as concrete as a brick or a human being.
+
+Actually, it is a foolish doubt. The mind is as solid as the world itself. It is as hard as a rock, and it is more real than the world. You can analyse philosophically or by your conviction the actual fact that the mind is not a phenomenon, an exudation from the body, and the body is more real. Don't you feel that the body is more real than the mind? You think the mind is only a theory, that it is only a way of thinking, but the world is not a thought. The whole point is that. You cannot agree that the world is a thought. You think the world is more real than thought, and if you identify meditation with thought, it becomes less important than the world. This is the whole psychological contradiction.
+
+A very difficult situation this is, and you have to have great satsanga for that. Satsanga is company of great people. Your studies will not help you in this matter. You are told right from the beginning that the world is more real than thinking, that thought is less important than the actual concrete reality of the world. This is what you are studying in the schools and colleges. This is what you are seeing with your eyes. So how will you suddenly turn the cart around and think that the mind is more important than the world? Easily you cannot accept it, though it is a fact. Unless the mind is more important than the whole world, meditation is not possible; otherwise, it will be a mere imagination and it will not work at all.
+
+Meditation is not imagination. It is a concrete thing, more solid than the whole rocky world. You cannot understand this unless you have the company of great people. That is called satsanga
+
 
 A Yogi can be good at anything, because he approach everything with totality and comprehensiveness :
 
