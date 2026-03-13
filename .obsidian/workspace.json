@@ -152,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -244,7 +244,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2026-03-13 12.24.05.excalidraw.md",
+                "file": "Excalidraw/Business Systems -Excalidraw/Learning from professionals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -254,7 +254,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Drawing 2026-03-13 12.24.05.excalidraw"
+              "title": "Backlinks for Learning from professionals"
             }
           },
           {
@@ -263,12 +263,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2026-03-13 12.24.05.excalidraw.md",
+                "file": "Excalidraw/Business Systems -Excalidraw/Learning from professionals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Drawing 2026-03-13 12.24.05.excalidraw"
+              "title": "Outgoing links from Learning from professionals"
             }
           },
           {
@@ -358,7 +358,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2289ba58fddce106",
+  "active": "0883cfbf8fed73eb",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2026-03-13 12.24.05.excalidraw.md",
     "Excalidraw/Business Systems -Excalidraw/Business MOC - 2025.md",
