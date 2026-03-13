@@ -152,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -244,7 +244,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Business Systems -Excalidraw/Business MOC - 2025.md",
+                "file": "Excalidraw/Spiritual/Esoterica revelations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -254,7 +254,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Business MOC - 2025"
+              "title": "Backlinks for Esoterica revelations"
             }
           },
           {
@@ -263,12 +263,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Business Systems -Excalidraw/Business MOC - 2025.md",
+                "file": "Excalidraw/Spiritual/Esoterica revelations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Business MOC - 2025"
+              "title": "Outgoing links from Esoterica revelations"
             }
           },
           {
@@ -358,12 +358,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ceabbbddb0eb1348",
+  "active": "ccd2e588df637ded",
   "lastOpenFiles": [
-    "Excalidraw/Business Systems -Excalidraw/Learning from professionals.md",
-    "Excalidraw/Drawing 2026-03-13 12.24.05.excalidraw.md",
     "Excalidraw/Business Systems -Excalidraw/Business MOC - 2025.md",
+    "Daily Workflow/Daily workflow visualization 10 Feb.md",
+    "Excalidraw/Business Systems -Excalidraw/Learning from professionals.md",
     "Inner Being/Research/Home/Frequently visited/Frequently visited - 15-Feb-2026.md",
+    "Excalidraw/Drawing 2026-03-13 12.24.05.excalidraw.md",
     "Inner Being/Research/Home/Speculative streams/Hrim Srim Tattvam.md",
     "Inner Being/Research/Home/Speculative streams/True Stability of LakshmiNarayana.md",
     "Inner Being/Research/Home/Speculative streams/The courage to be loved by higher principles of life.md",
@@ -371,7 +372,6 @@
     "Inner Being/Research/Home/Speculative streams/Never articulate your spiritual journey and relationships depth..md",
     "Excalidraw/Spiritual/Esoterica revelations.md",
     "Inner Being/Research/Home/Esoterica/Centering Wisdom/Life and Lubrication for Sadhana.md",
-    "Daily Workflow/Daily workflow visualization 10 Feb.md",
     "Inner Being/Research/Home/Esoterica/Spirit/Deity/LakshmiNarayana/Approaching relationships as LakshmiNarayana Sadhaka.md",
     "Inner Being/Research/Home/Speculative streams/Personal Intimacy with GOD.md",
     "Inner Being/Research/Home/Speculative streams/Enrapport with the body.md",
