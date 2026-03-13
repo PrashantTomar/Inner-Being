@@ -138,9 +138,21 @@
               "icon": "lucide-file",
               "title": "Hrim Srim Tattvam"
             }
+          },
+          {
+            "id": "2289ba58fddce106",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-03-13 12.24.05.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-03-13 12.24.05.excalidraw"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -232,7 +244,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Spiritual/Esoterica revelations.md",
+                "file": "Excalidraw/Drawing 2026-03-13 12.24.05.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -242,7 +254,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Esoterica revelations"
+              "title": "Backlinks for Drawing 2026-03-13 12.24.05.excalidraw"
             }
           },
           {
@@ -251,12 +263,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Spiritual/Esoterica revelations.md",
+                "file": "Excalidraw/Drawing 2026-03-13 12.24.05.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Esoterica revelations"
+              "title": "Outgoing links from Drawing 2026-03-13 12.24.05.excalidraw"
             }
           },
           {
@@ -346,18 +358,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ccd2e588df637ded",
+  "active": "2289ba58fddce106",
   "lastOpenFiles": [
-    "Inner Being/Research/Home/Speculative streams/Never articulate your spiritual journey and relationships depth..md",
-    "Excalidraw/Spiritual/Esoterica revelations.md",
+    "Excalidraw/Drawing 2026-03-13 12.24.05.excalidraw.md",
+    "Excalidraw/Business Systems -Excalidraw/Business MOC - 2025.md",
     "Excalidraw/Business Systems -Excalidraw/Learning from professionals.md",
     "Inner Being/Research/Home/Frequently visited/Frequently visited - 15-Feb-2026.md",
-    "Excalidraw/Business Systems -Excalidraw/Business MOC - 2025.md",
-    "Inner Being/Research/Home/Speculative streams/The courage to be loved by higher principles of life.md",
-    "Inner Being/Research/Home/Speculative streams/True Stability of LakshmiNarayana.md",
     "Inner Being/Research/Home/Speculative streams/Hrim Srim Tattvam.md",
-    "Inner Being/Research/Home/Esoterica/Centering Wisdom/Life and Lubrication for Sadhana.md",
+    "Inner Being/Research/Home/Speculative streams/True Stability of LakshmiNarayana.md",
+    "Inner Being/Research/Home/Speculative streams/The courage to be loved by higher principles of life.md",
     "Inner Being/Research/Home/Speculative streams/Brahmacharya, evil-eyes and fullness of personality.md",
+    "Inner Being/Research/Home/Speculative streams/Never articulate your spiritual journey and relationships depth..md",
+    "Excalidraw/Spiritual/Esoterica revelations.md",
+    "Inner Being/Research/Home/Esoterica/Centering Wisdom/Life and Lubrication for Sadhana.md",
     "Daily Workflow/Daily workflow visualization 10 Feb.md",
     "Inner Being/Research/Home/Esoterica/Spirit/Deity/LakshmiNarayana/Approaching relationships as LakshmiNarayana Sadhaka.md",
     "Inner Being/Research/Home/Speculative streams/Personal Intimacy with GOD.md",
@@ -377,7 +390,6 @@
     "Inner Being/Research/Home/Speculative streams/Pasted image 20260214160031.png",
     "Inner Being/Research/Home/Speculative streams/Pasted image 20260214160224.png",
     "Inner Being/Research/Home/Speculative streams/Pasted image 20260214160328.png",
-    "Inner Being/Research/Home/Speculative streams/Path of nourishment, aesthetics and sringara bhavam.md",
     "Inner Being/Research/Home/Frequently visited",
     "Daily Workflow/Pasted Image 20260210120207_957.png",
     "Excalidraw/Swar Consciousness",
