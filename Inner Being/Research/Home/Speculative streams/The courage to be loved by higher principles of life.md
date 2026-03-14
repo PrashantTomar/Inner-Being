@@ -1,7 +1,7 @@
 ---
 Created: 2026-03-07T10:04:00
 Notebook: "[[Spirit Knowledge - MOC]]"
-modified: 2026-03-08T13:57:38+05:30
+modified: 2026-03-13T22:29:57+05:30
 ---
 Connected topics :
 [[Personal Intimacy with GOD]] 
@@ -50,6 +50,8 @@ Major event :
 36. ) Fluidity of money and true essence of Venus
 37. ) Satyabhama and Rukmini on the level of conscious awareness
 38. ) Just drink the name of lord, the stability, aesthetic and nourishment consciousness
+39. ) Seek deep forgiveness, consistently
+40. ) Jai LakshmiNarayana 
 
 
 
