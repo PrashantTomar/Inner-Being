@@ -46,18 +46,6 @@
             }
           },
           {
-            "id": "98bc1fef54f12eb3",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.12.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.12.4"
-            }
-          },
-          {
             "id": "ceabbbddb0eb1348",
             "type": "leaf",
             "state": {
@@ -152,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -358,18 +346,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0fb259f3a9094f0c",
+  "active": "ccd2e588df637ded",
   "lastOpenFiles": [
-    "Excalidraw/Spiritual/Esoterica revelations.md",
-    "Inner Being/Research/Home/Speculative streams/Never articulate your spiritual journey and relationships depth..md",
-    "Inner Being/Research/Home/Speculative streams/Brahmacharya, evil-eyes and fullness of personality.md",
+    "Excalidraw/Business Systems -Excalidraw/Business MOC - 2025.md",
+    "Excalidraw/Business Systems -Excalidraw/Learning from professionals.md",
+    "Inner Being/Research/Home/Frequently visited/Frequently visited - 15-Feb-2026.md",
+    "Daily Workflow/Daily workflow visualization 10 Feb.md",
     "Inner Being/Research/Home/Speculative streams/The courage to be loved by higher principles of life.md",
     "Inner Being/Research/Home/Speculative streams/True Stability of LakshmiNarayana.md",
     "Inner Being/Research/Home/Speculative streams/Hrim Srim Tattvam.md",
-    "Excalidraw/Business Systems -Excalidraw/Learning from professionals.md",
-    "Inner Being/Research/Home/Frequently visited/Frequently visited - 15-Feb-2026.md",
-    "Excalidraw/Business Systems -Excalidraw/Business MOC - 2025.md",
-    "Daily Workflow/Daily workflow visualization 10 Feb.md",
+    "Inner Being/Research/Home/Esoterica/Spirit/Deity/Yugala Consciousness.md",
+    "Excalidraw/Spiritual/Esoterica revelations.md",
+    "Inner Being/Research/Home/Speculative streams/Never articulate your spiritual journey and relationships depth..md",
+    "Inner Being/Research/Home/Speculative streams/Brahmacharya, evil-eyes and fullness of personality.md",
     "Excalidraw/Drawing 2026-03-13 12.24.05.excalidraw.md",
     "Inner Being/Research/Home/Esoterica/Centering Wisdom/Life and Lubrication for Sadhana.md",
     "Inner Being/Research/Home/Esoterica/Spirit/Deity/LakshmiNarayana/Approaching relationships as LakshmiNarayana Sadhaka.md",
@@ -385,7 +374,6 @@
     "Inner Being/Research/Home/Speculative streams/Integrity of Kama - ( Mars & Venus ).md",
     "Inner Being/Research/Home/Esoterica/Spirit/Deity/LakshmiNarayana/Yugal Hrudayam.md",
     "Inner Being/Research/Home/Kavyatmak Lehrein/Words from Depth/Strings of Love..md",
-    "Inner Being/Research/Home/Esoterica/Spirit/Spirit-Knowledge/Strotam as psychological kindness and energy portals.md",
     "Inner Being/Research/Home/Speculative streams/Pasted image 20260207140202.png",
     "Inner Being/Research/Home/Speculative streams/Pasted image 20260214160031.png",
     "Inner Being/Research/Home/Speculative streams/Pasted image 20260214160224.png",
