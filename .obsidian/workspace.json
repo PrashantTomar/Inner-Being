@@ -46,6 +46,18 @@
             }
           },
           {
+            "id": "98bc1fef54f12eb3",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.4"
+            }
+          },
+          {
             "id": "ceabbbddb0eb1348",
             "type": "leaf",
             "state": {
@@ -140,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -232,7 +244,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Spiritual/Esoterica revelations.md",
+                "file": "Excalidraw/Business Systems -Excalidraw/Learning from professionals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -242,7 +254,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Esoterica revelations"
+              "title": "Backlinks for Learning from professionals"
             }
           },
           {
@@ -251,12 +263,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Spiritual/Esoterica revelations.md",
+                "file": "Excalidraw/Business Systems -Excalidraw/Learning from professionals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Esoterica revelations"
+              "title": "Outgoing links from Learning from professionals"
             }
           },
           {
@@ -346,14 +358,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ccd2e588df637ded",
+  "active": "0fb259f3a9094f0c",
   "lastOpenFiles": [
+    "Excalidraw/Spiritual/Esoterica revelations.md",
     "Inner Being/Research/Home/Speculative streams/Never articulate your spiritual journey and relationships depth..md",
     "Inner Being/Research/Home/Speculative streams/Brahmacharya, evil-eyes and fullness of personality.md",
     "Inner Being/Research/Home/Speculative streams/The courage to be loved by higher principles of life.md",
     "Inner Being/Research/Home/Speculative streams/True Stability of LakshmiNarayana.md",
     "Inner Being/Research/Home/Speculative streams/Hrim Srim Tattvam.md",
-    "Excalidraw/Spiritual/Esoterica revelations.md",
     "Excalidraw/Business Systems -Excalidraw/Learning from professionals.md",
     "Inner Being/Research/Home/Frequently visited/Frequently visited - 15-Feb-2026.md",
     "Excalidraw/Business Systems -Excalidraw/Business MOC - 2025.md",
