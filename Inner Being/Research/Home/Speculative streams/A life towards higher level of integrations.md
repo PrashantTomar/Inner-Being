@@ -1,7 +1,7 @@
 ---
 Created: 2026-03-16T12:15:00
 Notebook: "[[Centering Wisdom MOC]]"
-modified: 2026-03-16T12:16:55+05:30
+modified: 2026-03-16T16:06:29+05:30
 ---
 Connected topics :
 [[Sattva]] - [[True Seva]] - [[True Stability of LakshmiNarayana]]
@@ -23,6 +23,7 @@ Status :
 
 Reference :
 
+Anand ek bhadti hui ghatna hain.
 
 Excalidraw Reference :
 
