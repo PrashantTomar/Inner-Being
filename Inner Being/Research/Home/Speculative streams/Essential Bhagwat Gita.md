@@ -1,7 +1,7 @@
 ---
 Created: 2026-03-17T10:14:00
 Notebook: "[[Spirit Knowledge - MOC]]"
-modified: 2026-03-17T11:24:50+05:30
+modified: 2026-03-17T12:07:04+05:30
 ---
 Connected topics :
 [[LakshmiNarayana]] - [[A life towards higher level of integrations]] 
@@ -117,31 +117,28 @@ The self alone is your friend, and the self alone is your enemy.
 
 **Sanskrit:**
 
-**न हि कश्चित्क्षणमपि जातु तिष्ठत्यकर्मकृत् |**
-
-**कार्यते ह्यवश: कर्म सर्व: प्रकृतिजैर्गुणै: ||**
+न हि कश्चित्क्षणमपि जातु तिष्ठत्यकर्मकृत् |
+कार्यते ह्यवश: कर्म सर्व: प्रकृतिजैर्गुणै: ||
 
 **Transliteration:**
 
 _na hi kaśhchit kṣhaṇam api jātu tiṣhṭhatyakarma-kṛit_
-
 _kāryate hyavaśhaḥ karma sarvaḥ prakṛiti-jair guṇaiḥ_
 
 **Meaning :**
-
 There is no one who can remain without action even for a moment. Indeed, all beings are compelled to act by their qualities born of material nature (the three _guṇas_).
 
 
 ## **3.35**
 
 Sanskrit :
-**श्रेयान्स्वधर्मो विगुण: परधर्मात्स्वनुष्ठितात् | स्वधर्मे निधनं श्रेय: परधर्मो भयावह: || 
+श्रेयान्स्वधर्मो विगुण: परधर्मात्स्वनुष्ठितात् |
+स्वधर्मे निधनं श्रेय: परधर्मो भयावह: || 
 
 **Translieration :**
 _śhreyān swa-dharmo viguṇaḥ para-dharmāt sv-anuṣhṭhitāt swa-dharme nidhanaṁ śhreyaḥ para-dharmo bhayāvahaḥ_
 
 **Meaning :**
-
 It is far better to perform one's own natural duty, even if it is done imperfectly, than to perform another's duty perfectly. Even death is better while engaged in one's own duty; the path of another is dangerous and fraught with fear.
 
 
