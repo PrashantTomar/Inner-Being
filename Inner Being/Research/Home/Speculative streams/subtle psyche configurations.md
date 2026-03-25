@@ -1,7 +1,7 @@
 ---
 Created: 2026-03-25T10:43:00
-Notebook:
-modified: 2026-03-25T10:45:11+05:30
+Notebook: "[[Spirit Knowledge - MOC]]"
+modified: 2026-03-25T11:43:42+05:30
 ---
 Connected topics :
 
