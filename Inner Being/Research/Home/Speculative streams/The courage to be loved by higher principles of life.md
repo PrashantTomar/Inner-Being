@@ -1,7 +1,7 @@
 ---
 Created: 2026-03-07T10:04:00
 Notebook: "[[Spirit Knowledge - MOC]]"
-modified: 2026-03-13T22:29:57+05:30
+modified: 2026-03-27T11:30:59+05:30
 ---
 Connected topics :
 [[Personal Intimacy with GOD]] 
@@ -51,9 +51,40 @@ Major event :
 37. ) Satyabhama and Rukmini on the level of conscious awareness
 38. ) Just drink the name of lord, the stability, aesthetic and nourishment consciousness
 39. ) Seek deep forgiveness, consistently
-40. ) Jai LakshmiNarayana 
+40. ) Jai LakshmiNarayana
+41. ) To thine be own Self is also a powerful book
+42. ) Spiritual trap, Spiritual Jungle and True Guru Kripa
+43. ) Sattva, Rajas and Tamas based understanding was introduced, based on realization of ones duty towards oneself
+44. ) From fear of sukhsmata and old patterns
+45. ) Forgiveness consciousness
+46. ) Karan consciousness was realized wrt to Neharika
+47. ) Providing the atmosphere of Grace with LakshmiNarayanaNeharikaPrashantSriHari
+48. ) Removing imposter syndrome from LakshmiNarayanaNeharikaPrashantSriHari
+49. ) Attraction of innocence of communion
+50. ) Narayana >>> Diplomacy
+51. ) Vashikaran vs Magnetism of Love
+52. ) State of empathy and realising divinity in roots of it, for healing
+53. ) Deh-Mano-atman ekatva - SuryaKriya and Nityapushtai Bhavam
+54. ) Tamas in Self-Image
+55. ) A wholistic intelligence of Narayana
+56. ) Dogmatic belief around LakshmiNarayana bhanjan
+57. ) Seeing paap as state of consciousness, Naitikta ka delusion in neophyte
+58. ) Ritualistic delusion around yoni puja and panchamakara
+59. ) Dogmatic delusion around sex
+60. ) Timelessness quality of LakshmiNarayana, Faith precede time
+61. ) Compassionate light of SELF
+62. ) That which is everywhere is meditating on itself
+63. ) Sahaj Tapasaya, Hiranyavarnam harinim
+64. ) Self-Discipline - Integration of different level o 
+65. ) Dissipation of energy and true brahmacharya
+66. )  Meditating on philosophical depth of SELF, just out of joy.
+67. ) Essential Gita, Prem Anukampa
+68. ) kinchit ahamkaram, shudha ahamkara, ashuda ahamkara
+69. ) Introduction to vira bhavam
+70. ) Most beautiful part is allow life to surprise you.
+71. ) Enjoy the flow and focus on your sadhana.
 
-
+~ found no solution for dream and sleep
 
 
 ----
