@@ -1,7 +1,7 @@
 ---
 Created: 2026-03-07T10:04:00
 Notebook: "[[Spirit Knowledge - MOC]]"
-modified: 2026-03-27T11:30:59+05:30
+modified: 2026-03-27T12:04:48+05:30
 ---
 Connected topics :
 [[Personal Intimacy with GOD]] 
@@ -75,14 +75,18 @@ Major event :
 61. ) Compassionate light of SELF
 62. ) That which is everywhere is meditating on itself
 63. ) Sahaj Tapasaya, Hiranyavarnam harinim
-64. ) Self-Discipline - Integration of different level o 
+64. ) Self-Discipline is emphasis on Self-Integration in different level of operation of human-psyche.
 65. ) Dissipation of energy and true brahmacharya
-66. )  Meditating on philosophical depth of SELF, just out of joy.
+66. ) Meditating on philosophical depth of SELF, just out of joy
 67. ) Essential Gita, Prem Anukampa
 68. ) kinchit ahamkaram, shudha ahamkara, ashuda ahamkara
-69. ) Introduction to vira bhavam
-70. ) Most beautiful part is allow life to surprise you.
-71. ) Enjoy the flow and focus on your sadhana.
+69. ) inspection of special stagem a fatal error from neophyte
+70. ) Completing all ancestor karma from root
+71. ) Nirashi and aparigrha is natural state of abundance, chintyachinta bhedha
+72. ) There is no ehsaan in the lotus heart of LakshmiNarayana
+73. ) Introduction to vira bhavam
+74. ) Most beautiful part is allow life to surprise you
+75. ) Enjoy the flow and focus on your sadhana
 
 ~ found no solution for dream and sleep
 
