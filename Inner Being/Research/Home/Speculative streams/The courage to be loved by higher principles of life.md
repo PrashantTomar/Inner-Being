@@ -1,7 +1,7 @@
 ---
 Created: 2026-03-07T10:04:00
 Notebook: "[[Spirit Knowledge - MOC]]"
-modified: 2026-03-27T20:10:23+05:30
+modified: 2026-03-28T11:35:46+05:30
 ---
 Connected topics :
 [[Personal Intimacy with GOD]] 
@@ -85,9 +85,10 @@ Major event :
 71. ) There is this dogmatic and ritualistic fear
 72. ) Nirashi and aparigrha is natural state of abundance, chintyachinta bhedha
 73. ) There is no ehsaan in the lotus heart of LakshmiNarayana
-74. ) Introduction to vira bhavam
-75. ) Most beautiful part is allow life to surprise you
-76. ) Enjoy the flow and focus on your sadhana
+74. ) Life is not happening to you, Life is happening through you
+75. ) Introduction to vira bhavam
+76. ) Most beautiful part is allow life to surprise you
+77. ) Enjoy the flow and focus on your sadhana
 
 ~ found no solution for dream and sleep
 
