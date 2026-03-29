@@ -1,7 +1,7 @@
 ---
 Created: 2026-03-07T10:04:00
 Notebook: "[[Spirit Knowledge - MOC]]"
-modified: 2026-03-29T13:24:20+05:30
+modified: 2026-03-29T19:58:42+05:30
 ---
 Connected topics :
 [[Personal Intimacy with GOD]] 
@@ -89,7 +89,8 @@ Major event :
 75. ) Introduction to vira bhavam
 76. ) Most beautiful part is allow life to surprise you
 77. ) Enjoy the flow and focus on your sadhana
-78. ) Working holistically on Body, Mind and Spirit, seeing it all as undivided unitary essence
+78. ) Right rebellion and universe has opened all doors for me
+79. ) Working holistically on Body, Mind and Spirit, seeing it all as undivided unitary essence
 
 ~ found no solution for dream and sleep
 
