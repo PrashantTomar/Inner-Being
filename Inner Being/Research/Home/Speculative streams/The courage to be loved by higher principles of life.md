@@ -1,7 +1,7 @@
 ---
 Created: 2026-03-07T10:04:00
 Notebook: "[[Spirit Knowledge - MOC]]"
-modified: 2026-03-30T14:56:13+05:30
+modified: 2026-03-30T17:44:47+05:30
 ---
 Connected topics :
 [[Personal Intimacy with GOD]] 
@@ -71,27 +71,32 @@ Major event :
 57. ) Seeing paap as state of consciousness, Naitikta ka delusion in neophyte
 58. ) Ritualistic delusion around yoni puja and panchamakara
 59. ) Dogmatic delusion around sex
-60. ) Timelessness quality of LakshmiNarayana, Faith precede time
-61. ) Compassionate light of SELF
-62. ) That which is everywhere is meditating on itself
-63. ) Sahaj Tapasaya, Hiranyavarnam harinim
-64. ) Self-Discipline is emphasis on Self-Integration in different level of operation of human-psyche.
-65. ) Dissipation of energy and true brahmacharya
-66. ) Meditating on philosophical depth of SELF, just out of joy
-67. ) Essential Gita, Prem Anukampa
-68. ) kinchit ahamkaram, shudha ahamkara, ashuda ahamkara
-69. ) inspection of special stagem a fatal error from neophyte
-70. ) Completing all ancestor karma from root
-71. ) There is this dogmatic and ritualistic fear
-72. ) Nirashi and aparigrha is natural state of abundance, chintyachinta bhedha
-73. ) There is no ehsaan in the lotus heart of LakshmiNarayana
-74. ) Life is not happening to you, Life is happening through you
-75. ) Giving xshma yachna to the spirit of this entire vibrations of jounsar, and mangal kamana, praying lord to dissociate me with all it's negative quality.
-76. ) Introduction to vira bhavam
-77. ) Most beautiful part is allow life to surprise you
-78. ) Enjoy the flow and focus on your sadhana
-79. ) Right rebellion and universe has opened all doors for me
-80. ) Working holistically on Body, Mind and Spirit, seeing it all as undivided unitary essence
+60. ) Do not be afraid of all these limitations set by religious and cultural distinctions and patterns, etc. You must be a hundred percent honest before God. It is very difficult because we carry ourselves there. I am Mr. So-and-so, I am Mrs. So-and-so; I go to God. No Mr. and Mrs. can go there
+61. ) Timelessness quality of LakshmiNarayana, Faith precede time
+62. ) Compassionate light of SELF
+63. ) That which is everywhere is meditating on itself
+64. ) Sahaj Tapasaya, Hiranyavarnam harinim
+65. ) Self-Discipline is emphasis on Self-Integration in different level of operation of human-psyche.
+66. ) Dissipation of energy and true brahmacharya
+67. ) Meditating on philosophical depth of SELF, just out of joy
+68. ) Essential Gita, Prem Anukampa
+69. ) kinchit ahamkaram, shudha ahamkara, ashuda ahamkara
+70. ) inspection of special stagem a fatal error from neophyte
+71. ) Completing all ancestor karma from root
+72. ) There is this dogmatic and ritualistic fear
+73. ) Nirashi and aparigrha is natural state of abundance, chintyachinta bhedha
+74. ) There is no ehsaan in the lotus heart of LakshmiNarayana
+75. ) Life is not happening to you, Life is happening through you
+76. ) Giving xshma yachna to the spirit of this entire vibrations of jounsar, and mangal kamana, praying lord to dissociate me with all it's negative quality.
+77. ) Introduction to vira bhavam
+78. ) Living ones's providence consciousness, that bhakta-anugraha-karini
+79. ) Apni shreyo ki thasak honi bhaut jyda jaruri hain, To have that bhavam of yugala jatosmi is very important, they are not someone sitting far above, they are most personal
+80. ) The householder's life is integral
+81. ) Now there is this fire of swa-dharma which is full of love and life, full of faith and confidence
+82. ) Most beautiful part is allow life to surprise you
+83. ) Enjoy the flow and focus on your sadhana
+84. ) Right rebellion and universe has opened all doors for me
+85. ) Working holistically on Body, Mind and Spirit, seeing it all as undivided unitary essence
 
 ~ found no solution for dream and sleep
 
