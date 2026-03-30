@@ -1,7 +1,7 @@
 ---
 Created: 2026-03-07T10:04:00
 Notebook: "[[Spirit Knowledge - MOC]]"
-modified: 2026-03-29T19:58:42+05:30
+modified: 2026-03-30T14:56:13+05:30
 ---
 Connected topics :
 [[Personal Intimacy with GOD]] 
@@ -86,11 +86,12 @@ Major event :
 72. ) Nirashi and aparigrha is natural state of abundance, chintyachinta bhedha
 73. ) There is no ehsaan in the lotus heart of LakshmiNarayana
 74. ) Life is not happening to you, Life is happening through you
-75. ) Introduction to vira bhavam
-76. ) Most beautiful part is allow life to surprise you
-77. ) Enjoy the flow and focus on your sadhana
-78. ) Right rebellion and universe has opened all doors for me
-79. ) Working holistically on Body, Mind and Spirit, seeing it all as undivided unitary essence
+75. ) Giving xshma yachna to the spirit of this entire vibrations of jounsar, and mangal kamana, praying lord to dissociate me with all it's negative quality.
+76. ) Introduction to vira bhavam
+77. ) Most beautiful part is allow life to surprise you
+78. ) Enjoy the flow and focus on your sadhana
+79. ) Right rebellion and universe has opened all doors for me
+80. ) Working holistically on Body, Mind and Spirit, seeing it all as undivided unitary essence
 
 ~ found no solution for dream and sleep
 
