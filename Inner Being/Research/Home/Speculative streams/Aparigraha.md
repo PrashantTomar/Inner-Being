@@ -1,0 +1,33 @@
+---
+Created: 2026-03-30T20:14:00
+Notebook: "[[Spirit Knowledge - MOC]]"
+modified: 2026-03-30T20:15:20+05:30
+---
+Connected topics :
+
+[[4th house]] - [[12th house]]
+
+
+------------
+
+Note : 
+
+True love that emerges from his heart, don't seek to possess anything, it just shares the beauty of relationship. This bhavam is aparigraha.
+
+
+
+
+----
+
+
+Status :
+#Fleeting_default 
+
+Reference :
+
+
+Excalidraw Reference :
+
+
+
+Canvas Reference :
