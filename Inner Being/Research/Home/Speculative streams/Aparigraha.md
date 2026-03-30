@@ -1,11 +1,11 @@
 ---
 Created: 2026-03-30T20:14:00
 Notebook: "[[Spirit Knowledge - MOC]]"
-modified: 2026-03-30T20:15:20+05:30
+modified: 2026-03-30T21:35:40+05:30
 ---
 Connected topics :
 
-[[4th house]] - [[12th house]]
+[[4th house]] - [[12th house]] - [[A life towards higher level of integrations]] - [[heart chakra]]
 
 
 ------------

@@ -1,11 +1,11 @@
 ---
 Created: 2026-03-30T20:18:00
 Notebook: "[[Spirit Knowledge - MOC]]"
-modified: 2026-03-30T20:22:09+05:30
+modified: 2026-03-30T21:44:14+05:30
 ---
 Connected topics :
 
-[[Lagna]] - [[Manipura]] - [[Mars]] - [[Sun]] - [[Muladhara]]
+[[Lagna]] - [[Manipura]] - [[Mars]] - [[Sun]] - [[Muladhara ]]- [[A life towards higher level of integrations]]
 
 
 ------------
