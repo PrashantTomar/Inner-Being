@@ -1,7 +1,7 @@
 ---
 Created: 2026-03-07T10:04:00
 Notebook: "[[Spirit Knowledge - MOC]]"
-modified: 2026-03-30T17:44:47+05:30
+modified: 2026-03-31T16:03:31+05:30
 ---
 Connected topics :
 [[Personal Intimacy with GOD]] 
@@ -87,16 +87,17 @@ Major event :
 73. ) Nirashi and aparigrha is natural state of abundance, chintyachinta bhedha
 74. ) There is no ehsaan in the lotus heart of LakshmiNarayana
 75. ) Life is not happening to you, Life is happening through you
-76. ) Giving xshma yachna to the spirit of this entire vibrations of jounsar, and mangal kamana, praying lord to dissociate me with all it's negative quality.
-77. ) Introduction to vira bhavam
-78. ) Living ones's providence consciousness, that bhakta-anugraha-karini
-79. ) Apni shreyo ki thasak honi bhaut jyda jaruri hain, To have that bhavam of yugala jatosmi is very important, they are not someone sitting far above, they are most personal
-80. ) The householder's life is integral
-81. ) Now there is this fire of swa-dharma which is full of love and life, full of faith and confidence
-82. ) Most beautiful part is allow life to surprise you
-83. ) Enjoy the flow and focus on your sadhana
-84. ) Right rebellion and universe has opened all doors for me
-85. ) Working holistically on Body, Mind and Spirit, seeing it all as undivided unitary essence
+76. ) Giving xshma yachna to the spirit of this entire vibrations of jounsar, and mangal kamana, praying lord to dissociate me with all it's negative quality
+77. ) Har Ghar ki apni kahani hain, everyone has their own spiritual path
+78. ) Introduction to vira bhavam
+79. ) Living ones's providence consciousness, that bhakta-anugraha-karini
+80. ) Apni shreyo ki thasak honi bhaut jyda jaruri hain, To have that bhavam of yugala jatosmi is very important, they are not someone sitting far above, they are most personal
+81. ) The householder's life is integral
+82. ) Now there is this fire of swa-dharma which is full of love and life, full of faith and confidence
+83. ) Most beautiful part is allow life to surprise you
+84. ) Enjoy the flow and focus on your sadhana
+85. ) Right rebellion and universe has opened all doors for me
+86. ) Working holistically on Body, Mind and Spirit, seeing it all as undivided unitary essence
 
 ~ found no solution for dream and sleep
 
