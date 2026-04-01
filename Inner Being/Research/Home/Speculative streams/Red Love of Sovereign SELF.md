@@ -1,6 +1,6 @@
 ---
 Created: 2026-03-30T21:39:00
-modified: 2026-04-01T20:03:16+05:30
+modified: 2026-04-01T21:17:32+05:30
 ---
 Connected topics :
 
@@ -27,7 +27,17 @@ Kamabakat ye hosh
 un nigahon mai tehrata chla gya
 
 Matlabi si jindagi meri
-Matlabi si rehne dena
+Matlabi hi rehne dena
+
+Mohabaat ka bhoj
+hume yun zindagi bhar sehne dena
+
+Kambakat ye hosh
+un nigahon ka hogya
+
+
+
+
 
 
 
