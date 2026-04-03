@@ -1,6 +1,6 @@
 ---
 Created: 2026-03-30T21:39:00
-modified: 2026-04-01T21:17:32+05:30
+modified: 2026-04-03T20:12:27+05:30
 ---
 Connected topics :
 
@@ -15,7 +15,7 @@ In losing ourselves, we only find more of ourselves, maybe such is the glory of 
 
 
 Kamabakat ye hosh
-un nigahon mai behta chle gya
+un nigahon ke basmai
 
 takdir ko girvi rakh
 tutne ko razi ho gaya
@@ -24,16 +24,25 @@ Jazbaat bhare in sapno mai
 Haqiqat sa koi mil gya
 
 Kamabakat ye hosh
-un nigahon mai tehrata chla gya
+un nigahon mai behta chla gya
 
-Matlabi si jindagi meri
+Aiyne ko cxhod
+ye tum pr tehar gya
+
+Fir bhi
+
+Matlabi si jindagi ye meri
 Matlabi hi rehne dena
 
 Mohabaat ka bhoj
-hume yun zindagi bhar sehne dena
+hume umar bhar sehne dena
 
 Kambakat ye hosh
 un nigahon ka hogya
+
+Nazariyon ko girvi rakh
+
+
 
 
 
