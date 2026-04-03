@@ -1,6 +1,6 @@
 ---
 Created: 2026-03-30T21:39:00
-modified: 2026-04-03T20:12:27+05:30
+modified: 2026-04-03T20:55:17+05:30
 ---
 Connected topics :
 
@@ -15,7 +15,7 @@ In losing ourselves, we only find more of ourselves, maybe such is the glory of 
 
 
 Kamabakat ye hosh
-un nigahon ke basmai
+un nigahon ke basmaiy
 
 takdir ko girvi rakh
 tutne ko razi ho gaya
@@ -24,7 +24,7 @@ Jazbaat bhare in sapno mai
 Haqiqat sa koi mil gya
 
 Kamabakat ye hosh
-un nigahon mai behta chla gya
+un nigahon mai behta chle gya
 
 Aiyne ko cxhod
 ye tum pr tehar gya
@@ -41,6 +41,12 @@ Kambakat ye hosh
 un nigahon ka hogya
 
 Nazariyon ko girvi rakh
+Khamoshiyon sa ho gaya
+
+Sari ziddon ke paar
+zindagani hai ek
+
+
 
 
 
