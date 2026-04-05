@@ -2630,3 +2630,4 @@
 "event_logs:item:embedded": {"key":"item:embedded","ct":6111,"first_at":1766193938674,"last_at":1775366238274,"class_name":"EventLog"},
 "event_logs:item:embedded": {"key":"item:embedded","ct":6113,"first_at":1766193938674,"last_at":1775366240693,"class_name":"EventLog"},
 "event_logs:plugin:new_version_available": {"key":"plugin:new_version_available","ct":363,"first_at":1766478584971,"last_at":1775373944656,"class_name":"EventLog"},
+"event_logs:plugin:new_version_available": {"key":"plugin:new_version_available","ct":364,"first_at":1766478584971,"last_at":1775406344633,"class_name":"EventLog"},
