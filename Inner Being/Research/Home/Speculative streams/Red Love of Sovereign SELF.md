@@ -1,6 +1,6 @@
 ---
 Created: 2026-03-30T21:39:00
-modified: 2026-04-05T10:46:25+05:30
+modified: 2026-04-06T22:46:49+05:30
 ---
 Connected topics :
 
@@ -24,7 +24,7 @@ Jazbaat bhare in sapno mai
 Haqiqat sa koi mil gya
 
 Kamabakat ye hosh
-un nigahon mai behta chle gya
+un nigahon ke rassmai
 
 Aiyne ko cxhod
 ye tum pr tehar gya
