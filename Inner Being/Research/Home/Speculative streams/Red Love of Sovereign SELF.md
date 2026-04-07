@@ -1,6 +1,6 @@
 ---
 Created: 2026-03-30T21:39:00
-modified: 2026-04-06T22:46:49+05:30
+modified: 2026-04-07T16:17:41+05:30
 ---
 Connected topics :
 
@@ -43,7 +43,9 @@ un nigahon ka hogya
 Nazariyon ko girvi rakh
 Khamoshiyon sa ho gaya
 
-
+roohdari ye kaisi
+humne ynha bss 
+khud ko hi paya
 
 
 
