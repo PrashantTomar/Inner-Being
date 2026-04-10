@@ -84,21 +84,9 @@
               "icon": "lucide-file",
               "title": "Destined Will-Flower"
             }
-          },
-          {
-            "id": "b09535180b512daa",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.12.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.12.7"
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -304,14 +292,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b09535180b512daa",
+  "active": "beabeec7cba26655",
   "lastOpenFiles": [
-    "Inner Being/Research/Home/Speculative streams/Red Love of Sovereign SELF.md",
     "Inner Being/Research/Home/Speculative streams/Destined Will-Flower.md",
-    "Inner Being/Research/Home/Speculative streams/The courage to be loved by higher principles of life.md",
-    "Excalidraw/Spiritual/Esoterica revelations.md",
     "Excalidraw/Business Systems -Excalidraw/Business MOC - 2025.md",
+    "Excalidraw/Spiritual/Esoterica revelations.md",
+    "Inner Being/Research/Home/Speculative streams/The courage to be loved by higher principles of life.md",
     "Daily Workflow/Daily workflow visualization 10 Feb.md",
+    "Inner Being/Research/Home/Speculative streams/Red Love of Sovereign SELF.md",
+    "Inner Being/Research/Home/Esoterica/Spirit/Deity/Yugala Consciousness.md",
     "Inner Being/Research/Home/Speculative streams/Untitled.md",
     "Inner Being/Research/Home/Speculative streams/Exploring the Extraordinary depth of MarsVenus.md",
     "Inner Being/Research/Home/Speculative streams/Wholeness of Lagana.md",
@@ -331,7 +320,6 @@
     "Inner Being/Research/Home/Frequently visited/Frequently visited - 15-Feb-2026.md",
     "Inner Being/Research/Home/Speculative streams/Pleasure alone is not happiness.md",
     "Inner Being/Research/Home/Speculative streams/subtle psyche configurations.md",
-    "Inner Being/Research/Home/Speculative streams/Essential Bhagwat Gita.md",
     "Inner Being/Research/Home/Esoterica/Spirit/Deity/Sahasranama/Nama-amrit.base",
     "Inner Being/Research/Home/Esoterica/Esoteric MOC - Base.base",
     "Inner Being/Research/Home/Speculative streams/Raw thought Streams.base",

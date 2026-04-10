@@ -1,7 +1,7 @@
 ---
 Created: 2026-03-07T10:04:00
 Notebook: "[[Spirit Knowledge - MOC]]"
-modified: 2026-03-31T16:03:31+05:30
+modified: 2026-04-10T21:58:23+05:30
 ---
 Connected topics :
 [[Personal Intimacy with GOD]] 
@@ -98,6 +98,8 @@ Major event :
 84. ) Enjoy the flow and focus on your sadhana
 85. ) Right rebellion and universe has opened all doors for me
 86. ) Working holistically on Body, Mind and Spirit, seeing it all as undivided unitary essence
+87. ) Become very clear on your idea of moksha, and deeply respects everyone, the deepest value to decorate one's life around their ishta-devta.
+88. ) Becoming clear around soteriology of your approach towards divine, anyways all approach are same approach to divine, having a firm metaphysical foundation.
 
 ~ found no solution for dream and sleep
 
