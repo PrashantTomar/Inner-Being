@@ -84,9 +84,21 @@
               "icon": "lucide-file",
               "title": "Destined Will-Flower"
             }
+          },
+          {
+            "id": "b09535180b512daa",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.7"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -292,7 +304,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7ce52c1489fab1d0",
+  "active": "b09535180b512daa",
   "lastOpenFiles": [
     "Inner Being/Research/Home/Speculative streams/Red Love of Sovereign SELF.md",
     "Inner Being/Research/Home/Speculative streams/Destined Will-Flower.md",
