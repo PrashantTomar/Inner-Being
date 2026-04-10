@@ -86,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -161,7 +161,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "64c4ba06bba09625",
@@ -291,15 +292,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7ce52c1489fab1d0",
+  "active": "beabeec7cba26655",
   "lastOpenFiles": [
-    "Inner Being/Research/Home/Speculative streams/Untitled.md",
     "Daily Workflow/Daily workflow visualization 10 Feb.md",
+    "Excalidraw/Business Systems -Excalidraw/Business MOC - 2025.md",
     "Excalidraw/Spiritual/Esoterica revelations.md",
     "Inner Being/Research/Home/Speculative streams/The courage to be loved by higher principles of life.md",
-    "Inner Being/Research/Home/Speculative streams/Red Love of Sovereign SELF.md",
     "Inner Being/Research/Home/Speculative streams/Destined Will-Flower.md",
-    "Excalidraw/Business Systems -Excalidraw/Business MOC - 2025.md",
+    "Inner Being/Research/Home/Speculative streams/Red Love of Sovereign SELF.md",
+    "Inner Being/Research/Home/Speculative streams/Untitled.md",
     "Inner Being/Research/Home/Speculative streams/Exploring the Extraordinary depth of MarsVenus.md",
     "Inner Being/Research/Home/Speculative streams/Wholeness of Lagana.md",
     "Excalidraw/Scripts/Brainstorm with Nimish.md",

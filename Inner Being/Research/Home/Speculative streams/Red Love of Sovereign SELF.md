@@ -1,6 +1,6 @@
 ---
 Created: 2026-03-30T21:39:00
-modified: 2026-04-08T14:01:18+05:30
+modified: 2026-04-10T11:03:39+05:30
 ---
 Connected topics :
 
@@ -28,7 +28,7 @@ Haqiqat sa koi mil gya
 Kamabakat ye hosh
 un nigahon ke rassmai
 
-Aiyne ko cxhod
+cxhod aiyne ke dhun
 ye tum pr tehar gya
 
 Fir bhi
@@ -45,9 +45,11 @@ un nigahon ka hogya
 Nazariyon ko girvi rakh
 Khamoshiyon sa ho gaya
 
-roohdari ye kaisi
-humne ynha bss 
-khud ko hi paya
+roohdari ke jashan tha vo
+
+
+paya tow bss humne khud ko hi paya
+
 
 
 
