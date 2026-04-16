@@ -1,7 +1,7 @@
 ---
-Created:
-Notebook:
-modified: 2026-04-15T20:49:23+05:30
+Created: 2026-04-16T09:38:00
+Notebook: "[[Spirit Knowledge - MOC]]"
+modified: 2026-04-16T09:38:20+05:30
 ---
 Connected topics :
 
@@ -12,6 +12,7 @@ Connected topics :
 Note : 
 
 MAnn ek xhsmta hain, uska mismanagement hi dukh hain
+
 ~ Swami Maitreyananda 
 
 

@@ -1,7 +1,7 @@
 ---
 Created: 2026-03-07T10:04:00
 Notebook: "[[Spirit Knowledge - MOC]]"
-modified: 2026-04-15T13:00:50+05:30
+modified: 2026-04-16T09:59:58+05:30
 ---
 Connected topics :
 [[Personal Intimacy with GOD]] 
@@ -96,11 +96,16 @@ Major event :
 82. ) Now there is this fire of swa-dharma which is full of love and life, full of faith and confidence
 83. ) Most beautiful part is allow life to surprise you
 84. ) Enjoy the flow and focus on your sadhana
-85. ) Right rebellion and universe has opened all doors for me
-86. ) Working holistically on Body, Mind and Spirit, seeing it all as undivided unitary essence.
-87. ) ChandraSuryau cha Netre
-88. ) Become very clear on your idea of moksha, and deeply respects everyone, the deepest value to decorate one's life around their ishta-devta.
-89. ) Becoming clear around soteriology of your approach towards divine, anyways all approach are same approach to divine, having a firm metaphysical foundation.
+85. ) All the strotam and sahasranamas are qualities of your very own soul, Vishnu Sahasranama is sahaj quality of soul, Lakshmi Sahasranama is sahaj quality of soul
+86. ) Right rebellion and universe has opened all doors for me
+87. ) tum bich mai aye and apni half-knowledge ko ghusane lag gye out of fear
+88. ) Also all virtue are qualities of soul, so we don't have to put effort to be that, which we already are
+89. ) Working holistically on Body, Mind and Spirit, seeing it all as undivided unitary essence.
+90. ) ChandraSuryau cha Netre
+91. ) Become very clear on your idea of moksha, and deeply respects everyone, the deepest value to decorate one's life around their ishta-devta
+92. ) We don't finishes scriptures, they finishes you.
+93. ) The idea of tapas and matrika bija rupinim
+94. ) Becoming clear around soteriology of your approach towards divine, anyways all approach are same approach to divine, having a firm metaphysical foundation.
 
 ~ found no solution for dream and sleep
 
