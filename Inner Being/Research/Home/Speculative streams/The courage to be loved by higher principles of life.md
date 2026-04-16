@@ -98,14 +98,15 @@ Major event :
 84. ) Enjoy the flow and focus on your sadhana
 85. ) All the strotam and sahasranamas are qualities of your very own soul, Vishnu Sahasranama is sahaj quality of soul, Lakshmi Sahasranama is sahaj quality of soul
 86. ) Right rebellion and universe has opened all doors for me
-87. ) tum bich mai aye and apni half-knowledge ko ghusane lag gye out of fear
-88. ) Also all virtue are qualities of soul, so we don't have to put effort to be that, which we already are
-89. ) Working holistically on Body, Mind and Spirit, seeing it all as undivided unitary essence.
-90. ) ChandraSuryau cha Netre
-91. ) Become very clear on your idea of moksha, and deeply respects everyone, the deepest value to decorate one's life around their ishta-devta
-92. ) We don't finishes scriptures, they finishes you.
-93. ) The idea of tapas and matrika bija rupinim
-94. ) Becoming clear around soteriology of your approach towards divine, anyways all approach are same approach to divine, having a firm metaphysical foundation.
+87. ) The grace of LakshmiNarayana is not sellable hence personal relationships are not tellable.
+88. ) tum bich mai aye and apni half-knowledge ko ghusane lag gye out of fear
+89. ) Also all virtue are qualities of soul, so we don't have to put effort to be that, which we already are
+90. ) Working holistically on Body, Mind and Spirit, seeing it all as undivided unitary essence.
+91. ) ChandraSuryau cha Netre
+92. ) Become very clear on your idea of moksha, and deeply respects everyone, the deepest value to decorate one's life around their ishta-devta
+93. ) We don't finishes scriptures, they finishes you.
+94. ) The idea of tapas and matrika bija rupinim
+95. ) Becoming clear around soteriology of your approach towards divine, anyways all approach are same approach to divine, having a firm metaphysical foundation.
 
 ~ found no solution for dream and sleep
 
