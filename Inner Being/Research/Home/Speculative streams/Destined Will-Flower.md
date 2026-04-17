@@ -1,6 +1,6 @@
 ---
 Created: 2026-04-08T14:01:00
-modified: 2026-04-10T15:04:45+05:30
+modified: 2026-04-17T12:06:38+05:30
 ---
 Connected topics :
 
@@ -18,7 +18,7 @@ apni apni uadaan hain yaaron
 Jeevan dagar ki parvaah main
 Chand pal ki mulakat hain yaaron
 
-Chu lena vo asmaan jisse jine tum aye ho
+
 
 
 
