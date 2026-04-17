@@ -1,7 +1,7 @@
 ---
 Created: 2026-03-07T10:04:00
 Notebook: "[[Spirit Knowledge - MOC]]"
-modified: 2026-04-16T21:59:23+05:30
+modified: 2026-04-16T22:36:57+05:30
 ---
 Connected topics :
 [[Personal Intimacy with GOD]] 
@@ -97,7 +97,7 @@ Major event :
 83. ) Now there is this fire of swa-dharma which is full of love and life, full of faith and confidence
 84. ) Most beautiful part is allow life to surprise you
 85. ) Enjoy the flow and focus on your sadhana
-86. ) All the strotam and sahasranamas are qualities of your very own soul, Vishnu Sahasranama is sahaj quality of soul, Lakshmi Sahasranama is sahaj quality of soul
+86. ) All the strotam and sahasranama are qualities of your very own soul, Vishnu Sahasranama is sahaj quality of soul, Lakshmi Sahasranama is sahaj quality of soul
 87. ) Right rebellion and universe has opened all doors for me
 88. ) The grace of LakshmiNarayana is not sellable hence personal relationships are not tellable
 89. ) tum bich mai aye and apni half-knowledge ko ghusane lag gye out of fear
