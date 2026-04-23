@@ -1,7 +1,7 @@
 ---
 Created: 2026-03-07T10:04:00
 Notebook: "[[Spirit Knowledge - MOC]]"
-modified: 2026-04-17T12:07:07+05:30
+modified: 2026-04-23T16:38:39+05:30
 ---
 Connected topics :
 [[Personal Intimacy with GOD]] 
@@ -103,12 +103,13 @@ Major event :
 89. ) tum bich mai aye and apni half-knowledge ko ghusane lag gye out of fear
 90. ) Also all virtue are qualities of soul, so we don't have to put effort to be that, which we already are
 91. ) Kunn kunne nahi rhna hain, there should be deep deep sincerity in our act.
-92. ) Working holistically on Body, Mind and Spirit, seeing it all as undivided unitary essence.
-93. ) ChandraSuryau cha Netre
-94. ) Become very clear on your idea of moksha, and deeply respects everyone, the deepest value to decorate one's life around their ishta-devta
-95. ) We don't finishes scriptures, they finishes you
-96. ) The idea of tapas and matrika bija rupinim
-97. ) Becoming clear around soteriology of your approach towards divine, anyways all approach are same approach to divine, having a firm metaphysical foundation.
+92. ) How lord washes sins off by keeping you in presence of someone who has mastered that particular vibrations
+93. ) Working holistically on Body, Mind and Spirit, seeing it all as undivided unitary essence.
+94. ) ChandraSuryau cha Netre
+95. ) Become very clear on your idea of moksha, and deeply respects everyone, the deepest value to decorate one's life around their ishta-devta
+96. ) We don't finishes scriptures, they finishes you
+97. ) The idea of tapas and matrika bija rupinim, sudarshana
+98. ) Becoming clear around soteriology of your approach towards divine, anyways all approach are same approach to divine, having a firm metaphysical foundation.
 
 ~ found no solution for dream and sleep
 
