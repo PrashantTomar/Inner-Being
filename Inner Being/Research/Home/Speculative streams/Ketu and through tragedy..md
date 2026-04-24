@@ -1,7 +1,7 @@
 ---
-Created:
+Created: 2026-04-24T21:26:00
 Notebook: "[[Inner Astrology - MOC]]"
-modified: 2026-04-23T16:39:49+05:30
+modified: 2026-04-24T21:26:19+05:30
 ---
 Connected topics :
 
@@ -11,7 +11,7 @@ Connected topics :
 
 Note : 
 
-Ketu and invokator adhibhuta, adhideva, adhytama through tragedy if we are not spiritual
+Ketu and invocator adhibhuta, adhideva, adhytama through tragedy if we are not spiritual
 
 
 
