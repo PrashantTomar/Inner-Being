@@ -1,7 +1,7 @@
 ---
 Created: 2026-03-07T10:04:00
 Notebook: "[[Spirit Knowledge - MOC]]"
-modified: 2026-04-23T16:38:39+05:30
+modified: 2026-04-26T21:24:53+05:30
 ---
 Connected topics :
 [[Personal Intimacy with GOD]] 
@@ -106,10 +106,11 @@ Major event :
 92. ) How lord washes sins off by keeping you in presence of someone who has mastered that particular vibrations
 93. ) Working holistically on Body, Mind and Spirit, seeing it all as undivided unitary essence.
 94. ) ChandraSuryau cha Netre
-95. ) Become very clear on your idea of moksha, and deeply respects everyone, the deepest value to decorate one's life around their ishta-devta
-96. ) We don't finishes scriptures, they finishes you
-97. ) The idea of tapas and matrika bija rupinim, sudarshana
-98. ) Becoming clear around soteriology of your approach towards divine, anyways all approach are same approach to divine, having a firm metaphysical foundation.
+95. ) Mahapurush purvaja for ancestors is highest remedy.
+96. ) Become very clear on your idea of moksha, and deeply respects everyone, the deepest value to decorate one's life around their ishta-devta
+97. ) We don't finishes scriptures, they finishes you
+98. ) The idea of tapas and matrika bija rupinim, sudarshana
+99. ) Becoming clear around soteriology of your approach towards divine, anyways all approach are same approach to divine, having a firm metaphysical foundation.
 
 ~ found no solution for dream and sleep
 
