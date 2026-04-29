@@ -1,7 +1,7 @@
 ---
 Created: 2026-03-07T10:04:00
 Notebook: "[[Spirit Knowledge - MOC]]"
-modified: 2026-04-26T21:24:53+05:30
+modified: 2026-04-29T19:13:04+05:30
 ---
 Connected topics :
 [[Personal Intimacy with GOD]] 
@@ -58,7 +58,7 @@ Major event :
 44. ) Sattva, Rajas and Tamas based understanding was introduced, based on realization of ones duty towards oneself
 45. ) From fear of sukhsmata and old patterns
 46. ) Forgiveness consciousness
-47. ) Karan consciousness was realized wrt to Neharika
+47. ) Karan consciousness was realized wrt to Neharika, low frequency of Scorpio.
 48. ) Providing the atmosphere of Grace with LakshmiNarayanaNeharikaPrashantSriHari
 49. ) Removing imposter syndrome from LakshmiNarayanaNeharikaPrashantSriHari
 50. ) Attraction of innocence of communion
@@ -97,20 +97,22 @@ Major event :
 83. ) Now there is this fire of swa-dharma which is full of love and life, full of faith and confidence
 84. ) Most beautiful part is allow life to surprise you
 85. ) Enjoy the flow and focus on your sadhana
-86. ) All the strotam and sahasranama are qualities of your very own soul, Vishnu Sahasranama is sahaj quality of soul, Lakshmi Sahasranama is sahaj quality of soul
-87. ) Right rebellion and universe has opened all doors for me
-88. ) The grace of LakshmiNarayana is not sellable hence personal relationships are not tellable
-89. ) tum bich mai aye and apni half-knowledge ko ghusane lag gye out of fear
-90. ) Also all virtue are qualities of soul, so we don't have to put effort to be that, which we already are
-91. ) Kunn kunne nahi rhna hain, there should be deep deep sincerity in our act.
-92. ) How lord washes sins off by keeping you in presence of someone who has mastered that particular vibrations
-93. ) Working holistically on Body, Mind and Spirit, seeing it all as undivided unitary essence.
-94. ) ChandraSuryau cha Netre
-95. ) Mahapurush purvaja for ancestors is highest remedy.
-96. ) Become very clear on your idea of moksha, and deeply respects everyone, the deepest value to decorate one's life around their ishta-devta
-97. ) We don't finishes scriptures, they finishes you
-98. ) The idea of tapas and matrika bija rupinim, sudarshana
-99. ) Becoming clear around soteriology of your approach towards divine, anyways all approach are same approach to divine, having a firm metaphysical foundation.
+86. ) Becoming a stable adhara for Venus, Srinivasa Consciousness.
+87. ) All the strotam and sahasranama are qualities of your very own soul, Vishnu Sahasranama is sahaj quality of soul, Lakshmi Sahasranama is sahaj quality of soul
+88. ) Right rebellion and universe has opened all doors for me
+89. ) The grace of LakshmiNarayana is not sellable hence personal relationships are not tellable
+90. ) tum bich mai aye and apni half-knowledge ko ghusane lag gye out of fear
+91. ) Also all virtue are qualities of soul, so we don't have to put effort to be that, which we already are
+92. ) Kunn kunne nahi rhna hain, there should be deep deep sincerity in our act, one intention at a time.
+93. ) Learn to trust Narayana in your heart and MahaLakshmi in your wife's heart.
+94. ) How lord washes sins off by keeping you in presence of someone who has mastered that particular vibrations
+95. ) Working holistically on Body, Mind and Spirit, seeing it all as undivided unitary essence.
+96. ) ChandraSuryau cha Netre
+97. ) Mahapurush purvaja for ancestors is highest remedy.
+98. ) Become very clear on your idea of moksha, and deeply respects everyone, the deepest value to decorate one's life around their ishta-devta
+99. ) We don't finishes scriptures, they finishes you
+100. ) The idea of tapas and matrika bija rupinim, sudarshana, One intention at a time.
+101. ) Becoming clear around soteriology of your approach towards divine, anyways all approach are same approach to divine, having a firm metaphysical foundation.
 
 ~ found no solution for dream and sleep
 
