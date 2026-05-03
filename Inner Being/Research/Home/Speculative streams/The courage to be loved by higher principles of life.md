@@ -1,7 +1,7 @@
 ---
 Created: 2026-03-07T10:04:00
 Notebook: "[[Spirit Knowledge - MOC]]"
-modified: 2026-04-29T19:13:04+05:30
+modified: 2026-05-03T11:24:50+05:30
 ---
 Connected topics :
 [[Personal Intimacy with GOD]] 
@@ -113,6 +113,9 @@ Major event :
 99. ) We don't finishes scriptures, they finishes you
 100. ) The idea of tapas and matrika bija rupinim, sudarshana, One intention at a time.
 101. ) Becoming clear around soteriology of your approach towards divine, anyways all approach are same approach to divine, having a firm metaphysical foundation.
+102. ) Monkey branching from gift given by guru, we are so feared ignoring the best of all given to us.
+103. ) Adi-mudra/ Gupt Hari Mudra, Ashwini mudra and recognition spanda in muladhara chakra.
+104. ) Coming back to Art, and receptive to qualitative SELF-Reflection.
 
 ~ found no solution for dream and sleep
 
