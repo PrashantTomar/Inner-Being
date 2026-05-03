@@ -1,7 +1,7 @@
 ---
 Created: 2026-03-07T10:04:00
 Notebook: "[[Spirit Knowledge - MOC]]"
-modified: 2026-05-03T13:30:45+05:30
+modified: 2026-05-03T14:54:28+05:30
 ---
 Connected topics :
 [[Personal Intimacy with GOD]] 
@@ -111,12 +111,13 @@ Major event :
 97. ) Mahapurush purvaja for ancestors is highest remedy.
 98. ) Fears have their own life expectancy, let alone Narayana handle it, our job is to follow deshna of divine couples with equanimity and sincerity.
 99. ) Become very clear on your idea of moksha, and deeply respects everyone, the deepest value to decorate one's life around their ishta-devta
-100. ) We don't finishes scriptures, they finishes you
-101. ) The idea of tapas and matrika bija rupinim, sudarshana, One intention at a time.
-102. ) Becoming clear around soteriology of your approach towards divine, anyways all approach are same approach to divine, having a firm metaphysical foundation.
-103. ) Monkey branching from gift given by guru, we are so feared ignoring the best of all given to us.
-104. ) Adi-mudra/ Gupt Hari Mudra, Ashwini mudra and recognition spanda in muladhara chakra.
-105. ) Coming back to Art, and receptive to qualitative SELF-Reflection.
+100. ) Twinflame vs Reflective souls, subtleties in it.
+101. ) We don't finishes scriptures, they finishes you
+102. ) The idea of tapas and matrika bija rupinim, sudarshana, One intention at a time.
+103. ) Becoming clear around soteriology of your approach towards divine, anyways all approach are same approach to divine, having a firm metaphysical foundation.
+104. ) Monkey branching from gift given by guru, we are so feared ignoring the best of all given to us.
+105. ) Adi-mudra/ Gupt Hari Mudra, Ashwini mudra and recognition spanda in muladhara chakra.
+106. ) Coming back to Art, and receptive to qualitative SELF-Reflection.
 
 ~ found no solution for dream and sleep
 
