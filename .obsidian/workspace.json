@@ -4,127 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "fae4d9e8d4051249",
+        "id": "1e65ab92216b5c4c",
         "type": "tabs",
         "children": [
           {
-            "id": "2733146869723f22",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Daily Workflow/Daily workflow visualization 10 Feb.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Daily workflow visualization 10 Feb"
-            }
-          },
-          {
-            "id": "beabeec7cba26655",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Business Systems -Excalidraw/Business MOC - 2025.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Business MOC - 2025"
-            }
-          },
-          {
-            "id": "ccd2e588df637ded",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Spiritual/Esoterica revelations.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Esoterica revelations"
-            }
-          },
-          {
-            "id": "7243b2e9e8ee4971",
+            "id": "d6e02da4a119ccc2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inner Being/Research/Home/Speculative streams/The courage to be loved by higher principles of life.md",
+                "file": "Inner Being/Research/Home/Speculative streams/Ketu and through tragedy..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The courage to be loved by higher principles of life"
-            }
-          },
-          {
-            "id": "3fe241a454096b2c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inner Being/Research/Home/Speculative streams/Red Love of Sovereign SELF.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Red Love of Sovereign SELF"
-            }
-          },
-          {
-            "id": "7ce52c1489fab1d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inner Being/Research/Home/Speculative streams/Destined Will-Flower.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Destined Will-Flower"
-            }
-          },
-          {
-            "id": "bf8e52dc3ebc83e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inner Being/Research/Home/Speculative streams/Sadhana is like cooking food and divine aesthetics.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sadhana is like cooking food and divine aesthetics"
-            }
-          },
-          {
-            "id": "1989ff1fb6f8d8df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inner Being/Research/Home/Speculative streams/Karma yoga and glory of GOD.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Karma yoga and glory of GOD"
-            }
-          },
-          {
-            "id": "a0416d69e1ea4fe5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inner Being/Research/Home/Speculative streams/Hamare Safar ki humse na pucho.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Hamare Safar ki humse na pucho"
+              "title": "Ketu and through tragedy."
             }
           }
         ]
@@ -202,8 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 270.5,
-    "collapsed": true
+    "width": 356.5
   },
   "right": {
     "id": "64c4ba06bba09625",
@@ -333,38 +226,38 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2733146869723f22",
+  "active": "d6e02da4a119ccc2",
   "lastOpenFiles": [
-    "Excalidraw/Spiritual/Esoterica revelations.md",
-    "Inner Being/Research/Home/Speculative streams/The courage to be loved by higher principles of life.md",
-    "Inner Being/Research/Home/Speculative streams/Sadhana is like cooking food and divine aesthetics.md",
-    "Inner Being/Research/Home/Speculative streams/Red Love of Sovereign SELF.md",
-    "Inner Being/Research/Home/Speculative streams/Destined Will-Flower.md",
-    "Inner Being/Research/Home/Speculative streams/Karma yoga and glory of GOD.md",
-    "Inner Being/Research/Home/Speculative streams/Hamare Safar ki humse na pucho.md",
-    "Excalidraw/Business Systems -Excalidraw/Business MOC - 2025.md",
-    "Daily Workflow/Daily workflow visualization 10 Feb.md",
-    "Inner Being/Research/Home/Speculative streams/Ketu and through tragedy..md",
-    "Inner Being/Research/Home/Speculative streams/Worship is expression of your love.md",
-    "Inner Being/Research/Home/Speculative streams/Support to the feeling for manifesation.md",
-    "Inner Being/Research/Home/Esoterica/Spirit/Deity/Yugala Consciousness.md",
-    "Inner Being/Research/Home/Speculative streams/Pasted image 20260207140202.png",
-    "Inner Being/Research/Home/Speculative streams/Pasted image 20260214160031.png",
-    "Inner Being/Research/Home/Speculative streams/Pasted image 20260214160224.png",
-    "Inner Being/Research/Home/Speculative streams/Pasted image 20260214160328.png",
-    "Inner Being/Research/Home/Speculative streams/Mind is a potential.md",
-    "Inner Being/Research/Home/Esoterica/Spirit/Spirit-Knowledge/Spirit Knowledge - MOC.md",
-    "Inner Being/Research/Home/Esoterica/Centering Wisdom/Outlook on Sadhana and Upasana.md",
-    "Inner Being/Research/Home/Speculative streams/Exploring the Extraordinary depth of MarsVenus.md",
-    "Inner Being/Research/Home/Speculative streams/Wholeness of Lagana.md",
-    "Excalidraw/Scripts/Brainstorm with Nimish.md",
-    "Inner Being/Research/Home/Speculative streams/Meditation as the art of touching truth.md",
-    "Inner Being/Research/Home/Speculative streams/Intensity and Shuddha Manipura.md",
-    "Inner Being/Research/Home/Speculative streams/Aparigraha.md",
-    "Inner Being/Research/Home/Speculative streams/Venus spirituality.md",
-    "Inner Being/Research/Home/Speculative streams/Expressing your Divine SELF from different dimensions in life..md",
-    "Inner Being/Research/Home/Speculative streams/Name of God - The living shrine of Divine.md",
+    "Inner Being/Research/Home/Speculative streams/Mangalam Loka-Nathaya.md",
+    "Inner Being/Research/Home/Speculative streams/Pleasure alone is not happiness.md",
     "Inner Being/Research/Home/Speculative streams/Self-Discipline.md",
+    "Inner Being/Research/Home/Speculative streams/Worship is expression of your love.md",
+    "Inner Being/Research/Home/Speculative streams/Wholeness of Lagana.md",
+    "Inner Being/Research/Home/Speculative streams/Venus spirituality.md",
+    "Inner Being/Research/Home/Speculative streams/Personal Intimacy with GOD.md",
+    "Inner Being/Research/Home/Speculative streams/Path of nourishment, aesthetics and sringara bhavam.md",
+    "Inner Being/Research/Home/Speculative streams/Name of God - The living shrine of Divine.md",
+    "Inner Being/Research/Home/Speculative streams/Model for conversation.md",
+    "Inner Being/Research/Home/Speculative streams/Mind is a potential.md",
+    "Inner Being/Research/Home/Speculative streams/Aparigraha.md",
+    "Inner Being/Research/Home/Speculative streams/Anurupa.md",
+    "Inner Being/Research/Home/Speculative streams/A life towards higher level of integrations.md",
+    "Inner Being/Research/Home/Speculative streams/Intensity and Shuddha Manipura.md",
+    "Inner Being/Research/Home/Speculative streams/Integrity of Kama - ( Mars & Venus ).md",
+    "Inner Being/Research/Home/Speculative streams/Humility.md",
+    "Inner Being/Research/Home/Speculative streams/Meditation as the art of touching truth.md",
+    "Inner Being/Research/Home/Speculative streams/Metaphysical definition of Yoga.md",
+    "Inner Being/Research/Home/Speculative streams/Pasted image 20260207140202.png",
+    "Inner Being/Research/Home/Speculative streams/Pasted image 20260214160328.png",
+    "Inner Being/Research/Home/Speculative streams/Pasted image 20260214160224.png",
+    "Inner Being/Research/Home/Speculative streams/Pasted image 20260214160031.png",
+    "Inner Being/Research/Home/Speculative streams/Red Love of Sovereign SELF.md",
+    "Inner Being/Research/Home/Speculative streams/Hamare Safar ki humse na pucho.md",
+    "Inner Being/Research/Home/Speculative streams/Karma yoga and glory of GOD.md",
+    "Inner Being/Research/Home/Speculative streams/Sadhana is like cooking food and divine aesthetics.md",
+    "Inner Being/Research/Home/Speculative streams/Destined Will-Flower.md",
+    "Daily Workflow/Daily workflow visualization 10 Feb.md",
+    "Excalidraw/Spiritual/Esoterica revelations.md",
     "Inner Being/Research/Home/Esoterica/Spirit/Deity/Sahasranama/Nama-amrit.base",
     "Inner Being/Research/Home/Esoterica/Esoteric MOC - Base.base",
     "Inner Being/Research/Home/Speculative streams/Raw thought Streams.base",
