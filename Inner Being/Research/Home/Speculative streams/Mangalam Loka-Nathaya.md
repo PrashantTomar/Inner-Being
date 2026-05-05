@@ -1,7 +1,7 @@
 ---
 Created: 2026-02-09T19:56:00
 Notebook: "[[Deity Notebook - MOC]]"
-modified: 2026-02-09T20:00:38+05:30
+modified: 2026-05-05T19:27:18+05:30
 ---
 Connected topics :
 [[4th house]] 
@@ -11,8 +11,7 @@ Connected topics :
 
 Note : 
 
-
-
+The ultimate essence of dham, or sense of refuge and homeliness.
 
 
 ----
