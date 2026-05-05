@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inner Being/Research/Home/Speculative streams/Ketu and through tragedy..md",
+                "file": "Inner Being/Research/Home/Speculative streams/Metaphysical definition of Yoga.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ketu and through tragedy."
+              "title": "Metaphysical definition of Yoga"
+            }
+          },
+          {
+            "id": "444e3063dae13ab8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inner Being/Research/Home/Speculative streams/How curses and karmic debt behaves.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "How curses and karmic debt behaves"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -226,8 +241,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d6e02da4a119ccc2",
+  "active": "444e3063dae13ab8",
   "lastOpenFiles": [
+    "Inner Being/Research/Home/Speculative streams/Metaphysical definition of Yoga.md",
+    "Inner Being/Research/Home/Speculative streams/How curses and karmic debt behaves.md",
+    "Inner Being/Research/Home/Speculative streams/Ketu and through tragedy..md",
     "Inner Being/Research/Home/Speculative streams/Mangalam Loka-Nathaya.md",
     "Inner Being/Research/Home/Speculative streams/Pleasure alone is not happiness.md",
     "Inner Being/Research/Home/Speculative streams/Self-Discipline.md",
@@ -246,7 +264,6 @@
     "Inner Being/Research/Home/Speculative streams/Integrity of Kama - ( Mars & Venus ).md",
     "Inner Being/Research/Home/Speculative streams/Humility.md",
     "Inner Being/Research/Home/Speculative streams/Meditation as the art of touching truth.md",
-    "Inner Being/Research/Home/Speculative streams/Metaphysical definition of Yoga.md",
     "Inner Being/Research/Home/Speculative streams/Pasted image 20260207140202.png",
     "Inner Being/Research/Home/Speculative streams/Pasted image 20260214160328.png",
     "Inner Being/Research/Home/Speculative streams/Pasted image 20260214160224.png",
@@ -256,8 +273,6 @@
     "Inner Being/Research/Home/Speculative streams/Karma yoga and glory of GOD.md",
     "Inner Being/Research/Home/Speculative streams/Sadhana is like cooking food and divine aesthetics.md",
     "Inner Being/Research/Home/Speculative streams/Destined Will-Flower.md",
-    "Daily Workflow/Daily workflow visualization 10 Feb.md",
-    "Excalidraw/Spiritual/Esoterica revelations.md",
     "Inner Being/Research/Home/Esoterica/Spirit/Deity/Sahasranama/Nama-amrit.base",
     "Inner Being/Research/Home/Esoterica/Esoteric MOC - Base.base",
     "Inner Being/Research/Home/Speculative streams/Raw thought Streams.base",
