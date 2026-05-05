@@ -1,7 +1,7 @@
 ---
 Created: 2026-05-05T19:25:00
 Notebook: "[[Business System - MOC]]"
-modified: 2026-05-05T19:52:18+05:30
+modified: 2026-05-05T21:53:44+05:30
 ---
 Connected topics :
 
@@ -34,11 +34,25 @@ Aquarius is our network.
 These are two areas where even without hardcore skills entrance you can simply associate yourself with high income, here people are assets.
 
 
-Now comes world of business and entrance exams, a barrier through which we can enter into 
+Now comes world of business and entrance exams, a barrier through which we can enter into some organization.
 
 
 
 
+
+What I feel a call towards : ->
+
+Art and music as a way to connect to GOD.
+Articulations and systems of Logic as a way to cherish GOD.
+Business as a way to harmonize with people.
+
+Now what is depth of Sadhana, it's just pratyabhijna of divine lovers eventually.
+
+In all of these there is no element of occult and scorpio/ 8th house is a big part of my personality, likes its impact might be 70-80%.
+
+Now.. combine. occult + philosophies + other interesting ideas, these things can be done.
+
+Or I can do my separate research of ghuya vidya, around centering wisdom and other stuff, giving like a healing methodology or understanding wrt centering wisdom.
 
 
 
