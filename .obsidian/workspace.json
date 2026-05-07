@@ -90,9 +90,21 @@
               "icon": "lucide-file",
               "title": "Playing hide and seek with oneself."
             }
+          },
+          {
+            "id": "c6c9e5c72fcd4c00",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Spiritual/Esoterica revelations.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Esoterica revelations"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -167,8 +179,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "64c4ba06bba09625",
@@ -298,8 +309,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "868ea516b05984a4",
+  "active": "c6c9e5c72fcd4c00",
   "lastOpenFiles": [
+    "Inner Being/Research/Home/Frequently visited/Frequently visited - 15-Feb-2026.md",
     "Inner Being/Research/Home/Speculative streams/Playing hide and seek with oneself..md",
     "Inner Being/Research/Home/Speculative streams/Financial Free thinking.md",
     "Inner Being/Research/Home/Speculative streams/How curses and karmic debt behaves.md",
@@ -329,7 +341,6 @@
     "Inner Being/Research/Home/Speculative streams/Pasted image 20260214160224.png",
     "Inner Being/Research/Home/Speculative streams/Pasted image 20260214160031.png",
     "Inner Being/Research/Home/Speculative streams/Red Love of Sovereign SELF.md",
-    "Inner Being/Research/Home/Speculative streams/Hamare Safar ki humse na pucho.md",
     "Inner Being/Research/Home/Esoterica/Spirit/Deity/Sahasranama/Nama-amrit.base",
     "Inner Being/Research/Home/Esoterica/Esoteric MOC - Base.base",
     "Inner Being/Research/Home/Speculative streams/Raw thought Streams.base",
