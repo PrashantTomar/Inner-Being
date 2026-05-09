@@ -1,7 +1,7 @@
 ---
 Created: 2026-05-05T19:25:00
 Notebook: "[[Business System - MOC]]"
-modified: 2026-05-09T14:31:38+05:30
+modified: 2026-05-09T21:58:25+05:30
 ---
 Connected topics :
 
@@ -37,6 +37,7 @@ These are two areas where even without hardcore skills entrance you can simply a
 Now comes world of business and entrance exams, a barrier through which we can enter into some organization.
 
 
+---
 
 
 
