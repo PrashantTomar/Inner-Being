@@ -1,7 +1,7 @@
 ---
 Created: 2026-05-05T19:25:00
 Notebook: "[[Business System - MOC]]"
-modified: 2026-05-06T14:09:37+05:30
+modified: 2026-05-09T14:31:38+05:30
 ---
 Connected topics :
 
@@ -53,6 +53,17 @@ In all of these there is no element of occult and scorpio/ 8th house is a big pa
 Now.. combine. occult + philosophies + other interesting ideas, these things can be done.
 
 Or I can do my separate research of ghuya vidya, around centering wisdom and other stuff, giving like a healing methodology or understanding wrt centering wisdom.
+
+
+----
+
+
+
+
+
+
+
+
 
 
 
