@@ -1,7 +1,7 @@
 ---
 Created: 2026-03-07T10:04:00
 Notebook: "[[Spirit Knowledge - MOC]]"
-modified: 2026-05-03T22:59:55+05:30
+modified: 2026-05-15T19:43:27+05:30
 ---
 Connected topics :
 [[Personal Intimacy with GOD]] 
@@ -106,18 +106,20 @@ Major event :
 92. ) Kunn kunne nahi rhna hain, there should be deep deep sincerity in our act, one intention at a time.
 93. ) Learn to trust Narayana in your heart and MahaLakshmi in your wife's heart.
 94. ) How lord washes sins off by keeping you in presence of someone who has mastered that particular vibrations
-95. ) Working holistically on Body, Mind and Spirit, seeing it all as undivided unitary essence.
-96. ) ChandraSuryau cha Netre
-97. ) Mahapurush purvaja for ancestors is highest remedy.
-98. ) Fears have their own life expectancy, let alone Narayana handle it, our job is to follow deshna of divine couples with equanimity and sincerity.
-99. ) Become very clear on your idea of moksha, and deeply respects everyone, the deepest value to decorate one's life around their ishta-devta
-100. ) Twinflame vs Reflective souls, subtleties in it.
-101. ) We don't finishes scriptures, they finishes you
-102. ) The idea of tapas and matrika bija rupinim, sudarshana, One intention at a time.
-103. ) Becoming clear around soteriology of your approach towards divine, anyways all approach are same approach to divine, having a firm metaphysical foundation.
-104. ) Monkey branching from gift given by guru, we are so feared ignoring the best of all given to us.
-105. ) Adi-mudra/ Gupt Hari Mudra, Ashwini mudra and recognition of spanda in muladhara chakra.
-106. ) Coming back to Art, and receptive to qualitative SELF-Reflection.
+95. ) Fear of burnout and working on sattva Sankalp shakti.
+96. ) Working holistically on Body, Mind and Spirit, seeing it all as undivided unitary essence.
+97. ) ChandraSuryau cha Netre
+98. ) Mahapurush purvaja for ancestors is highest remedy.
+99. ) Fears have their own life expectancy, let alone Narayana handle it, our job is to follow deshna of divine couples with equanimity and sincerity.
+100. ) Become very clear on your idea of moksha, and deeply respects everyone, the deepest value to decorate one's life around their ishta-devta
+101. ) Twinflame vs Reflective souls, subtleties in it.
+102. ) We don't finishes scriptures, they finishes you
+103. ) The idea of tapas and matrika bija rupinim, sudarshana, One intention at a time.
+104. ) Becoming clear around soteriology of your approach towards divine, anyways all approach are same approach to divine, having a firm metaphysical foundation.
+105. ) Monkey branching from gift given by guru, we are so feared ignoring the best of all given to us.
+106. ) Sexual energy is already a upsurge of oneness and balanced energy upsurge.
+107. ) Adi-mudra/ Gupt Hari Mudra, Ashwini mudra and recognition of spanda in muladhara chakra.
+108. ) Coming back to Art, and receptive to qualitative SELF-Reflection.
 
 ~ found no solution for dream and sleep
 
