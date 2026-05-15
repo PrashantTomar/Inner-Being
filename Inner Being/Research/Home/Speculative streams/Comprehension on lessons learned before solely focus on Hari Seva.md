@@ -1,7 +1,7 @@
 ---
 Created: 2026-05-15T19:54:00
 Notebook: "[[Centering Wisdom MOC]]"
-modified: 2026-05-15T20:13:06+05:30
+modified: 2026-05-15T21:44:06+05:30
 ---
 Connected topics :
 
@@ -16,7 +16,7 @@ My major shortcoming that I feel from adhibhuta level :
 2. ) Delusion around purity of sexual energy and nourishment consciousness.
 3. ) Unstable, restless and distrust in medha shakti, executional intelligence.
 4. ) Delusion around following routine.
-5. ) Under-experienced in Physical Asana.
+5. ) Under-experienced in Physical Asana and fear around it.
 6. ) Delusion around earning money.
 
 
