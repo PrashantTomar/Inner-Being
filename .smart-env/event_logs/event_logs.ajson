@@ -827,3 +827,4 @@
 "event_logs:sources:opened": {"key":"sources:opened","ct":2456,"first_at":1766193965660,"last_at":1778861751604,"class_name":"EventLog","event_sources":{"active-leaf-change":2449,"file-open":6,"open_source method":1}},
 "event_logs:sources:opened": {"key":"sources:opened","ct":2457,"first_at":1766193965660,"last_at":1778861769046,"class_name":"EventLog","event_sources":{"active-leaf-change":2450,"file-open":6,"open_source method":1}},
 "event_logs:plugin:new_version_available": {"key":"plugin:new_version_available","ct":519,"first_at":1766478584971,"last_at":1778866126956,"class_name":"EventLog"},
+"event_logs:plugin:new_version_available": {"key":"plugin:new_version_available","ct":520,"first_at":1766478584971,"last_at":1778910922706,"class_name":"EventLog"},
