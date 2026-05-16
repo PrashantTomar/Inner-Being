@@ -1,7 +1,7 @@
 ---
 Created: 2026-05-05T19:25:00
 Notebook: "[[Business System - MOC]]"
-modified: 2026-05-09T21:58:25+05:30
+modified: 2026-05-16T12:12:00+05:30
 ---
 Connected topics :
 
@@ -58,8 +58,15 @@ Or I can do my separate research of ghuya vidya, around centering wisdom and oth
 
 ----
 
+Wisdom of Tapas.
 
+---
 
+What do to Now ?
+
+Mantra vibrations -> Daily activities hand-by-hand.
+
+---
 
 
 
