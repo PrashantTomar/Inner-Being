@@ -1,7 +1,7 @@
 ---
 Created: 2026-05-05T19:52:00
 Notebook: "[[Deity Notebook - MOC]]"
-modified: 2026-05-05T21:34:51+05:30
+modified: 2026-05-16T19:18:24+05:30
 ---
 Connected topics :
 
@@ -19,7 +19,7 @@ Are we guiding someone or simply letting our self-expression to do its thing in 
 
 and what are the promises of Vishnu Sahasranama.
 
-what truly is the promise of Hari-hridyasthakam.
+what truly is the promise of Hari-Hridyasthakam.
 
 is life a series of vocations or just one stream of carrer in one direction ?
 
