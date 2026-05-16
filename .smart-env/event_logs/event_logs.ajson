@@ -879,3 +879,4 @@
 "event_logs:sources:imported": {"key":"sources:imported","ct":4756,"first_at":1766193915059,"last_at":1778913733943,"class_name":"EventLog"},
 "event_logs:item:embedded": {"key":"item:embedded","ct":7061,"first_at":1766193938674,"last_at":1778913734150,"class_name":"EventLog"},
 "event_logs:plugin:new_version_available": {"key":"plugin:new_version_available","ct":521,"first_at":1766478584971,"last_at":1778920127023,"class_name":"EventLog"},
+"event_logs:plugin:new_version_available": {"key":"plugin:new_version_available","ct":522,"first_at":1766478584971,"last_at":1778930926909,"class_name":"EventLog"},
