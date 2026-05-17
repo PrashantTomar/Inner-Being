@@ -1,7 +1,7 @@
 ---
 Created: 2026-03-07T10:04:00
 Notebook: "[[Spirit Knowledge - MOC]]"
-modified: 2026-05-15T19:43:27+05:30
+modified: 2026-05-17T13:11:56+05:30
 ---
 Connected topics :
 [[Personal Intimacy with GOD]] 
@@ -118,8 +118,9 @@ Major event :
 104. ) Becoming clear around soteriology of your approach towards divine, anyways all approach are same approach to divine, having a firm metaphysical foundation.
 105. ) Monkey branching from gift given by guru, we are so feared ignoring the best of all given to us.
 106. ) Sexual energy is already a upsurge of oneness and balanced energy upsurge.
-107. ) Adi-mudra/ Gupt Hari Mudra, Ashwini mudra and recognition of spanda in muladhara chakra.
-108. ) Coming back to Art, and receptive to qualitative SELF-Reflection.
+107. ) Coming back to one's own financial center, finance from source energy.
+108. ) Adi-mudra/ Gupt Hari Mudra, Ashwini mudra and recognition of spanda in muladhara chakra.
+109. ) Coming back to Art, and receptive to qualitative SELF-Reflection.
 
 ~ found no solution for dream and sleep
 
