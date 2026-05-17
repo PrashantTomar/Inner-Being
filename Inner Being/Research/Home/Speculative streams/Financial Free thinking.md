@@ -1,7 +1,7 @@
 ---
 Created: 2026-05-05T19:25:00
 Notebook: "[[Business System - MOC]]"
-modified: 2026-05-17T12:12:28+05:30
+modified: 2026-05-17T14:35:45+05:30
 ---
 Connected topics :
 
@@ -69,8 +69,16 @@ Mantra vibrations -> Daily activities hand-by-hand.
 ---
 
 
-Stabilizing in business/ partnership
+Stabilizing in business/ partnership, I will prefer this over 9-5 job.
 
+
+---
+
+Now my question is how will I handle different vidyas ?
+
+and then just start plunging into it's depth
+
+---
 
 
 
