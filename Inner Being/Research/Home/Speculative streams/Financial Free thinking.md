@@ -1,7 +1,7 @@
 ---
 Created: 2026-05-05T19:25:00
 Notebook: "[[Business System - MOC]]"
-modified: 2026-05-17T14:35:45+05:30
+modified: 2026-05-20T12:28:14+05:30
 ---
 Connected topics :
 
@@ -80,11 +80,9 @@ and then just start plunging into it's depth
 
 ---
 
+Lets see !! some business opportunity will come where I don't have to prove anything to anyone, just work and love.
 
-
-
-
-
+Till then lets hone up some skills as a worship of Medha tattvam.
 
 ----
 

@@ -1,7 +1,7 @@
 ---
 Created: 2026-03-07T10:04:00
 Notebook: "[[Spirit Knowledge - MOC]]"
-modified: 2026-05-17T13:11:56+05:30
+modified: 2026-05-20T13:06:37+05:30
 ---
 Connected topics :
 [[Personal Intimacy with GOD]] 
@@ -121,6 +121,7 @@ Major event :
 107. ) Coming back to one's own financial center, finance from source energy.
 108. ) Adi-mudra/ Gupt Hari Mudra, Ashwini mudra and recognition of spanda in muladhara chakra.
 109. ) Coming back to Art, and receptive to qualitative SELF-Reflection.
+110. ) Amount of grace that is required for embodiment of personal philosophy.
 
 ~ found no solution for dream and sleep
 
