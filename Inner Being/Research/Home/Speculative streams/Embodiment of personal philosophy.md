@@ -1,7 +1,7 @@
 ---
 Created: 2026-05-20T12:57:00
 Notebook: "[[Centering Wisdom MOC]]"
-modified: 2026-05-20T14:21:23+05:30
+modified: 2026-05-20T15:01:56+05:30
 ---
 Connected topics :
 
@@ -19,9 +19,11 @@ Nature of embodied philosophy is that our response to life will start flowing de
 
 And since essence of our philosophy is highest, skillfully handling all the tantrum of daily life and your chosen endeavor for life will become smoother and smoother, as the days progress.
 
+---
+
 After deeper embodiment of personal philosophy, and rigorous self-analysis, now I can finally integrate my career with ultimate essence of teaching/ reality.
 
-It's not always easy, to get practice, methods and philosophy which are so in tune with your personality, that no part of you remain untouched by it, all of them finds complete fulfillment down to its last limit.
+It's not always easy, to get practice, methods and philosophy which are so in tune with your personality, that no part of you remain untouched by it, all of them finds complete fulfillment down to its last limit and it becomes nearly impossible to get lost in this world.
 
 To the spirit of psycho-analysis by virtue of which we realize both our shortcoming as human and glory as the divine.
 
