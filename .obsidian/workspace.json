@@ -145,8 +145,7 @@
               "title": "Business wisdom"
             }
           }
-        ],
-        "currentTab": 9
+        ]
       }
     ],
     "direction": "vertical"
@@ -353,7 +352,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "059a5f90a2e0345c",
+  "active": "1b9c5b5fba7f3314",
   "lastOpenFiles": [
     "Inner Being/Research/Home/Speculative streams/Business wisdom.md",
     "Inner Being/Research/Home/Speculative streams/Financial Free thinking.md",
