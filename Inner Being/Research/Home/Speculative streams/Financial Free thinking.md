@@ -1,7 +1,7 @@
 ---
 Created: 2026-05-05T19:25:00
 Notebook: "[[Business System - MOC]]"
-modified: 2026-05-21T11:29:30+05:30
+modified: 2026-05-21T12:49:31+05:30
 ---
 Connected topics :
 
@@ -88,7 +88,8 @@ Till then lets hone up some skills as a worship of Medha tattvam.
 
 Creating a face-value for people through coding skills.
 
-
+Now what systems to build ?
+Now what problems to solve ?
 
 
 
