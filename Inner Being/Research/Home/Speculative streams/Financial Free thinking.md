@@ -1,7 +1,7 @@
 ---
 Created: 2026-05-05T19:25:00
 Notebook: "[[Business System - MOC]]"
-modified: 2026-05-21T21:04:37+05:30
+modified: 2026-05-22T12:31:22+05:30
 ---
 Connected topics :
 
@@ -91,8 +91,13 @@ Creating a face-value for people through coding skills.
 Now what systems to build ?
 Now what problems to solve ?
 
+---
+
+Business skills and art parallelly.
+
 
 ---
+
 
 
 
