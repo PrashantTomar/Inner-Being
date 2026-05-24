@@ -1,10 +1,10 @@
 ---
 Created: 2026-05-22T22:09:00
 Notebook: "[[Spirit Knowledge - MOC]]"
-modified: 2026-05-22T22:10:28+05:30
+modified: 2026-05-24T21:02:11+05:30
 ---
 Connected topics :
-
+[[Mantra]] - [[Mercury]] - [[Tantra]]
 
 
 ------------
