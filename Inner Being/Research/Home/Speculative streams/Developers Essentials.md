@@ -1,7 +1,7 @@
 ---
 Created: 2026-05-22T16:45:00
 Notebook:
-modified: 2026-05-24T20:00:01+05:30
+modified: 2026-05-25T21:39:58+05:30
 ---
 Connected topics :
 
@@ -23,6 +23,13 @@ Nature of work :
 Problem -> Systems
 
 [[Basic structure for SWE ]]
+
+Diagnose ──> Stack ──> Build ──> Review ──> Position ──> Deploy
+
+
+
+
+
 
 ----
 
