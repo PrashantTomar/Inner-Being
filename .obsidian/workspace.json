@@ -48,9 +48,21 @@
               "icon": "lucide-file",
               "title": "Developers Essentials"
             }
+          },
+          {
+            "id": "81449693f5cc5e38",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Spiritual/Mental Frameworks.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Mental Frameworks"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -104,8 +116,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "79de77d25d2adf8c",
@@ -126,7 +137,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 451.5,
     "collapsed": true
   },
   "right": {
@@ -257,8 +268,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3f528bd61f2c28a4",
+  "active": "81449693f5cc5e38",
   "lastOpenFiles": [
+    "Inner Being/Research/Home/Speculative streams/Mental frameworks.md",
+    "Inner Being/Research/Home/Speculative streams/Developers Essentials.md",
+    "Excalidraw/Spiritual/Mental Frameworks.md",
+    "Excalidraw/Drawing 2026-03-13 12.24.05.excalidraw.md",
+    "Excalidraw/Spiritual/Esoterica revelations.md",
+    "Inner Being/Research/Home/Frequently visited/Frequently visited - 15-Feb-2026.md",
     "Inner Being/Research/Home/Speculative streams/Basic structure for SWE.md",
     "Inner Being/Research/Home/Speculative streams/Thought as masculine and feminine.md",
     "Inner Being/Research/Home/Speculative streams/Business wisdom.md",
@@ -267,10 +284,8 @@
     "Inner Being/Research/Home/Speculative streams/Embodiment of personal philosophy.md",
     "Inner Being/Research/Home/Speculative streams/The courage to be loved by higher principles of life.md",
     "Inner Being/Research/Home/Speculative streams/Living the Lakshmi-Narayana way.md",
-    "Excalidraw/Spiritual/Esoterica revelations.md",
     "Inner Being/Research/Home/Speculative streams/Playing hide and seek with oneself..md",
     "Inner Being/Research/Home/Speculative streams/Rajyam Prapnoti Sarvada.md",
-    "Inner Being/Research/Home/Speculative streams/Developers Essentials.md",
     "Inner Being/Research/Home/Speculative streams/Financial Free thinking.md",
     "Inner Being/Research/Home/Speculative streams/9th house, a vulnerable self honesty towards life, philosophy and knowledge.md",
     "Inner Being/Research/Home/Esoterica/Spirit/Deity/Yugala Consciousness.md",
@@ -279,12 +294,8 @@
     "Inner Being/Research/Home/Speculative streams/Mangalam Loka-Nathaya.md",
     "Inner Being/Research/Home/Speculative streams/How curses and karmic debt behaves.md",
     "Inner Being/Research/Home/Speculative streams/Metaphysical definition of Yoga.md",
-    "Inner Being/Research/Home/Frequently visited/Frequently visited - 15-Feb-2026.md",
     "Inner Being/Research/Home/Speculative streams/Ketu and through tragedy..md",
     "Inner Being/Research/Home/Speculative streams/Pleasure alone is not happiness.md",
-    "Inner Being/Research/Home/Speculative streams/Self-Discipline.md",
-    "Inner Being/Research/Home/Speculative streams/Worship is expression of your love.md",
-    "Inner Being/Research/Home/Speculative streams/Wholeness of Lagana.md",
     "Inner Being/Research/Home/Speculative streams/Pasted image 20260207140202.png",
     "Inner Being/Research/Home/Speculative streams/Pasted image 20260214160328.png",
     "Inner Being/Research/Home/Speculative streams/Pasted image 20260214160224.png",
