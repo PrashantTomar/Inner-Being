@@ -41,12 +41,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inner Being/Research/Home/Speculative streams/Developers Essentials.md",
+                "file": "Inner Being/Research/Home/Academics/Computer Science/Developers Essentials.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Developers Essentials"
+            }
+          },
+          {
+            "id": "c5c8f93a75d2da8b",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Computer Science/Software Engineering.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Software Engineering"
             }
           },
           {
@@ -268,17 +280,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "81449693f5cc5e38",
+  "active": "c5c8f93a75d2da8b",
   "lastOpenFiles": [
-    "Inner Being/Research/Home/Speculative streams/Mental frameworks.md",
-    "Inner Being/Research/Home/Speculative streams/Developers Essentials.md",
+    "Inner Being/Research/Home/Academics/Computer Science/Developers Essentials.md",
+    "Excalidraw/Computer Science/Software Engineering.md",
     "Excalidraw/Spiritual/Mental Frameworks.md",
+    "Inner Being/Research/Home/Speculative streams/Financial Free thinking.md",
+    "Inner Being/Research/Home/Speculative streams/Business wisdom.md",
+    "Inner Being/Research/Home/Academics/Computer Science",
+    "Inner Being/Research/Home/Academics",
+    "Excalidraw/Computer Science",
+    "Inner Being/Research/Home/Speculative streams/Mental frameworks.md",
     "Excalidraw/Drawing 2026-03-13 12.24.05.excalidraw.md",
     "Excalidraw/Spiritual/Esoterica revelations.md",
     "Inner Being/Research/Home/Frequently visited/Frequently visited - 15-Feb-2026.md",
     "Inner Being/Research/Home/Speculative streams/Basic structure for SWE.md",
     "Inner Being/Research/Home/Speculative streams/Thought as masculine and feminine.md",
-    "Inner Being/Research/Home/Speculative streams/Business wisdom.md",
     "Inner Being/Research/Home/Speculative streams/Twin-flame.md",
     "Inner Being/Research/Home/Speculative streams/Trap of idealism and energy work.md",
     "Inner Being/Research/Home/Speculative streams/Embodiment of personal philosophy.md",
@@ -286,7 +303,6 @@
     "Inner Being/Research/Home/Speculative streams/Living the Lakshmi-Narayana way.md",
     "Inner Being/Research/Home/Speculative streams/Playing hide and seek with oneself..md",
     "Inner Being/Research/Home/Speculative streams/Rajyam Prapnoti Sarvada.md",
-    "Inner Being/Research/Home/Speculative streams/Financial Free thinking.md",
     "Inner Being/Research/Home/Speculative streams/9th house, a vulnerable self honesty towards life, philosophy and knowledge.md",
     "Inner Being/Research/Home/Esoterica/Spirit/Deity/Yugala Consciousness.md",
     "Inner Being/Research/Home/Kavyatmak Lehrein/Words from Depth/A love born out of faith..md",
@@ -294,8 +310,6 @@
     "Inner Being/Research/Home/Speculative streams/Mangalam Loka-Nathaya.md",
     "Inner Being/Research/Home/Speculative streams/How curses and karmic debt behaves.md",
     "Inner Being/Research/Home/Speculative streams/Metaphysical definition of Yoga.md",
-    "Inner Being/Research/Home/Speculative streams/Ketu and through tragedy..md",
-    "Inner Being/Research/Home/Speculative streams/Pleasure alone is not happiness.md",
     "Inner Being/Research/Home/Speculative streams/Pasted image 20260207140202.png",
     "Inner Being/Research/Home/Speculative streams/Pasted image 20260214160328.png",
     "Inner Being/Research/Home/Speculative streams/Pasted image 20260214160224.png",
@@ -315,9 +329,6 @@
     "Images/Pasted image 20260123233952.png",
     "Images/Pasted image 20260123233727.png",
     "Images",
-    "Inner Being/Research/Home/Esoterica/Spirit/Spirit-Knowledge",
-    "Excalidraw/Spiritual",
-    "Excalidraw/People -  Excalidraw",
     "Untitled.canvas"
   ]
 }

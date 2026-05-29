@@ -1,7 +1,7 @@
 ---
 Created: 2026-05-05T19:25:00
 Notebook: "[[Business System - MOC]]"
-modified: 2026-05-22T12:31:22+05:30
+modified: 2026-05-29T20:24:14+05:30
 ---
 Connected topics :
 
@@ -16,7 +16,6 @@ and when I say world, I mean it will add some qualitative value in the life of m
 
 
 ***For the sake of GOD think right now in the largest possible way, and believe in happy accidents.
-
 
 
 

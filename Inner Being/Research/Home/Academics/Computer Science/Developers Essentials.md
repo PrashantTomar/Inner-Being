@@ -1,7 +1,7 @@
 ---
 Created: 2026-05-22T16:45:00
 Notebook:
-modified: 2026-05-25T21:39:58+05:30
+modified: 2026-05-29T20:28:12+05:30
 ---
 Connected topics :
 
@@ -26,7 +26,7 @@ Problem -> Systems
 
 Diagnose ──> Stack ──> Build ──> Review ──> Position ──> Deploy
 
-
+[[Software Engineering]]
 
 
 
