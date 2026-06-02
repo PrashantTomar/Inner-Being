@@ -1,7 +1,7 @@
 ---
 Created: 2026-05-05T19:25:00
 Notebook: "[[Business System - MOC]]"
-modified: 2026-05-29T20:24:14+05:30
+modified: 2026-06-02T12:49:33+05:30
 ---
 Connected topics :
 
@@ -94,6 +94,7 @@ Now what problems to solve ?
 
 Business skills and art parallelly.
 
+And all of this is a puja to me, equivalent to me sitting in front of a shrine, so there is no loss of any spirituality, the true aim of life.
 
 ---
 
