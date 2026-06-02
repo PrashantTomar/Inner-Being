@@ -1,7 +1,7 @@
 ---
 Created:
 Notebook:
-modified: 2026-06-02T21:02:53+05:30
+modified: 2026-06-02T22:04:58+05:30
 ---
 Connected topics :
 
@@ -48,10 +48,54 @@ Know:
 - JSON
 - REST
 
+# Must Know
 
+## JavaScript Runtime Concepts
 
+- variables
+- functions
+- closures
+- async/await
+- promises
+- event loop
+- modules
+- scope
+- objects
+- arrays
+- map/filter/reduce
+
+---
+
+# Most Important Concept
+
+```
+asynchronous state flow
+```
+
+Most web complexity comes from:
+
+- async requests
+- UI updates
+- server synchronization
+
+---
+
+# TypeScript Literacy
+
+You mainly need:
+
+- types
+- interfaces
+- generics (basic)
+- inference
+- API typing
+- schema typing
 
 ----
+
+
+
+
 
 
 Status :
