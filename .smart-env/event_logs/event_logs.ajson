@@ -1234,3 +1234,4 @@
 "event_logs:item:embedded": {"key":"item:embedded","ct":7375,"first_at":1766193938674,"last_at":1780734696338,"class_name":"EventLog"},
 "event_logs:sources:opened": {"key":"sources:opened","ct":2622,"first_at":1766193965660,"last_at":1780735248592,"class_name":"EventLog","event_sources":{"active-leaf-change":2615,"file-open":6,"open_source method":1}},
 "event_logs:sources:opened": {"key":"sources:opened","ct":2623,"first_at":1766193965660,"last_at":1780735250874,"class_name":"EventLog","event_sources":{"active-leaf-change":2616,"file-open":6,"open_source method":1}},
+"event_logs:plugin:new_version_available": {"key":"plugin:new_version_available","ct":615,"first_at":1766478584971,"last_at":1780739599495,"class_name":"EventLog"},
