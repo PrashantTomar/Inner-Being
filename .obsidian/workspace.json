@@ -74,7 +74,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -280,7 +280,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c5c8f93a75d2da8b",
+  "active": "3f528bd61f2c28a4",
   "lastOpenFiles": [
     "Excalidraw/Computer Science/Software Engineering.md",
     "Excalidraw/Spiritual/Mental Frameworks.md",
