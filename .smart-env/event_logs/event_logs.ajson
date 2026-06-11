@@ -23,3 +23,4 @@
 "event_logs:blocks:cleaned": {"key":"blocks:cleaned","ct":18,"first_at":1766193942951,"last_at":1781105241592,"class_name":"EventLog"},
 "event_logs:plugin:new_version_available": {"key":"plugin:new_version_available","ct":617,"first_at":1766478584971,"last_at":1781105247151,"class_name":"EventLog"},
 "event_logs:plugin:new_version_available": {"key":"plugin:new_version_available","ct":618,"first_at":1766478584971,"last_at":1781116044038,"class_name":"EventLog"},
+"event_logs:plugin:new_version_available": {"key":"plugin:new_version_available","ct":619,"first_at":1766478584971,"last_at":1781153407987,"class_name":"EventLog"},
