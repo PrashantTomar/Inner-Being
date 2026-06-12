@@ -74,7 +74,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -149,8 +149,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 451.5,
-    "collapsed": true
+    "width": 218.5
   },
   "right": {
     "id": "64c4ba06bba09625",
@@ -280,13 +279,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "81449693f5cc5e38",
+  "active": "3e65f7528486b710",
   "lastOpenFiles": [
+    "Excalidraw/Spiritual/Mental Frameworks.md",
     "Excalidraw/Computer Science/Software Engineering.md",
     "Inner Being/Research/Home/Speculative streams/Foundation of web-development.md",
     "Inner Being/Research/Home/Speculative streams/Business wisdom.md",
     "Inner Being/Research/Home/Speculative streams/Financial Free thinking.md",
-    "Excalidraw/Spiritual/Mental Frameworks.md",
     "Inner Being/Research/Home/Academics/Computer Science/Developers Essentials.md",
     "Inner Being/Research/Home/Speculative streams/Basic structure for SWE.md",
     "Inner Being/Research/Home/Academics/Computer Science",
