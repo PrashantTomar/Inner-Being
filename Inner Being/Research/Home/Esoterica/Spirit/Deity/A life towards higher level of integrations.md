@@ -1,7 +1,7 @@
 ---
 Created: 2026-03-16T12:15:00
-Notebook: "[[Centering Wisdom MOC]]"
-modified: 2026-03-30T21:44:05+05:30
+Notebook: "[[Deity Notebook - MOC]]"
+modified: 2026-06-14T21:19:44+05:30
 ---
 Connected topics :
 [[Sattva]] - [[True Seva]] - [[True Stability of LakshmiNarayana]] - [[Self-Discipline]] - [[Intensity and Shuddha Manipura]]

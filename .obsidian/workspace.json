@@ -78,18 +78,6 @@
             }
           },
           {
-            "id": "c5c8f93a75d2da8b",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Computer Science - Excalidraw/Software Engineering.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Software Engineering"
-            }
-          },
-          {
             "id": "81449693f5cc5e38",
             "type": "leaf",
             "state": {
@@ -118,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -193,7 +181,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 399.5
+    "width": 316.5
   },
   "right": {
     "id": "64c4ba06bba09625",
@@ -323,10 +311,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c5c8f93a75d2da8b",
+  "active": "913cbb7958f33f30",
   "lastOpenFiles": [
-    "Inner Being/Research/Home/Esoterica/Spirit/Philosophical Spirit-Knowledge/Dharma of all the dharma.md",
+    "Inner Being/Research/Home/Speculative streams/6th - house.md",
+    "Inner Being/Research/Home/Speculative streams/6th house.md",
     "Inner Being/Research/Home/Speculative streams/9th house, a vulnerable self honesty towards life, philosophy and knowledge.md",
+    "Inner Being/Research/Home/Esoterica/Spirit/Deity/A life towards higher level of integrations.md",
+    "Inner Being/Research/Home/Speculative streams/Anurupa.md",
+    "Inner Being/Research/Home/Esoterica/Spirit/Philosophical Spirit-Knowledge/Aparigraha.md",
+    "Inner Being/Research/Home/Speculative streams/Attachment, Detachment and Pratibhijna.md",
+    "Inner Being/Research/Home/Academics/Computer Science/Basic structure for SWE.md",
+    "Inner Being/Research/Home/Speculative streams/Body, Mind and Spirit.md",
+    "Inner Being/Research/Home/Speculative streams/Brahmacharya, evil-eyes and fullness of personality.md",
+    "Inner Being/Research/Home/Speculative streams/Business wisdom.md",
+    "Inner Being/Research/Home/Speculative streams/Chronic stagnancy is delusion, Divine Law a miracle.md",
+    "Inner Being/Research/Home/Speculative streams/Comprehension on lessons learned before solely focus on Hari Seva.md",
+    "Inner Being/Research/Home/Kavyatmak Lehrein/Lyricism/Destined Will-Flower.md",
+    "Inner Being/Research/Home/Speculative streams/Deha-Mano-Atman ekatva.md",
+    "Inner Being/Research/Home/Business System/Financial Free thinking.md",
+    "Excalidraw/Computer Science - Excalidraw/Software Engineering.md",
+    "Inner Being/Research/Home/Esoterica/Spirit/Philosophical Spirit-Knowledge/Dharma of all the dharma.md",
     "Inner Being/Research/Home/Esoterica/Spirit/Deity/Dvandam anyonya-laksanam.md",
     "Inner Being/Research/Home/Esoterica/Centering Wisdom/Embodiment of personal philosophy.md",
     "Inner Being/Research/Home/Speculative streams/Expressing your Divine SELF from different dimensions in life..md",
@@ -335,22 +339,6 @@
     "Inner Being/Research/Home/Esoterica/Spirit/Philosophical Spirit-Knowledge/Essential Bhagwat Gita.md",
     "Inner Being/Research/Home/Academics/Computer Science/Foundation of web-development.md",
     "Inner Being/Research/Home/Academics/Computer Science/Developers Essentials.md",
-    "Inner Being/Research/Home/Academics/Computer Science/SWE - MOC.md",
-    "Inner Being/Research/Home/Speculative streams/Gift of Semen-Prema-Conjugal Love.md",
-    "Inner Being/Research/Home/Speculative streams/Hamare Safar ki humse na pucho.md",
-    "Inner Being/Research/Home/Speculative streams/Integrity of Kama - ( Mars & Venus ).md",
-    "Inner Being/Research/Home/Esoterica/Inner Astrology/How curses and karmic debt behaves.md",
-    "Inner Being/Research/Home/Speculative streams/Hrim Srim Tattvam.md",
-    "Inner Being/Research/Home/Esoterica/Spirit/Philosophical Spirit-Knowledge/Humility.md",
-    "Inner Being/Research/Home/Speculative streams/KamaVidya.md",
-    "Inner Being/Research/Home/Esoterica/Spirit/Philosophical Spirit-Knowledge/Intensity and Shuddha Manipura.md",
-    "Inner Being/Research/Home/Esoterica/Inner Astrology/Ketu and through tragedy..md",
-    "Inner Being/Research/Home/Speculative streams/Living the Lakshmi-Narayana way.md",
-    "Inner Being/Research/Home/Esoterica/Spirit/Deity/Mangalam Loka-Nathaya.md",
-    "Inner Being/Research/Home/Esoterica/Centering Wisdom/Meditation as the art of touching truth.md",
-    "Inner Being/Research/Home/Speculative streams/Mental frameworks.md",
-    "Inner Being/Research/Home/Esoterica/Spirit/Philosophical Spirit-Knowledge/Metaphysical definition of Yoga.md",
-    "Inner Being/Research/Home/Esoterica/Centering Wisdom/Mind is a potential.md",
     "Inner Being/Research/Home/Esoterica/Psycho-Spiritual Modeling",
     "Inner Being/Research/Home/Academics/Computer Science",
     "Inner Being/Research/Home/Academics",

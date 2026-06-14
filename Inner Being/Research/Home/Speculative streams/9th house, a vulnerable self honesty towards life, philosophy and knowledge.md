@@ -1,11 +1,11 @@
 ---
 Created: 2026-02-26T13:58:00
-Notebook:
-modified: 2026-03-07T10:03:08+05:30
+Notebook: "[[Inner Astrology - MOC]]"
+modified: 2026-06-14T21:20:31+05:30
 ---
 Connected topics :
 
-
+[[9th house]] 
 
 ------------
 
