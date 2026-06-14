@@ -1,6 +1,6 @@
 ---
 Created: 2026-03-30T20:14:00
-Notebook: "[[Spirit Knowledge - MOC]]"
+Notebook: "[[Philosophical Spirit Knowledge - MOC]]"
 modified: 2026-03-30T21:35:40+05:30
 ---
 Connected topics :

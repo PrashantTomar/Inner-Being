@@ -1,7 +1,7 @@
 ---
 Created: 2026-05-09T14:35:00
-Notebook: "[[Business Systems]]"
-modified: 2026-05-09T14:36:47+05:30
+Notebook: "[[Deity Notebook - MOC]]"
+modified: 2026-06-14T15:07:59+05:30
 ---
 Connected topics :
 
