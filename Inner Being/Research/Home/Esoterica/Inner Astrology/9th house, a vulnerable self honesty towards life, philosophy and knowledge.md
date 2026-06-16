@@ -1,11 +1,11 @@
 ---
 Created: 2026-02-26T13:58:00
 Notebook: "[[Inner Astrology - MOC]]"
-modified: 2026-06-14T21:20:31+05:30
+modified: 2026-06-16T20:36:06+05:30
 ---
 Connected topics :
 
-[[9th house]] 
+[[9th house]] - [[A life towards higher level of integrations]] - [[Ishta devta]] - [[Universal Desires of Bhakta]] - [[Jupiter]] - [[ Sagittarius]]
 
 ------------
 

@@ -1,7 +1,7 @@
 ---
 Created: 2026-05-15T19:54:00
 Notebook: "[[Centering Wisdom MOC]]"
-modified: 2026-05-15T21:44:06+05:30
+modified: 2026-06-16T20:42:29+05:30
 ---
 Connected topics :
 
@@ -18,6 +18,8 @@ My major shortcoming that I feel from adhibhuta level :
 4. ) Delusion around following routine.
 5. ) Under-experienced in Physical Asana and fear around it.
 6. ) Delusion around earning money.
+7. ) Don't be bored of peace, be self-motivated, and surrender delusion of one last time to GOD.
+8. ) Collective fear of 2nd house.
 
 
 

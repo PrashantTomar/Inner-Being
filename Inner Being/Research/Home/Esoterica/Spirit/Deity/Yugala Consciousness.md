@@ -4,7 +4,7 @@ Notebook: "[[Deity Notebook - MOC]]"
 modified: 2026-02-09T10:44:22+05:30
 ---
 Connected topics :
-[[LakshmiNarayana]] - [[Yugala tattva]] - [[1st house]] - [[7th house]] - [[Relationship with Ishta-Devta.]]
+[[LakshmiNarayana]] - [[Yugala tattva]] - [[1st house]] - [[7th house]] - [[Relationship with Ishta-Devta]]
 
 ------------
 

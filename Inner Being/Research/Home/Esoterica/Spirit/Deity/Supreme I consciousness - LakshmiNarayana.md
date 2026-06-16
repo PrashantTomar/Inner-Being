@@ -3,7 +3,7 @@ Created: 2026-02-01T19:36:00
 Notebook: "[[Deity Notebook - MOC]]"
 ---
 Connected topics :
-[[aham consciousness]] - [[advaita]] -  [[LakshmiNarayana]] - [[Yugala Consciousness]] - [[Yugal Hrudayam]] - [[Relationship with Ishta-Devta.]] 
+[[aham consciousness]] - [[advaita]] -  [[LakshmiNarayana]] - [[Yugala Consciousness]] - [[Yugal Hrudayam]] - [[Relationship with Ishta-Devta]] 
 
 
 ------------

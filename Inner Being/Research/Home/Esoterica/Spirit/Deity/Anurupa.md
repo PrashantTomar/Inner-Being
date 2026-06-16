@@ -1,17 +1,21 @@
 ---
 Created: 2026-02-15T06:23:00
 Notebook: "[[Deity Notebook - MOC]]"
-modified: 2026-02-15T06:23:22+05:30
+modified: 2026-06-16T20:38:01+05:30
 ---
 Connected topics :
 
+[[Lagna]] - [[9th house]] - [[Deity]] - [[Relationship with Ishta-Devta]] 
 
 
 ------------
 
 Note : 
 
-created in the image of divinity
+Created in the image of divinity.
+
+Anu is atomic or following
+Rupa is denoted to a particular GOD.
 
 
 

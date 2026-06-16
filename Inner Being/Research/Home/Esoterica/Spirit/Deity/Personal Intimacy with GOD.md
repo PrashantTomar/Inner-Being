@@ -5,7 +5,7 @@ modified: 2026-06-14T14:54:55+05:30
 ---
 Connected topics :
 
-[[Ishta devta]] - [[Relationship with Ishta-Devta.]] - [[Mind is a potential]] - [[Supreme I consciousness - LakshmiNarayana]]
+[[Ishta devta]] - [[Relationship with Ishta-Devta]] - [[Mind is a potential]] - [[Supreme I consciousness - LakshmiNarayana]]
 
 
 ------------
