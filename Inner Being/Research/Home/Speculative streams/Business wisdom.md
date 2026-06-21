@@ -1,7 +1,7 @@
 ---
 Created: 2026-05-21T12:51:00
-Notebook:
-modified: 2026-06-06T14:01:30+05:30
+Notebook: "[[Business System - MOC]]"
+modified: 2026-06-21T22:21:10+05:30
 ---
 Connected topics :
 
