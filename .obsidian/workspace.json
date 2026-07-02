@@ -60,18 +60,6 @@
             }
           },
           {
-            "id": "b60fb67b07a1bf9a",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Spiritual/Esoterica revelations.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Esoterica revelations"
-            }
-          },
-          {
             "id": "db7700f9db30c0b3",
             "type": "leaf",
             "state": {
@@ -83,6 +71,18 @@
               },
               "icon": "lucide-file",
               "title": "True Stability of LakshmiNarayana"
+            }
+          },
+          {
+            "id": "b60fb67b07a1bf9a",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Spiritual/Esoterica revelations.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Esoterica revelations"
             }
           },
           {
