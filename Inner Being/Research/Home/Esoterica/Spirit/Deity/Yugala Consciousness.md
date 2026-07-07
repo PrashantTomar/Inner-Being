@@ -1,7 +1,7 @@
 ---
 Created: 2026-01-07T16:11:00
 Notebook: "[[Deity Notebook - MOC]]"
-modified: 2026-07-06T20:11:07+05:30
+modified: 2026-07-07T19:19:54+05:30
 ---
 Connected topics :
 [[LakshmiNarayana]] - [[Yugala tattva]] - [[1st house]] - [[7th house]] - [[Relationship with Ishta-Devta]]
@@ -79,7 +79,7 @@ Yadvai tat sukṛtam | Raso vai sah | Rasaṁ hyevāyaṁ labdhvānandī bhavati
 
 The underlying texture of reality is revealed to be a vibrant, fluid aesthetic experience—the primordial juice of existence.
 
-  
+
 
 #### 2. The Holographic Totality of Grace (Īśāvāsya Upanishad Invocation)
 
@@ -221,17 +221,13 @@ Because the loop is eternal and ever-changing, Pūrṇatā (wholeness) is never 
 
 To bridge the gap between the experiencing individual and the Yugal Sarkār, the philosophy employs Tripuṭī-Bhaṅga—the radical collapsing or shattering of the triad. In the absolute state of Svātmānanda, mundane lines melt into a singular, fluid continuity:
 
-|                                   |                                                                                                                                                                                          |
-| --------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | The Mundane Triad (Tripuṭī)       | The Epistemological Collapse (Bhaṅga)                                                                                                                                                    |
+| --------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Knower, Knowing, and Known        | The Knower (the soul) and the Known (the Divine) dissolve into the pure act of Knowing—a singular field of illuminated consciousness.                                                    |
 | Seer, Seeing, and Seen            | The Seer and the Seen merge entirely. There is no longer an object of beauty separate from the observer; there is only the self-luminous flash of Sight itself.                          |
 | Lover, Love, and Beloved          | Narayana (the Beloved) and Lakshmi (the Lover) collapse their dual identities into the sheer substance of Love (Śṛṅgāra) itself.                                                         |
 | Worshiper, Worship, and Worshiped | The Worshiper and the Worshiped lose their separate boundaries; the ritual acts of adoration dissolve into pure, undivided devotion where the individual becomes the worship itself.     |
 | Artist, Skill, and Art            | The creator, the creative process, and the masterpiece melt into one. The individual ceases to be a detached maker, becoming instead the live, continuous brushstroke of the cosmic art. |
-|                                   |                                                                                                                                                                                          |
-
- 
   
 ###  V. Structural Mechanics: Śarīra-Śarīrī and Prakāra-Prakārī Bhāva
 
