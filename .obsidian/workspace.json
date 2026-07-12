@@ -11,10 +11,12 @@
             "id": "1b9c5b5fba7f3314",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-07-12 19.24.10.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-07-12 19.24.10.excalidraw"
             }
           },
           {
@@ -151,8 +153,7 @@
               "title": "New tab"
             }
           }
-        ],
-        "currentTab": 10
+        ]
       }
     ],
     "direction": "vertical"
@@ -357,8 +358,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "aa1a46372642717f",
+  "active": "1b9c5b5fba7f3314",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2026-07-12 19.24.10.excalidraw.md",
     "Inner Being/Research/Home/Speculative streams/Raw thought streams.md",
     "Inner Being/Research/Home/Speculative streams/Tracking skill development.md",
     "Inner Being/Research/Home/Esoterica/Spirit/Deity/Yugala Consciousness.md",
@@ -385,7 +387,6 @@
     "Inner Being/Research/Home/Speculative streams/Deha-Mano-Atman ekatva.md",
     "Inner Being/Research/Home/Speculative streams/Comprehension on lessons learned before solely focus on Hari Seva.md",
     "Inner Being/Research/Home/Speculative streams/Chronic stagnancy is delusion, Divine Law a miracle.md",
-    "Inner Being/Research/Home/Speculative streams/Brahmacharya, evil-eyes and fullness of personality.md",
     "Inner Being/Research/Home/Esoterica/Psycho-Spiritual Modeling",
     "Inner Being/Research/Home/Academics/Computer Science",
     "Inner Being/Research/Home/Academics",
