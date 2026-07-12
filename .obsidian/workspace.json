@@ -142,17 +142,13 @@
             }
           },
           {
-            "id": "495c0669b5cbef71",
+            "id": "aa1a46372642717f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inner Being/Research/Home/Speculative streams/Untitled.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "New tab"
             }
           }
         ],
@@ -231,8 +227,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 316.5,
-    "collapsed": true
+    "width": 316.5
   },
   "right": {
     "id": "64c4ba06bba09625",
@@ -362,9 +357,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "495c0669b5cbef71",
+  "active": "aa1a46372642717f",
   "lastOpenFiles": [
-    "Inner Being/Research/Home/Speculative streams/Untitled.md",
+    "Inner Being/Research/Home/Speculative streams/Raw thought streams.md",
     "Inner Being/Research/Home/Speculative streams/Tracking skill development.md",
     "Inner Being/Research/Home/Esoterica/Spirit/Deity/Yugala Consciousness.md",
     "Inner Being/Research/Home/Speculative streams/Disciplined thinking.md",
