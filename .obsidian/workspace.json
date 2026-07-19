@@ -119,13 +119,24 @@
             "id": "aa1a46372642717f",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "98550df9f6d3bb83",
+            "type": "leaf",
+            "state": {
               "type": "empty",
               "state": {},
               "icon": "lucide-file",
               "title": "New tab"
             }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -331,12 +342,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1b9c5b5fba7f3314",
+  "active": "84c9362afe7525c7",
   "lastOpenFiles": [
+    "Inner Being/Research/Home/Speculative streams/Tracking skill development.md",
+    "Inner Being/Research/Home/Speculative streams/Untitled.md",
+    "Excalidraw/Drawing 2026-07-12 19.24.10.excalidraw.md",
     "Inner Being/Research/Home/Speculative streams/Centering into one's own Srim tattva.md",
     "Inner Being/Research/Home/Speculative streams/Disciplined thinking.md",
     "Inner Being/Research/Home/Esoterica/Spirit/Deity/Yugala Consciousness.md",
-    "Inner Being/Research/Home/Speculative streams/Tracking skill development.md",
     "Excalidraw/Spiritual/Esoterica revelations.md",
     "Inner Being/Research/Home/Speculative streams/True Stability of LakshmiNarayana.md",
     "Inner Being/Research/Home/Academics/Computer Science/Developers Essentials.md",
@@ -345,7 +358,6 @@
     "Inner Being/Research/Home/Frequently visited/Frequently visited - 15-Feb-2026.md",
     "Inner Being/Research/Home/Esoterica/Spirit/Deity/Nama-Amrit.md",
     "Inner Being/Research/Home/Speculative streams/Parameshi Jaganmatah.md",
-    "Excalidraw/Drawing 2026-07-12 19.24.10.excalidraw.md",
     "Inner Being/Research/Home/Speculative streams/Raw thought streams.md",
     "Inner Being/Research/Home/Academics/Computer Science/Foundation of web-development.md",
     "Inner Being/Research/Home/Esoterica/Spirit/Philosophical Spirit-Knowledge/Dharma of all the dharma.md",
@@ -359,7 +371,6 @@
     "Inner Being/Research/Home/Speculative streams/Path of nourishment, aesthetics and sringara bhavam.md",
     "Inner Being/Research/Home/Speculative streams/Hrim Srim Tattvam.md",
     "Inner Being/Research/Home/Speculative streams/Hamare Safar ki humse na pucho.md",
-    "Inner Being/Research/Home/Speculative streams/Gift of Semen-Prema-Conjugal Love.md",
     "Inner Being/Research/Home/Esoterica/Psycho-Spiritual Modeling",
     "Inner Being/Research/Home/Academics/Computer Science",
     "Inner Being/Research/Home/Academics",

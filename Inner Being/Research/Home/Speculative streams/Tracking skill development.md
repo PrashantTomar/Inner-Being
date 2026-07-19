@@ -1,7 +1,7 @@
 ---
 Created: 2026-06-28T12:12:00
 Notebook:
-modified: 2026-07-11T10:54:30+05:30
+modified: 2026-07-19T10:47:54+05:30
 ---
 Connected topics :
 
@@ -238,7 +238,6 @@ The Feedback Loop :
     
 - **Sequential Tasting:** Taste your dish at every single stage. Taste the caramelized onions, taste after adding the tomatoes, and taste right before adding the main protein or lentil. This builds a mental database of how a raw, developing dish transforms into a finished masterpiece.
     
-
 
 The Leverage Project :
 
