@@ -1,6 +1,6 @@
 ---
 Created: 2026-07-28T12:39:00
-modified: 2026-07-28T14:35:17+05:30
+modified: 2026-07-28T15:31:18+05:30
 ---
 Connected topics :
 
@@ -18,11 +18,11 @@ Lyrics/ Writeup  :
 
 Devotion is not about religion; it points toward the most fundamental faculty of the human psyche, the capacity to appreciate the mystery and awe of deep love, and of existence itself.
 
-Somedays I find myself more alive than other days, and every time it feels like the first time, I am awaken to something unspeakable, I am awaken to sheer fact that intensity this life has to provide with best possible stability.
+Somedays I find myself more alive than other days, and every time it feels like the first time, I am awaken to something unspeakable, I am awaken to sheer fact that intensity this life has to provide with best possible stability, is unimaginable.
 
 or perhaps words fall short even to estimate this beauty in words.
 
-If your love did not lift and support your spirit, if it brought no positive transformation in a nourishing way, I would argue you have not truly fallen in love ever. This, I feel, is the very core of devotion - the flow of a super-abundance of depth and wonder, which embraces your all imperfections in a way, you feels like a perfection even without having any inherent qualification, so sum total of devotion is always +ve.
+If your love did not lift and support your spirit, if it brought no positive transformation in a nourishing way, I would argue you have not truly fallen in love ever. This, I feel, is the very core of devotion - the flow of a super-abundance of depth and wonder, which embraces your all imperfections in a way, you feel like a perfection even without having any inherent qualification, so sum total of devotion is always +ve.
 
 Vismayo Yogabhumika : Wonder is the fundamental ground of Yoga (union), as they say in Shiva Sutra.
 We are stubborn not for truth, but for our own ego, we don't see what we are really suppose to see sometimes, perhaps sense of devotion melts the blurred understanding between the two.
@@ -41,16 +41,16 @@ But eventually this feels like the most fundamental teaching of love by Bhagwat-
 
 Feels like an epitome of aesthetics that life can touch when you secretly merge divinity in your everyday life and actions.
 
-To feel the conversation between two eternal friend on lighter note :
+To feel the conversation between two eternal friend (Narayana-Arjuna) on lighter note :
 
 " Pick your swords up and fight, you stupid ass "
-" Okay okay, Sorry I am going, Madhav "
+" Okay okay, Sorry ! I am going, Madhavaa "
 .
 .
 
 
 ( Series 2 : Ahirbudhyna - Serpent of deep -
-Episode 2- "Why I choose to be a unit of devotion, and will to do continue of till last breath." )
+Episode 2- "Why I choose to be a unit of devotion, and will  continue to do so till last breath." )
 
 
 
