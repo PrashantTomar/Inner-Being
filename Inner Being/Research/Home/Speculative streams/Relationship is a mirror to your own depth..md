@@ -1,9 +1,9 @@
 ---
 Created: 2026-07-28T10:50:00
-modified: 2026-07-29T12:09:46+05:30
+modified: 2026-07-29T12:52:23+05:30
 ---
 Connected topics :
-[[ Ahirbudhyna - Serpent of deep]]
+[[Hidden side of things]]
 
 ---
 
@@ -30,7 +30,7 @@ but no one can ever truly tell:  is this eccentric couple lost in the delight of
 
 ~ Srinivasayy
 
-( Series 2 : Ahirbudhyna - Serpent of deep -
+( Series 2 : Hidden side of things -
 Episode 1 - "Relationship is a mirror to your own depth" )
 
 
