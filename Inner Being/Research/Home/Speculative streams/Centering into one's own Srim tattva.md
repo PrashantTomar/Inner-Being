@@ -1,7 +1,7 @@
 ---
 Created: 2026-07-08T20:13:00
 Notebook: "[[Philosophical Spirit Knowledge - MOC]]"
-modified: 2026-07-25T20:12:42+05:30
+modified: 2026-07-29T12:09:46+05:30
 ---
 Connected topics :
 
