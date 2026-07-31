@@ -1,6 +1,6 @@
 ---
 Created: 2026-07-28T12:39:00
-modified: 2026-07-30T20:55:10+05:30
+modified: 2026-07-31T11:21:40+05:30
 ---
 Connected topics :
 
@@ -20,7 +20,7 @@ Devotion is not about religion; it points toward the most fundamental faculty of
 
 Somedays I find myself more alive than others, and every time it feels like the first time, I am awaken to something unspeakable, I am awaken to sheer fact that intensity this life has to provide with unshakeable stability, is unimaginable.
 
-or perhaps words fall short even to estimate this beauty in words.
+or perhaps words fall short even to estimate some beauty in words.
 
 If your love did not lift and support your spirit, if it brought no positive transformation in a nourishing way, I would argue you have not truly fallen in love, in truest sense. It's an invitation to look deeper into yourself, to honor your eternal values.
 
