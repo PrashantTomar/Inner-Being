@@ -1,7 +1,7 @@
 ---
 Created: 2026-07-08T20:13:00
 Notebook: "[[Philosophical Spirit Knowledge - MOC]]"
-modified: 2026-07-31T11:33:29+05:30
+modified: 2026-08-05T10:40:27+05:30
 ---
 Connected topics :
 
@@ -24,8 +24,6 @@ Now again on the 4 level of bhauma upadhis, Contemplate the SRIM Tattva.
 Quick note regarding carrer
 :
 Story of momentum, Story of observational depth :-> This is sure-cut sign of transformation, or is it some visible executional skill.
-
-
 
 ---
 

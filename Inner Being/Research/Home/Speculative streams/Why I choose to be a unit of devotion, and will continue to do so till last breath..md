@@ -1,6 +1,6 @@
 ---
 Created: 2026-07-28T12:39:00
-modified: 2026-07-31T11:21:40+05:30
+modified: 2026-08-05T10:54:04+05:30
 ---
 Connected topics :
 
@@ -18,11 +18,11 @@ Lyrics/ Writeup  :
 
 Devotion is not about religion; it points toward the most fundamental faculty of the human psyche, the capacity to appreciate the mystery and awe of deep love, and of existence itself.
 
-Somedays I find myself more alive than others, and every time it feels like the first time, I am awaken to something unspeakable, I am awaken to sheer fact that intensity this life has to provide with unshakeable stability, is unimaginable.
+Somedays I find myself more alive than others, and every time it feels like the first time, I am awaken to something unspeakable, 
 
 or perhaps words fall short even to estimate some beauty in words.
 
-If your love did not lift and support your spirit, if it brought no positive transformation in a nourishing way, I would argue you have not truly fallen in love, in truest sense. It's an invitation to look deeper into yourself, to honor your eternal values.
+If your love did not lift and support your spirit, if it brought no positive transformation at all in any nourishing way, then we might not be close to the edge of love, what to say of entering fully into it. They say, love is always an invitation to look deeper into yourself, to honor your core or eternal values.
 
 This, I feel, is the very core of devotion - the flow of a super-abundance of depth and wonder, which embraces your all imperfections in a way, you feel like a perfection even without having any inherent qualification for it,  sum total of devotion is always +ve even if you are in kurukshetra.
 
