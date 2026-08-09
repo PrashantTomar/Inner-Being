@@ -1,6 +1,6 @@
 ---
 Created: 2026-07-28T12:39:00
-modified: 2026-08-05T10:54:04+05:30
+modified: 2026-08-09T14:43:53+05:30
 ---
 Connected topics :
 
@@ -16,9 +16,11 @@ Word Map / Ideation :
 
 Lyrics/ Writeup  :
 
+Unit of devotion, our fundamental self-identity :
+
 Devotion is not about religion; it points toward the most fundamental faculty of the human psyche, the capacity to appreciate the mystery and awe of deep love, and of existence itself.
 
-Somedays I find myself more alive than others, and every time it feels like the first time, I am awaken to something unspeakable, 
+Somedays I find myself more alive than others, and every time it feels like the first time, I am awaken to something unspeakable, always at the edge of familiarity and newness.
 
 or perhaps words fall short even to estimate some beauty in words.
 
@@ -41,12 +43,12 @@ Our life goes on and we encounter as always, the daily chores of everyday realit
 But eventually this feels like the most fundamental teaching of love by Bhagwat-Gita , When Narayana says to Arjuna in Chapter 8 shloka 7 -
 " Remember Me at all times and fight (perform duty) "
 
-Feels like an epitome of aesthetics that life can touch when you secretly merge divinity in your everyday life and actions.
+Feels like an epitome of beauty that life can touch when you secretly merge divinity in your everyday life and actions.
 
 To feel the conversation between two eternal friend (Narayana-Arjuna) on lighter note :
 
 " Pick your swords up and fight, you stupid ass "
-" Okay okay, Sorry ! I am going, Madhavaa "
+" Okay okay, Sorry ! I am going, Madhavaaa "
 .
 .
 

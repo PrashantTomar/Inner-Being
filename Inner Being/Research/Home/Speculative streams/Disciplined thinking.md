@@ -1,7 +1,7 @@
 ---
 Created: 2026-07-07T11:25:00
 Notebook: "[[Centering Wisdom MOC]]"
-modified: 2026-08-05T11:17:10+05:30
+modified: 2026-08-09T14:12:31+05:30
 ---
 Connected topics :
 
