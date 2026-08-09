@@ -172,6 +172,18 @@
             }
           },
           {
+            "id": "6cee07dc130b3f72",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.13.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.13.4"
+            }
+          },
+          {
             "id": "fe4eeaf09a75728f",
             "type": "leaf",
             "state": {
@@ -406,8 +418,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fe4eeaf09a75728f",
+  "active": "6cee07dc130b3f72",
   "lastOpenFiles": [
+    "Inner Being/Research/Home/Speculative streams/Why I choose to be a unit of devotion, and will continue to do so till last breath..md",
+    "Inner Being/Research/Home/Speculative streams/What the heck is SELF-TRANSFORMATION.md",
+    "Inner Being/Research/Home/Speculative streams/That inherent sadness within you.md",
     "Inner Being/Research/Home/Speculative streams/Toxic devotion vs Prosperous devotion.md",
     "Inner Being/Research/Home/Speculative streams/Centering into one's own Srim tattva.md",
     "Excalidraw/Spiritual/Esoterica revelations.md",
@@ -418,9 +433,6 @@
     "Inner Being/Research/Home/Academics/Computer Science/Developers Essentials.md",
     "Inner Being/Research/Home/Speculative streams/Relationship is a mirror to your own depth..md",
     "Inner Being/Research/Home/Speculative streams/Why I choose to be Self-Obsessed and will continue to do so till last breath.md",
-    "Inner Being/Research/Home/Speculative streams/Why I choose to be a unit of devotion, and will continue to do so till last breath..md",
-    "Inner Being/Research/Home/Speculative streams/What the heck is SELF-TRANSFORMATION.md",
-    "Inner Being/Research/Home/Speculative streams/That inherent sadness within you.md",
     "Inner Being/Research/Home/Speculative streams/Business wisdom.md",
     "Inner Being/Research/Home/Esoterica/Spirit/Deity/Science behind Radha's Viraha.md",
     "Excalidraw/Drawing 2026-07-12 19.24.10.excalidraw.md",
