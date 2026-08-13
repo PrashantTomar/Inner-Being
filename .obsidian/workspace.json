@@ -200,18 +200,6 @@
             }
           },
           {
-            "id": "f43aeb4c48bf69e1",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.13.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.13.7"
-            }
-          },
-          {
             "id": "939bfc0b78eb329e",
             "type": "leaf",
             "state": {
@@ -222,7 +210,7 @@
             }
           }
         ],
-        "currentTab": 14
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -428,15 +416,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f43aeb4c48bf69e1",
+  "active": "a8bcdceeb676985b",
   "lastOpenFiles": [
     "Inner Being/Research/Home/Speculative streams/Disciplined thinking.md",
     "Inner Being/Research/Home/Speculative streams/Centering into one's own Srim tattva.md",
-    "Inner Being/Research/Home/Speculative streams/Yajna priya.md",
-    "Inner Being/Research/Home/Speculative streams/That inherent sadness within you.md",
-    "Inner Being/Research/Home/Speculative streams/What the heck is SELF-TRANSFORMATION.md",
-    "Inner Being/Research/Home/Speculative streams/Why I choose to be a unit of devotion, and will continue to do so till last breath..md",
     "Inner Being/Research/Home/Speculative streams/Why I choose to be Self-Obsessed and will continue to do so till last breath.md",
+    "Inner Being/Research/Home/Speculative streams/What the heck is SELF-TRANSFORMATION.md",
+    "Inner Being/Research/Home/Speculative streams/That inherent sadness within you.md",
+    "Inner Being/Research/Home/Speculative streams/Yajna priya.md",
+    "Inner Being/Research/Home/Speculative streams/Why I choose to be a unit of devotion, and will continue to do so till last breath..md",
     "Inner Being/Research/Home/Speculative streams/Relationship is a mirror to your own depth..md",
     "Excalidraw/Spiritual/Esoterica revelations.md",
     "Inner Being/Research/Home/Speculative streams/True Stability of LakshmiNarayana.md",

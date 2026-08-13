@@ -1,7 +1,7 @@
 ---
 Created: 2026-06-28T12:12:00
 Notebook:
-modified: 2026-08-09T14:12:31+05:30
+modified: 2026-08-13T12:55:12+05:30
 ---
 Connected topics :
 
@@ -175,7 +175,6 @@ The Leverage Project :
 > **Synthesize a Master Architectural Map of an Esoteric Sub-System.** Choose a specific, deep metaphysical text or lineage (such as the _Shiva Sutras_, the _Vijnana Bhairava Tantra_, or the structural layers of non-dual _Vedanta_). Build a comprehensive, hyper-detailed conceptual map or personal documentation framework using a tool like Obsidian. Break down the system's core axioms, its structural steps of cosmological evolution, and its precise, practical methods for shifting conscious awareness, ensuring every abstract principle is tethered to a concrete psychological or meditative practice.
 
 
-
 Yogic Athletic Skills (Specially Burpees) :
 
 burpee as a dynamic vinyasa—a continuous loop of core stabilization, explosive power, and conscious recovery.
@@ -239,9 +238,13 @@ The Feedback Loop :
 - **Sequential Tasting:** Taste your dish at every single stage. Taste the caramelized onions, taste after adding the tomatoes, and taste right before adding the main protein or lentil. This builds a mental database of how a raw, developing dish transforms into a finished masterpiece.
     
 
+
 The Leverage Project :
 
 > **The Five-Layer Daal and Gravy System.** Master the absolute cornerstone of North Indian comfort food: a perfectly textured, rich Daal (like a flawless _Daal Tadka_ or _Makhani_) or a traditional gravy base from scratch. Force yourself to execute a precise, dual-stage flavoring process: boiling the lentils with turmeric and salt to infuse the core, building a separate, deeply caramelized _masala_ paste using oil separation principles, and finishing with a sizzling, fragrant top-tier _tadka_ poured over the dish right before serving.
+
+
+
 
 ----
 
