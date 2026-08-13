@@ -200,6 +200,18 @@
             }
           },
           {
+            "id": "f43aeb4c48bf69e1",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.13.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.13.7"
+            }
+          },
+          {
             "id": "939bfc0b78eb329e",
             "type": "leaf",
             "state": {
@@ -210,7 +222,7 @@
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -416,7 +428,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "943e0c5009e1a355",
+  "active": "f43aeb4c48bf69e1",
   "lastOpenFiles": [
     "Inner Being/Research/Home/Speculative streams/Disciplined thinking.md",
     "Inner Being/Research/Home/Speculative streams/Centering into one's own Srim tattva.md",
