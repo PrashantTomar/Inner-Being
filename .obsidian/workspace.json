@@ -203,14 +203,18 @@
             "id": "939bfc0b78eb329e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Inner Being/Research/Home/Speculative streams/Untitled 1.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Untitled 1"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -416,8 +420,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "98550df9f6d3bb83",
+  "active": "939bfc0b78eb329e",
   "lastOpenFiles": [
+    "Inner Being/Research/Home/Speculative streams/Untitled 1.md",
+    "Inner Being/Research/Home/Esoterica/Spirit/Deity/Yugala Consciousness.md",
     "Excalidraw/Spiritual/Esoterica revelations.md",
     "Inner Being/Research/Home/Speculative streams/Centering into one's own Srim tattva.md",
     "Inner Being/Research/Home/Speculative streams/Disciplined thinking.md",
@@ -432,7 +438,6 @@
     "Daily Workflow/Daily workflow visualization 10 Feb.md",
     "Inner Being/Research/Home/Academics/Computer Science/Developers Essentials.md",
     "Inner Being/Research/Home/Speculative streams/Business wisdom.md",
-    "Inner Being/Research/Home/Esoterica/Spirit/Deity/Yugala Consciousness.md",
     "Inner Being/Research/Home/Esoterica/Spirit/Deity/Science behind Radha's Viraha.md",
     "Excalidraw/Drawing 2026-07-12 19.24.10.excalidraw.md",
     "Inner Being/Research/Home/Speculative streams/Hidden side of things.md",
@@ -443,7 +448,6 @@
     "Inner Being/Research/Home/Speculative streams/Raw thought streams.md",
     "Inner Being/Research/Home/Academics/Computer Science/Foundation of web-development.md",
     "Inner Being/Research/Home/Esoterica/Spirit/Philosophical Spirit-Knowledge/Dharma of all the dharma.md",
-    "Inner Being/Research/Home/Esoterica/Centering Wisdom/Support to the feeling for manifesation.md",
     "Inner Being/Research/Home/Speculative streams/Raw thought Streams.base",
     "Inner Being/Research/Home/Esoterica/Psycho-Spiritual Modeling",
     "Inner Being/Research/Home/Academics/Computer Science",
