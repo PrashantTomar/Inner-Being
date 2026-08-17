@@ -1,7 +1,7 @@
 ---
 Created:
 Notebook:
-modified: 2026-08-17T15:26:21+05:30
+modified: 2026-08-17T16:16:55+05:30
 ---
 Connected topics :
 
@@ -26,7 +26,7 @@ I personally take guru at highest position, Guru is your GOD, so she does.
 
 Now my Guru is Shiva-Shakti as I told you, Non-physical, so they are equivalent to LakshmiNarayana as God is guru. But your guru is a form of your ishta-devta, as your ishta-devta is essence of this reality, that is another matter.
 
-And Her Guru was a real person, or i would rather say, series of real humans, multiple gurus.
+And Her Guru was a real person, who belonged to shiva lineage or i would rather say, series of real humans, multiple gurus.
 
 These were the only thing common in us, now if you are not self-aware of your core value to real depth, you can definitely have delusion that, we might be twinflame, because the experience is so synchronous. 
 
@@ -107,7 +107,7 @@ My statement is just more feminine, all i am saying is "be" Self-honest about yo
 
 our core belief logically point towards " Total radical Self-acceptance is bliss."
 
-and somehow this belief is satisfied beautifully in avirkta-parinamavada.
+and somehow this belief is satisfied beautifully in avirkta-parinama vada.
 
 
 ----
