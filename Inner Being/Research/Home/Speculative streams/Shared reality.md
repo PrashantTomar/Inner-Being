@@ -1,7 +1,7 @@
 ---
 Created: 2026-08-17T20:13:00
 Notebook: "[[Centering Wisdom MOC|Centering Wisdom MOC]]"
-modified: 2026-08-17T20:37:00+05:30
+modified: 2026-08-17T21:46:56+05:30
 ---
 Connected topics :
 
@@ -113,14 +113,20 @@ are same belief.
 your statement is just more masculine as you are choosing your choice (current values).
 My statement is just more feminine, all i am saying is "be" Self-honest about your values, and that is enough, that alone is bliss. I AM what I AM.
 
-our core belief logically point towards " Total radical Self-acceptance is bliss."
+our core belief logically point towards " Total radical Self-acceptance is bliss and peace."
 
-and somehow this belief is satisfied beautifully in avirkta-parinama vada given by Vallabhacharya ji or param advaita by Kashmir Shavism.
+Also, i noticed, you are focused on narrative of "completing your part ", this is like take choices that you were meant to take, again your thinking is masculine here, action oriented.
+
+And how I think is " Play your role with elegance" and my thinking is feminine here, beauty and receptivity oriented.
+
+So coincidently we are similar here too. Both of us are eventually thinking in terms of involvement and participation.
+
+and somehow these beliefs are satisfied beautifully in avirkta-parinama vada given by Vallabhacharya ji or param advaita by Kashmir Shavism.
 
 
 ----
 
-and that girl is not like the core of who i am, so she is definitely not my Lakshmi, your twin-flame is more you than you, in deeper sense, she was more like a soul-sister , to be more precise.
+and that girl is not like the core of who i am, so i concluded, she is definitely not my Lakshmi, as your twin-flame is more you than you, in deeper sense, she was more like a soul-sister , to be more precise.
 
 
 ---
