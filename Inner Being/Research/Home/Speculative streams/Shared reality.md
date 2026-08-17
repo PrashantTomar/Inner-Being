@@ -1,10 +1,11 @@
 ---
-Created:
-Notebook:
-modified: 2026-08-17T19:55:31+05:30
+Created: 2026-08-17T20:13:00
+Notebook: "[[Centering Wisdom MOC|Centering Wisdom MOC]]"
+modified: 2026-08-17T20:37:00+05:30
 ---
 Connected topics :
 
+[[Twin-flame]] - [[Nature of Pavitra Bandhan - Truth of 7th house]]  - [[7th House]]
 
 
 ------------
@@ -42,7 +43,7 @@ Using following analysis :
    
 4. ) but she wasn't like me here, I am dedicated to one ishta and one guru, i love this type of approach to life more.
    
-5. ) Fir her view on romantic relationships were very grounded and practical, she didn't believe much in hardcore lover type of thing, and I believe if god truly will, he can arrange highly romantic and dedicated partner/lover for us, it's no biggie for him.
+5. ) Fir her view on romantic relationships were very grounded and practical, like common people, she didn't believe much in hardcore lover type of thing, and I believe if god truly will, he can arrange highly romantic and dedicated partner/lover for us, it's no biggie for him.
 
 Now with all due respect, she is very right, her path is legit path of spirituality, but totality miss- aligned with my values.
 
@@ -60,7 +61,7 @@ Her core belief was attuned with doctrine Kaivala advaita ( by adi shankarachary
 
 This is known as vivarata-vada, means they believe in maya and moskha is their goal.
 
-which simply say world is maya and god-shiva is ultimately nirguna ( formless), so she was pretty much into the idea of moksha as finally transcending all bondages, so her sadhana was also similar to this. But she respected all her relationships specially family ones. So she ultimately desire to realise herself as formless like shiva.
+which simply say world is maya and god-shiva is ultimately nirguna ( formless), so she was pretty much into the idea of moksha as finally transcending all bondages, so her sadhana was also aligned to this. But she respected all her relationships specially family ones. So she ultimately desire to realize herself as formless like shiva. This is popular and classic approach to spirituality btw.
 
 I mean her main idea was this approximately. And this is philosophy of Lord Shiva, truly.
 
@@ -72,7 +73,7 @@ This is known as avikrita parinama-vada, there is no maya, everything is god, so
 
 God has transformed himself and has become this very world.
 
-So this Neharika along with whole universe, ye paramatma ke hone ka dhang hain, and he don't have any problem in being Neharika.
+So this girl named Neharika along with whole universe, ye paramatma ke hone ka dhang hain, and he don't have any problem in being Neharika.
 In other words,
 The inner most source of Neharika has taken all the forms in this universe.
 
@@ -94,11 +95,16 @@ Also, it removes concept of inside and outside for me, outside is also inside an
 My path is beauty driven, so it's a path of MOON, where i aesthetically relish beauty and emotions of deepest love in highest spiritual sense.
 " Ehsaas bhari mohabbaat "  basically. 
 
-It's a path of celebration, and relationships in life are celebration of beauty of god, we don't abandon people here for moskha, bss just as long as they don't cross marayadas.
+It's a path of celebration and relationships in life are celebration of beauty of god, we don't abandon people here for moskha, bss just as long as they don't cross marayadas.
+
 In SitaRama and LakshmiNarayana, marayada plays very important role, because they have energy of SUN or glorification or ashvarya in them.
 
+You simply realize your inner glory and participate in it, with all might.
+
+Total complete participation in love is liberation.
+
 Coincidently,
-your( Neharika's belief ) : Everything is fine as long as you are at peace with your choices.
+your ( Neharika's belief ) : Everything is fine as long as you are at peace with your choices.
 
 My belief : To thine own self be true.
 
@@ -109,7 +115,7 @@ My statement is just more feminine, all i am saying is "be" Self-honest about yo
 
 our core belief logically point towards " Total radical Self-acceptance is bliss."
 
-and somehow this belief is satisfied beautifully in avirkta-parinama vada.
+and somehow this belief is satisfied beautifully in avirkta-parinama vada given by Vallabhacharya ji or param advaita by Kashmir Shavism.
 
 
 ----
@@ -117,11 +123,7 @@ and somehow this belief is satisfied beautifully in avirkta-parinama vada.
 and that girl is not like the core of who i am, so she is definitely not my Lakshmi, your twin-flame is more you than you, in deeper sense, she was more like a soul-sister , to be more precise.
 
 
-
-
-
-
-
+---
 
 
 

@@ -205,12 +205,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inner Being/Research/Home/Speculative streams/Untitled 1.md",
+                "file": "Inner Being/Research/Home/Speculative streams/Shared reality.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled 1"
+              "title": "Shared reality"
             }
           },
           {
@@ -228,7 +228,7 @@
             }
           }
         ],
-        "currentTab": 14
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -249,7 +249,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -303,7 +305,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 635.5,
     "collapsed": true
   },
   "right": {
@@ -434,25 +436,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "939bfc0b78eb329e",
+  "active": "943e0c5009e1a355",
   "lastOpenFiles": [
-    "Inner Being/Research/Home/Speculative streams/True Love.md",
-    "Inner Being/Research/Home/Speculative streams/Why I choose to be a unit of devotion, and will continue to do so till last breath..md",
-    "Inner Being/Research/Home/Speculative streams/Why I choose to be Self-Obsessed and will continue to do so till last breath.md",
-    "Inner Being/Research/Home/Speculative streams/Relationship is a mirror to your own depth..md",
-    "Excalidraw/Spiritual/Esoterica revelations.md",
-    "Inner Being/Research/Home/Speculative streams/Disciplined thinking.md",
+    "Inner Being/Research/Home/Speculative streams/Shared reality.md",
     "Inner Being/Research/Home/Speculative streams/Centering into one's own Srim tattva.md",
-    "Inner Being/Research/Home/Speculative streams/What the heck is SELF-TRANSFORMATION.md",
-    "Inner Being/Research/Home/Speculative streams/That inherent sadness within you.md",
-    "Inner Being/Research/Home/Speculative streams/Yajna priya.md",
-    "Inner Being/Research/Home/Speculative streams/Untitled 1.md",
-    "Inner Being/Research/Home/Esoterica/Spirit/Deity/Yugala Consciousness.md",
-    "Inner Being/Research/Home/Speculative streams/True Stability of LakshmiNarayana.md",
+    "Inner Being/Research/Home/Speculative streams/Disciplined thinking.md",
     "Inner Being/Research/Home/Speculative streams/Tracking skill development.md",
+    "Inner Being/Research/Home/Speculative streams/True Stability of LakshmiNarayana.md",
     "Daily Workflow/Daily workflow visualization 10 Feb.md",
     "Inner Being/Research/Home/Academics/Computer Science/Developers Essentials.md",
     "Inner Being/Research/Home/Speculative streams/Business wisdom.md",
+    "Excalidraw/Spiritual/Esoterica revelations.md",
+    "Inner Being/Research/Home/Speculative streams/Relationship is a mirror to your own depth..md",
+    "Inner Being/Research/Home/Speculative streams/Why I choose to be Self-Obsessed and will continue to do so till last breath.md",
+    "Inner Being/Research/Home/Speculative streams/Why I choose to be a unit of devotion, and will continue to do so till last breath..md",
+    "Inner Being/Research/Home/Speculative streams/What the heck is SELF-TRANSFORMATION.md",
+    "Inner Being/Research/Home/Speculative streams/That inherent sadness within you.md",
+    "Inner Being/Research/Home/Speculative streams/Yajna priya.md",
+    "Inner Being/Research/Home/Speculative streams/True Love.md",
+    "Inner Being/Research/Home/Esoterica/Inner Astrology/Nature of Pavitra Bandhan - Truth of 7th house.md",
+    "Inner Being/Research/Home/Esoterica/Spirit/Deity/Yugala Consciousness.md",
     "Inner Being/Research/Home/Esoterica/Spirit/Deity/Science behind Radha's Viraha.md",
     "Excalidraw/Drawing 2026-07-12 19.24.10.excalidraw.md",
     "Inner Being/Research/Home/Speculative streams/Hidden side of things.md",
@@ -461,7 +464,6 @@
     "Inner Being/Research/Home/Esoterica/Spirit/Deity/Nama-Amrit.md",
     "Inner Being/Research/Home/Speculative streams/Parameshi Jaganmatah.md",
     "Inner Being/Research/Home/Speculative streams/Raw thought streams.md",
-    "Inner Being/Research/Home/Academics/Computer Science/Foundation of web-development.md",
     "Inner Being/Research/Home/Speculative streams/Raw thought Streams.base",
     "Inner Being/Research/Home/Esoterica/Psycho-Spiritual Modeling",
     "Inner Being/Research/Home/Academics/Computer Science",
