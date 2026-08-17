@@ -1,7 +1,7 @@
 ---
 Created:
 Notebook:
-modified: 2026-08-17T14:34:59+05:30
+modified: 2026-08-17T15:26:21+05:30
 ---
 Connected topics :
 
@@ -33,10 +33,16 @@ These were the only thing common in us, now if you are not self-aware of your co
 But by grace of Narayana, I realised I am not her Narayana.
 
 Using following analysis : 
-1. ) She worshipped multiple gods, hanuman ji, ram ji, shiv ji, Narayana ji, Lakshmi ji, Maa Lalita tripura sundari, Maa Kamakhya but her ishta devta was hanuman ji, as she said to me.
+1. ) She worshipped multiple gods, hanuman ji, ram ji, shiv ji, Narayana ji, Lakshmi ji, Maa Lalita 
+   tripura sundari, Maa Kamakhya but her ishta devta was hanuman ji, as she said to me.
+   
 2. ) She used to daily worship Narayana and adore him. okay thats cool and fine.
+   
 3. ) Now, she was not into divine couple worship as such, she followed shiva-shakti analogy that left side is shakti and right side is shiva. divine feminine and masculine, and worship shiv-shakti in srividiya style.
-4. ) but she wasn't like me here, I am very one-sided type lover, lakshmiNarayana means only lakshmiNarayana, fir nothing else. " Only you is what i believe".
+   
+4. ) but she wasn't like me here, I am very one-sided type lover, lakshmiNarayana means only lakshmiNarayana, fir nothing else. " Only you is what i believe". Fortunately, my eye truly fell on someone meant for me, in my personal life.
+   Sometimes people can obsessed altogether over wrong people/association , so this "Only you, can be dangerous too".   
+   
 5. ) Fir her view on relationships were not like an ashiq, vo itna believe nahi krti thi ashiqi type chizon main, she was very practical in relationship, definitely monogamous but very practical.
    This was again a big NO NO for me.
 
