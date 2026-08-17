@@ -1,7 +1,7 @@
 ---
 Created:
 Notebook:
-modified: 2026-08-17T16:16:55+05:30
+modified: 2026-08-17T19:55:31+05:30
 ---
 Connected topics :
 
@@ -40,11 +40,9 @@ Using following analysis :
    
 3. ) Now, she was not into divine couple worship as such, she followed shiva-shakti analogy that left side is shakti and right side is shiva. divine feminine and masculine, and worship shiv-shakti in srividiya style.
    
-4. ) but she wasn't like me here, I am very one-sided type lover, lakshmiNarayana means only lakshmiNarayana, fir nothing else. " Only you is what i believe". Fortunately, my eye truly fell on someone meant for me, in my personal life.
-   Sometimes people can obsessed altogether over wrong people/association , so this "Only you, can be dangerous too".   
+4. ) but she wasn't like me here, I am dedicated to one ishta and one guru, i love this type of approach to life more.
    
-5. ) Fir her view on relationships were not like an ashiq, vo itna believe nahi krti thi ashiqi type chizon main, she was very practical in relationship, definitely monogamous but very practical.
-   This was again a big NO NO for me.
+5. ) Fir her view on romantic relationships were very grounded and practical, she didn't believe much in hardcore lover type of thing, and I believe if god truly will, he can arrange highly romantic and dedicated partner/lover for us, it's no biggie for him.
 
 Now with all due respect, she is very right, her path is legit path of spirituality, but totality miss- aligned with my values.
 
@@ -70,21 +68,25 @@ My core belief is closely attuned with doctrine of shuddha advaita and Paramadva
 
 This is also philosophy of lord shiva, rudra sampradaya.
 
-This is known as avikrita parinama-vada, there is no maya, everything is god, so if everything is god, life is not about moskha but celebrating one self, celebrating ones beauty, celebrating our relationship with GOD. God has trransformed himself into world itself.
+This is known as avikrita parinama-vada, there is no maya, everything is god, so if everything is god, life is not about moskha but celebrating one self, celebrating ones beauty, celebrating our relationship with GOD. And participate in life with totality. Love and participate in his beauty, that's our only duty.
+
+God has transformed himself and has become this very world.
 
 So this Neharika along with whole universe, ye paramatma ke hone ka dhang hain, and he don't have any problem in being Neharika.
+In other words,
 The inner most source of Neharika has taken all the forms in this universe.
 
 So we don't have to change our core in order to do better in life, we just have to make intelligent and loving choices, it's just a matter of sharpening intelligence and deepening love.
 
 " Cuz, girl you are amazing just the way you are " - Says Bruno Mars.
-This is radical self-acceptance.
+This is the path of radical self-acceptance.
 
 This beautiful doctrine introduced to me to the fact that i can love the same person again and again till all eternity, I am a heart deep lover so this is what truly resonated to me.
 
-this whole universe is a body of god, and we are their body parts. Ground of his being is same as ground of my being, if we are prana then he is our prana-naath. 
+this whole universe is a body of god, and we are their body parts. Ground of his being is same as ground of my being, if prana is our self-identity then he is our prana-naath. 
 
-Its just that beauty of true SELF or GOD is Concealed from us, as a part of LILA.
+Its just that beauty of our true SELF or GOD is Concealed from us, as a part of LILA.
+
 God is a mysterious being, deepest lover, full of bliss, who never ceases to surprise us in all eternity.
 
 Also, it removes concept of inside and outside for me, outside is also inside and vice-versa.
