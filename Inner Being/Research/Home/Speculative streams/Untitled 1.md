@@ -1,7 +1,7 @@
 ---
 Created:
 Notebook:
-modified: 2026-08-17T13:40:59+05:30
+modified: 2026-08-17T14:34:59+05:30
 ---
 Connected topics :
 
@@ -76,7 +76,9 @@ This is radical self-acceptance.
 
 This beautiful doctrine introduced to me to the fact that i can love the same person again and again till all eternity, I am a heart deep lover so this is what truly resonated to me.
 
-this whole universe is a body of god, and we are their body parts. Its just that beauty of SELF or GOD is Concealed from us, as a part of LILA.
+this whole universe is a body of god, and we are their body parts. Ground of his being is same as ground of my being, if we are prana then he is our prana-naath. 
+
+Its just that beauty of true SELF or GOD is Concealed from us, as a part of LILA.
 God is a mysterious being, deepest lover, full of bliss, who never ceases to surprise us in all eternity.
 
 Also, it removes concept of inside and outside for me, outside is also inside and vice-versa.
@@ -95,7 +97,7 @@ My belief : To thine own self be true.
 are same belief.
 
 your statement is just more masculine as you are choosing your choice (current values).
-My statement is just more feminine, all i am saying is "be" Self-honest about your values, and that is enough, that alone is bliss.
+My statement is just more feminine, all i am saying is "be" Self-honest about your values, and that is enough, that alone is bliss. I AM what I AM.
 
 our core belief logically point towards " Total radical Self-acceptance is bliss."
 
