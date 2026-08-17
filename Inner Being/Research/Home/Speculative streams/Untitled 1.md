@@ -1,7 +1,7 @@
 ---
 Created:
 Notebook:
-modified: 2026-08-17T12:54:41+05:30
+modified: 2026-08-17T13:40:59+05:30
 ---
 Connected topics :
 
@@ -11,7 +11,7 @@ Connected topics :
 
 Note : 
 
-I pray that my words be align with truth to my best of ability and knowledge.
+I pray that my words be align with truth to my best of ability, knowledge and precision.
 
 We will go in systematic manner -
 
@@ -24,7 +24,7 @@ Narayana tattva is sattva oriented, sweet, calm, tolerant, receptive, natural ca
 Now both she and me, had these quality, so this is fine, plus interesting thing is, both of us had same attitude/mood in terms of worshiping guru essence. This is was very coincidental.
 I personally take guru at highest position, Guru is your GOD, so she does.
 
-Now my Guru is Shiva-Shakti as I told you, Non-physical, so they are equivalent to LakshmiNarayana as God is guru. But your guru is a form of your ishta-devta, that is another matter.
+Now my Guru is Shiva-Shakti as I told you, Non-physical, so they are equivalent to LakshmiNarayana as God is guru. But your guru is a form of your ishta-devta, as your ishta-devta is essence of this reality, that is another matter.
 
 And Her Guru was a real person, or i would rather say, series of real humans, multiple gurus.
 
@@ -62,25 +62,30 @@ I mean her main idea was this approximately. And this is philosophy of Lord Shiv
 
 My core belief is closely attuned with doctrine of shuddha advaita and Paramadvaita :
 
+This is also philosophy of lord shiva, rudra sampradaya.
+
 This is known as avikrita parinama-vada, there is no maya, everything is god, so if everything is god, life is not about moskha but celebrating one self, celebrating ones beauty, celebrating our relationship with GOD. God has trransformed himself into world itself.
 
 So this Neharika along with whole universe, ye paramatma ke hone ka dhang hain, and he don't have any problem in being Neharika.
-The inner most source of Neharika as taken all the forms in this universe.
+The inner most source of Neharika has taken all the forms in this universe.
 
-So we don't have to change our core in order to do better in life, we just have to make intelligent choices, it's just a matter of sharpening intelligence.
+So we don't have to change our core in order to do better in life, we just have to make intelligent and loving choices, it's just a matter of sharpening intelligence and deepening love.
 
 " Cuz, girl you are amazing just the way you are " - Says Bruno Mars.
+This is radical self-acceptance.
 
 This beautiful doctrine introduced to me to the fact that i can love the same person again and again till all eternity, I am a heart deep lover so this is what truly resonated to me.
 
-this whole universe is a body of god, and we are their body parts. Its just that beauty of SELF or GOD is Concealed from us, as apart of lila.
+this whole universe is a body of god, and we are their body parts. Its just that beauty of SELF or GOD is Concealed from us, as a part of LILA.
 God is a mysterious being, deepest lover, full of bliss, who never ceases to surprise us in all eternity.
 
 Also, it removes concept of inside and outside for me, outside is also inside and vice-versa.
 
 My path is beauty driven, so it's a path of MOON, where i aesthetically relish beauty and emotions of deepest love in highest spiritual sense.
+" Ehsaas bhari mohabbaat "  basically. 
+
 It's a path of celebration, and relationships in life are celebration of beauty of god, we don't abandon people here for moskha, bss just as long as they don't cross marayadas.
-In SItaRama and LakshmiNarayana, marayada plays very important role, because they have energy of SUN or glorification or ashvarya in them.
+In SitaRama and LakshmiNarayana, marayada plays very important role, because they have energy of SUN or glorification or ashvarya in them.
 
 Coincidently,
 your( Neharika's belief ) : Everything is fine as long as you are at peace with your choices.
@@ -96,7 +101,10 @@ our core belief logically point towards " Total radical Self-acceptance is bliss
 
 and somehow this belief is satisfied beautifully in avirkta-parinamavada.
 
-and that girl is not like me, so she is definitely not my Lakshmi, but rather like a sister soul, to be more precise.
+
+----
+
+and that girl is not like the core of who i am, so she is definitely not my Lakshmi, your twin-flame is more you than you, in deeper sense, she was more like a soul-sister , to be more precise.
 
 
 
