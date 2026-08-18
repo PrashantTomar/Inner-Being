@@ -1,7 +1,7 @@
 ---
 Created: 2026-08-17T20:13:00
 Notebook: "[[Centering Wisdom MOC|Centering Wisdom MOC]]"
-modified: 2026-08-17T22:02:00+05:30
+modified: 2026-08-18T11:35:31+05:30
 ---
 Connected topics :
 
@@ -18,7 +18,7 @@ We will go in systematic manner -
 
 So first I'll emphasis on common qualities in all girls with Lakshmi tattva dominant and man with Narayana tattva dominant -
 
-Lakshmi tattva has rajasic-sattva energy in it, so they are very action oriented and Dayalu, they have sense/desire for abundance, nourishment, ambitious and desire to expand in whatever they do in life, knowledge driven, sensibly aesthetic, straight forward, fickle minded but weirdly at the same time gambhir svabhav, and they don't want to hoard wealth/abundance but circulate it ( aparigraha ). it has aura of action in it,  plus strong heart and sacral ( swadishthana) chakra.
+Lakshmi tattva has rajasic-sattva energy in it, so they are very action oriented and Dayalu, they have sense/desire for abundance, nourishment, ambitious and desire to expand in whatever they do in life, knowledge driven, profit conscious, sensibly aesthetic, straight forward, fickle minded but weirdly at the same time gambhir svabhav, and they don't want to hoard wealth/abundance but circulate it ( aparigraha ). it has aura of action in it,  plus strong heart and sacral ( swadishthana) chakra.
 
 Narayana tattva is sattva oriented, sweet, calm, tolerant, receptive, natural care-taker, mindset to sustain, balance, stabilise and systemise things, self-sacrificing attitude and above all mysterious aura and depth (blueness of him). it has aura of relaxation or letting go or detox to speak in your language, plus strong heart chakra.
 
@@ -131,7 +131,14 @@ and that girl is not like the core of who i am, so i concluded, she is definitel
 
 
 ---
+So from my harakate, I eventually realised that :
 
+Twinflames are not only about intellectually figuring out the connection, else you can introduce greedy business mindset of seeing only profit in this with no servitude and respect.....securing your future type of mindset. Coming from the place of greed rather than service, love and devotion.
+
+but it is more about "Tasting" deepest beauty of connection, this is more soul, heart and taste based rather than rigorous intellectual inquiry.
+
+Just
+' Ehsas bhari mohabaat and gehraiyaan ' 💕✨
 
 
 ----
