@@ -234,9 +234,21 @@
               "icon": "lucide-file",
               "title": "True Love"
             }
+          },
+          {
+            "id": "11739e24a4615ef1",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-08-18 16.11.24.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-08-18 16.11.24.excalidraw"
+            }
           }
         ],
-        "currentTab": 12
+        "currentTab": 17
       }
     ],
     "direction": "vertical"
@@ -444,8 +456,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "787a3d1c393257ed",
+  "active": "11739e24a4615ef1",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2026-08-18 16.11.24.excalidraw.md",
     "Excalidraw/Drawing 2026-08-18 15.14.25.excalidraw.md",
     "Inner Being/Research/Home/Speculative streams/Untitled 1.md",
     "Inner Being/Research/Home/Speculative streams/Shared reality.md",
@@ -471,7 +484,6 @@
     "Inner Being/Research/Home/Speculative streams/Hidden side of things.md",
     "Inner Being/Research/Home/Speculative streams/Untitled.md",
     "Inner Being/Research/Home/Frequently visited/Frequently visited - 15-Feb-2026.md",
-    "Inner Being/Research/Home/Esoterica/Spirit/Deity/Nama-Amrit.md",
     "Inner Being/Research/Home/Speculative streams/Raw thought Streams.base",
     "Inner Being/Research/Home/Esoterica/Psycho-Spiritual Modeling",
     "Inner Being/Research/Home/Academics/Computer Science",
