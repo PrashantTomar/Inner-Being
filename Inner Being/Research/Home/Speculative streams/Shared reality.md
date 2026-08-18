@@ -1,7 +1,7 @@
 ---
 Created: 2026-08-17T20:13:00
 Notebook: "[[Centering Wisdom MOC|Centering Wisdom MOC]]"
-modified: 2026-08-17T21:46:56+05:30
+modified: 2026-08-17T22:02:00+05:30
 ---
 Connected topics :
 
@@ -34,6 +34,7 @@ These were the only thing common in us, now if you are not self-aware of your co
 But by grace of Narayana, I realised I am not her Narayana.
 
 Using following analysis : 
+
 1. ) She worshipped multiple gods, hanuman ji, ram ji, shiv ji, Narayana ji, Lakshmi ji, Maa Lalita 
    tripura sundari, Maa Kamakhya but her ishta devta was hanuman ji, as she said to me.
    
@@ -69,7 +70,7 @@ My core belief is closely attuned with doctrine of shuddha advaita and Paramadva
 
 This is also philosophy of lord shiva, rudra sampradaya.
 
-This is known as avikrita parinama-vada, there is no maya, everything is god, so if everything is god, life is not about moskha but celebrating one self, celebrating ones beauty, celebrating our relationship with GOD. And participate in life with totality. Love and participate in his beauty, that's our only duty.
+This is known as avikrita parinama-vada, there is no maya, everything is god, so if everything is god, life is not about moskha but celebrating one self, celebrating ones beauty, celebrating our relationship with GOD. And participate in life with totality. Love and participate in his beauty, that's our only duty. Tum already mukt hi ho.
 
 God has transformed himself and has become this very world.
 
