@@ -158,17 +158,25 @@
             }
           },
           {
-            "id": "3d93f59d6dcdbb90",
+            "id": "2f2e8f15c7c357bb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "787a3d1c393257ed",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
               "state": {
-                "file": "Inner Being/Research/Home/Speculative streams/What the heck is SELF-TRANSFORMATION.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Drawing 2026-08-18 15.14.25.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "What the heck is SELF-TRANSFORMATION"
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-08-18 15.14.25.excalidraw"
             }
           },
           {
@@ -228,7 +236,7 @@
             }
           }
         ],
-        "currentTab": 14
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -436,8 +444,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "939bfc0b78eb329e",
+  "active": "787a3d1c393257ed",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2026-08-18 15.14.25.excalidraw.md",
+    "Inner Being/Research/Home/Speculative streams/Untitled 1.md",
+    "Inner Being/Research/Home/Speculative streams/Shared reality.md",
     "Inner Being/Research/Home/Speculative streams/True Stability of LakshmiNarayana.md",
     "Inner Being/Research/Home/Speculative streams/Tracking skill development.md",
     "Inner Being/Research/Home/Speculative streams/Disciplined thinking.md",
@@ -450,7 +461,6 @@
     "Inner Being/Research/Home/Speculative streams/That inherent sadness within you.md",
     "Inner Being/Research/Home/Speculative streams/Yajna priya.md",
     "Inner Being/Research/Home/Speculative streams/True Love.md",
-    "Inner Being/Research/Home/Speculative streams/Shared reality.md",
     "Daily Workflow/Daily workflow visualization 10 Feb.md",
     "Inner Being/Research/Home/Academics/Computer Science/Developers Essentials.md",
     "Inner Being/Research/Home/Speculative streams/Business wisdom.md",
@@ -462,8 +472,6 @@
     "Inner Being/Research/Home/Speculative streams/Untitled.md",
     "Inner Being/Research/Home/Frequently visited/Frequently visited - 15-Feb-2026.md",
     "Inner Being/Research/Home/Esoterica/Spirit/Deity/Nama-Amrit.md",
-    "Inner Being/Research/Home/Speculative streams/Parameshi Jaganmatah.md",
-    "Inner Being/Research/Home/Speculative streams/Raw thought streams.md",
     "Inner Being/Research/Home/Speculative streams/Raw thought Streams.base",
     "Inner Being/Research/Home/Esoterica/Psycho-Spiritual Modeling",
     "Inner Being/Research/Home/Academics/Computer Science",
