@@ -1,11 +1,12 @@
 ---
 Created: 2026-08-17T17:53:00
 Notebook:
-modified: 2026-08-17T18:42:25+05:30
+modified: 2026-08-20T12:46:23+05:30
 ---
 Connected topics :
 
 
+[[5th house]] - [[7th house]] - [[Nature of Pavitra Bandhan - Truth of 7th house]] 
 
 ------------
 
