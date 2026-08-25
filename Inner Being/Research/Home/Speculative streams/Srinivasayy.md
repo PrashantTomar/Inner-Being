@@ -1,11 +1,11 @@
 ---
-Created:
-Notebook:
-modified: 2026-08-24T21:34:45+05:30
+Created: 2026-08-25T19:13:00
+Notebook: "[[Philosophical Spirit Knowledge - MOC]]"
+modified: 2026-08-25T19:14:50+05:30
 ---
 Connected topics :
 
-
+[[LakshmiNarayana]] - [[Tantra]] - [[7th house]] - [[Nature of Pavitra Bandhan - Truth of 7th house]] 
 
 ------------
 
