@@ -3,6 +3,7 @@ Created: 2026-01-03T10:56:00
 type:
   - "#Fleeting_default"
 Notebook: "[[Bhu Consciousness - MOC]]"
+modified: 2026-08-30T11:46:53+05:30
 ---
 Connected topics :
 [[Fascia]] - [[kriya shakti]] - [[Lagna]] 
@@ -24,4 +25,4 @@ Canvas Reference :
 
 Note : 
 
-The way Kriya-Shakti is manifest as vitality in 
+The way Kriya-Shakti is manifested in you is vitality. 
