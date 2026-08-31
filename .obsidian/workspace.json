@@ -210,7 +210,7 @@
             }
           }
         ],
-        "currentTab": 14
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -287,7 +287,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 635.5
+    "width": 200
   },
   "right": {
     "id": "64c4ba06bba09625",
@@ -417,7 +417,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9fdcf1d3b5990a07",
+  "active": "3ad08cc429187e6b",
   "lastOpenFiles": [
     "Inner Being/Research/Home/Speculative streams/Adhara-adheya bhava.md",
     "Inner Being/Research/Home/Esoterica/Bhu Consciousness/Breatharian.md",
