@@ -1,7 +1,7 @@
 ---
 Created: 2026-07-08T20:13:00
 Notebook: "[[Philosophical Spirit Knowledge - MOC]]"
-modified: 2026-09-01T11:10:44+05:30
+modified: 2026-09-05T11:07:05+05:30
 ---
 Connected topics :
 
@@ -27,7 +27,7 @@ Story of momentum, Story of observational depth :-> This is sure-cut sign of tra
 
 ---
 
-
+First know your gifts and then refine yourself into them.
 
 
 

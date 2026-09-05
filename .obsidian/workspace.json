@@ -146,30 +146,6 @@
             }
           },
           {
-            "id": "87191927166c9bfb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inner Being/Research/Home/Speculative streams/Why I choose to be a unit of devotion, and will continue to do so till last breath..md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Why I choose to be a unit of devotion, and will continue to do so till last breath."
-            }
-          },
-          {
-            "id": "2f2e8f15c7c357bb",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
             "id": "11739e24a4615ef1",
             "type": "leaf",
             "state": {
@@ -210,7 +186,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -418,22 +394,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "87191927166c9bfb",
+  "active": "9fdcf1d3b5990a07",
   "lastOpenFiles": [
-    "Inner Being/Research/Home/Speculative streams/Adhara-adheya bhava.md",
     "Inner Being/Research/Home/Speculative streams/Designing a freelance business system..md",
     "Excalidraw/Micro-service Business KNSK.excalidraw.md",
+    "Inner Being/Research/Home/Speculative streams/Why I choose to be Self-Obsessed and will continue to do so till last breath.md",
+    "Inner Being/Research/Home/Speculative streams/Relationship is a mirror to your own depth..md",
+    "Inner Being/Research/Home/Esoterica/Bhu Consciousness/Breatharian.md",
+    "Inner Being/Research/Home/Speculative streams/Centering into one's own Srim tattva.md",
+    "Inner Being/Research/Home/Kavyatmak Lehrein/Words from Depth/Why I choose to be a unit of devotion, and will continue to do so till last breath..md",
+    "Inner Being/Research/Home/Speculative streams/Adhara-adheya bhava.md",
     "Daily Workflow/Daily workflow visualization 10 Feb.md",
     "Inner Being/Research/Home/Academics/Computer Science/Developers Essentials.md",
     "Inner Being/Research/Home/Speculative streams/Business wisdom.md",
     "Inner Being/Research/Home/Speculative streams/True Stability of LakshmiNarayana.md",
     "Inner Being/Research/Home/Speculative streams/Tracking skill development.md",
     "Inner Being/Research/Home/Speculative streams/Disciplined thinking.md",
-    "Inner Being/Research/Home/Speculative streams/Centering into one's own Srim tattva.md",
-    "Inner Being/Research/Home/Esoterica/Bhu Consciousness/Breatharian.md",
-    "Inner Being/Research/Home/Speculative streams/Relationship is a mirror to your own depth..md",
-    "Inner Being/Research/Home/Speculative streams/Why I choose to be Self-Obsessed and will continue to do so till last breath.md",
-    "Inner Being/Research/Home/Speculative streams/Why I choose to be a unit of devotion, and will continue to do so till last breath..md",
     "Inner Being/Research/Home/Esoterica/Bhu Consciousness/Fascia Maneur.md",
     "Inner Being/Research/Home/Esoterica/Bhu Consciousness/Enrapport with the body.md",
     "Inner Being/Research/Home/Esoterica/Bhu Consciousness/Body Programming.md",
