@@ -1,10 +1,11 @@
 ---
 Created: 2026-08-30T12:03:00
 Notebook: "[[Centering Wisdom MOC|Centering Wisdom MOC]]"
-modified: 2026-09-15T16:56:04+05:30
+modified: 2026-09-22T19:39:47+05:30
 ---
 Connected topics :
 
+[[Muladhara]] - [[True Stability of LakshmiNarayana]] 
 
 
 ------------
