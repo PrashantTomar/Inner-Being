@@ -1,6 +1,7 @@
 ---
 Created: 2026-02-01T14:11:00
 Notebook: "[[Deity Notebook - MOC]]"
+modified: 2026-10-05T19:55:50+05:30
 ---
 Connected topics :
 [[LakshmiNarayana]] - [[RadhaKrishna]] - [[Yugal Prema]] - [[Yugala tattva]] - [[Yugala Consciousness]] - [[Universal Desires of Bhakta]]  -  [[Conflict in the stories of Radha]] 
@@ -20,7 +21,10 @@ Vrindavan and Dwarka are like two realm where one's ground state revolve around 
 Devotees in accordance with their tendencies/ karmic lessons might bend towards any one these, but in the eyes of Lord [[Krishna]], Vrindavan and Dwarika is same and one essentially.
 
 
- 
+
+ Sadhana Style of [[Nimbarka Sampradaya]]
+
+
 ----
 
 
