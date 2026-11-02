@@ -114,6 +114,18 @@
             }
           },
           {
+            "id": "96700cf279881013",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.14.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.14.5"
+            }
+          },
+          {
             "id": "aa830e06447034fc",
             "type": "leaf",
             "state": {
@@ -170,7 +182,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -378,7 +390,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e599e3027ef258c3",
+  "active": "6e50f4e3ea860dd0",
   "lastOpenFiles": [
     "Inner Being/Research/Home/Speculative streams/Designing a freelance business system..md",
     "Inner Being/Research/Home/Speculative streams/Merging into absolute Beauty.md",
