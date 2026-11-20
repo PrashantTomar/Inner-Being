@@ -1,7 +1,7 @@
 ---
 Created: 2026-07-08T20:13:00
 Notebook: "[[Philosophical Spirit Knowledge - MOC]]"
-modified: 2026-11-19T15:26:27+05:30
+modified: 2026-11-20T11:44:29+05:30
 ---
 Connected topics :
 
@@ -34,10 +34,12 @@ First know your gifts and then refine yourself into them.
 Two insights are coming to me Ghostwriting and colorist business.
 what I have to focus on is business modeling and marketing, becoming good in this.
 
-
-
-
 ----
+
+
+
+
+
 
 
 Status :
